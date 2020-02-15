@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="Helpinator">
+<title>4.5.1 Asociar parámetros al "Comando" de una Opción</title>
+<link rel="stylesheet" type="text/css" href="default.css" />
+
+<link rel="stylesheet" href="globalstyles.css" type="text/css" media="screen" /><script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery.highlight.js"></script>
+<script type="text/javascript" src="highlight.js"></script>	<script type="text/javascript"><!--
+		var sTopicId = top.location.href.substring(top.location.href.lastIndexOf("/") + 1, top.location.href.length);
+		if (top.frames.length == 0)
+			top.location.href = "index.html?" + sTopicId
+		else if (top && top.FrameTOC && top.FrameTOC.SelectTocItem)
+			top.FrameTOC.SelectTocItem(sTopicId);
+	</script>
+</head>
+
+<body>
+<div id="container">
+
+	<table id="header" cellspacing="0" bgcolor="#6FA7D1" >
+  <tr>
+		<td width="74">
+                        <div id="logo">
+			<img src="logo 48x28.png"  width="64" height="64" alt="help" />
+                        </div>
+		</td>
+
+		<td>                       
+			     <h1>4.5.1 Asociar parámetros al "Comando" de una Opción</h1>                     
+		</td>
+		
+		<td width="74">
+			<div id="navprev">
+				<a href="usosavanzados.html">
+				<img src="prevtopic.png" width="32" height="32" alt="previous" />
+				</a>
+			</div>
+			<div id="navnext">
+				<a href="editorgruposopciones.html">
+				<img src="nexttopic.png" width="32" height="32" alt="next"/>
+				</a>
+			</div>
+			
+			
+			
+			
+		</td>
+		
+	</tr>	
+	</table>
+		
+	<div id="breadcrumbs"><a href="guiausuario.html">Guía de Usuario</a>&nbsp;>&nbsp;<a href="usosavanzados.html">Usos avanzados</a>&nbsp;>&nbsp;<a href="asociarparametros.html">Asociar parámetros al "Comando" de una Opción</a></div>
+	
+	<div id="content">
+	
+		
+	
+		<p><span class=rvts1>Opciones con referencia a una aplicación con parametros</span></p>
+<p>La invocación de un ejecutable puede requerir parámetros. Además estos parámetros pueden referirse a ficheros en el disco, y la localización de estos ficheros puede que contenga espacios en blanco. Por ejemplo: <br>"C:\Program Files (x86)\Notepad++\notepad++.exe C:\T mp\test.xml".</p>
+<p>El tratamiento de espacios en blanco presenta problemas, ya que el procesador de comandos (<span class=rvts5>parser</span>) utiliza los espacios en blanco para distinguir los distintos componentes del comando, lo que implica que, en el comando anterior, encontrará 4 objetos: </p>
+<ol style="text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: decimal;">
+<li value=1 style="margin-left: 0px; text-indent: 0px" class=rvps3>"C:\Program Files"</li>
+<li value=2 style="margin-left: 0px; text-indent: 0px" class=rvps3>"(x86)\Notepad++\notepad++.exe"</li>
+<li value=3 style="margin-left: 0px; text-indent: 0px" class=rvps3>"C:\T"</li>
+<li value=4 style="margin-left: 0px; text-indent: 0px" class=rvps3>"mp\test.xml"</li>
+</ol>
+<p class=rvps116>cuando lo que realmente queremos es que encuentre solo dos: </p>
+<ol style="text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: decimal;">
+<li value=1 style="margin-left: 0px; text-indent: 0px" class=rvps3>"C:\Program Files (x86)\Notepad++\notepad++.exe"</li>
+<li value=2 style="margin-left: 0px; text-indent: 0px" class=rvps3>"C:\T mp\test.xml". </li>
+</ol>
+<p>La forma de solventar este problema del procesador de comandos, es <span class=rvts5>englobar</span> cada parámetro <span class=rvts5>problemático</span> entre comillas ("). El comando anterior se debe escribir como:</p>
+<p><span class=rvts9>"</span>C:\Program Files (x86)\Notepad++\notepad++.exe<span class=rvts9>"</span> <span class=rvts9>"</span>C:\T mp\text.xml<span class=rvts9>"</span></p>
+<p>Para facilitar esta especificación de forma cómoda, el <span class=rvts4>Organizador de Estritorio</span> dispone de un formulario específico que facilita esa labor. El siguiente ejemplo muestra su uso:</p>
+<p>El mensaje flotante (<span class=rvts5>tooltip</span>) que aparece cuando el ratón se deja un cierto tiempo sobre una Opción, indica el <span class=rvts4>Comando</span> asociado a dicha Opción. Ver siguiente figura.</p>
+<p class=rvps2><img width=466 height=219 alt="" src="asociarparametros4.png"></p>
+<p>Si pulsamos el botón derecho del ratón cuando está sobre la Opción, aparecerá el menú flotante siguiente:</p>
+<p class=rvps2><img width=892 height=337 alt="" src="asociarparametros5.png"></p>
+<p class=rvps122>Pulsando con el botón izquierdo en la opción del menú "<span class=rvts4>Cambiar Comando</span>" aparecerá el formulario</p>
+<p class=rvps2><img width=815 height=128 alt="" src="asociarparametros6.png"></p>
+<p class=rvps122>Puede añadir cualquier número de parámetros mediante el botón "Añadir Parámetro": cada vez que se pulse aparecerá una caja de texto donde puede teclear cualquier texto, que incluso incluya espacios en blanco, pero no el carácter '"'.</p>
+<p>El botón "<span class=rvts4>Comprobacion Comando</span>" le permitirá comprobar que la aplicación se ejecuta correctamente de acuerdo con los parámetros introducidos, antes de pulsar "<span class=rvts4>Volver</span>" para retornar a la <a class=rvts146 href="vistanormal.html">Vista estandard</a>.</p>
+
+		<div class="spacer15px"></div>
+		<div id="seealso">Temas relacionados:<br><a href="aplicacionconparametros.html">Ejecución de aplicaciones con parámetros</a></div>
+		<div class="spacer15px"></div>
+		
+	</div>
+	
+	<div class="spacer5px"></div>
+	
+	<div id="footer">
+	&copy; 2019 ACM SL (Automated Computing Machinery SL)
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,296 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link type="text/css" href="jqueryui.css" rel="stylesheet" />	
+		<link rel="stylesheet" href="jquery.treeview.css" />
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jqueryui.js"></script>
+		<script type="text/javascript" src="index.js"></script>
+		<script type="text/javascript" src="search.js"></script>
+
+		<script type="text/javascript">
+			$(function() {
+				$("#tabs").tabs();
+			});
+		</script>
+
+		<script src="jquery.treeview.js" type="text/javascript"></script>
+		<script>
+			$(document).ready(function(){
+		
+				$("#contents").treeview({
+					persist: "location",
+					collapsed: true,
+					unique: true
+				});
+
+				$("#index").treeview({
+					persist: "location",
+					collapsed: true,
+					unique: true
+				});
+
+		        });
+
+		function SelectTocItem(sLinkHref)
+		{
+			$(".file a").each(function()
+			{
+				if ($.inArray(sLinkHref + '.htm', this.href) > -1) $(this).css('font-weight', 'bold')
+				else $(this).css('font-weight', '');
+			});
+		}
+
+		</script>
+		<style type="text/css">
+			/*demo page css*/
+			body{ font-size: 70%;}
+		</style>	
+
+</head>
+<body>
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1">Contenido</a></li>
+		<li><a href="#tabs-2">Índice</a></li>
+		<li><a href="#tabs-3">Búsqueda</a></li>
+	</ul>
+	<div id="tabs-1">
+<ul id="contents" class="filetree">
+<li><span class="file"><a href="interfazusuario.html" target="RightFrame">1. Descripción de la interfaz de usuario</a></span>
+</li>
+<li><span class="folder"><a href="propositos.html" target="RightFrame">2. Objetivos de esta aplicación</a></span>
+<ul>
+<li><span class="file"><a href="accesoficheros.html" target="RightFrame">2.1 Acceso a documentos a través de nombres significativos</a></span>
+</li>
+<li><span class="file"><a href="accesoaplicaciones.html" target="RightFrame">2.2 Acceso a aplicaciones con parámetros particulares a través de nombres significativos</a></span>
+</li>
+<li><span class="file"><a href="agruparficherosaplicaciones2.html" target="RightFrame">2.3 Agrupar documentos y aplicaciones con criterios funcionales</a></span>
+</li>
+<li><span class="file"><a href="comentarioinformativo.html" target="RightFrame">2.4 Mantener información significativa sobre documentos y aplicaciones con parámetros específicos</a></span>
+</li>
+<li><span class="file"><a href="taxonomias.html" target="RightFrame">2.5 Acceso mediante etiquetas</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="file"><a href="instalacion.html" target="RightFrame">3. Instalación</a></span>
+</li>
+<li><span class="folder"><a href="guiausuario.html" target="RightFrame">4. Guía de Usuario</a></span>
+<ul>
+<li><span class="file"><a href="ejecucionaplicacion.html" target="RightFrame">4.1 Ejecución de la aplicación</a></span>
+</li>
+<li><span class="folder"><a href="abrirficherob.html" target="RightFrame">4.2 Vistas posibles</a></span>
+<ul>
+<li><span class="file"><a href="vistanormal.html" target="RightFrame">4.2.1 Vista estandar</a></span>
+</li>
+<li><span class="file"><a href="vistaarboletiquetas.html" target="RightFrame">4.2.2 Vista por arbol de etiquetas</a></span>
+</li>
+<li><span class="file"><a href="busqueda.html" target="RightFrame">4.2.3 Vista para búsquedas por texto y etiquetas</a></span>
+</li>
+<li><span class="file"><a href="vistafechaultimaejecucion.html" target="RightFrame">4.2.4 Vista por fecha de última ejecución</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="creacionficheroconfig.html" target="RightFrame">4.3 Creación de un fichero de configuración</a></span>
+<ul>
+<li><span class="file"><a href="ediciongruposyopciones.html" target="RightFrame">4.3.1 Elección del procedimiento de edición</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="editarficherob.html" target="RightFrame">4.4 Edición de un fichero de configuración</a></span>
+<ul>
+<li><span class="file"><a href="anadirgrupo.html" target="RightFrame">4.4.1 Grupos : Creación, edición y eliminación</a></span>
+</li>
+<li><span class="folder"><a href="edicionopciones.html" target="RightFrame">4.4.2 Opciones : Creación, edicion y eliminación</a></span>
+<ul>
+<li><span class="folder"><a href="creacionopciones.html" target="RightFrame">4.4.2.1 Creación de Opciones</a></span>
+<ul>
+<li><span class="file"><a href="arrastrarysoltar.html" target="RightFrame">4.4.2.1.1 Arrastrar y soltar</a></span>
+</li>
+<li><span class="file"><a href="menuanadiropcion.html" target="RightFrame">4.4.2.1.2 Menu 'Añadir Opción'</a></span>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="edicioncomentario.html" target="RightFrame">4.4.3 Edición del Comentario</a></span>
+<ul>
+<li><span class="file"><a href="insertarparrafo.html" target="RightFrame">4.4.3.1 Insertar un nuevo párrafo</a></span>
+</li>
+<li><span class="file"><a href="cambiotextonegrita.html" target="RightFrame">4.4.3.2 Cambiar a negrita, cursiva o subrayado</a></span>
+</li>
+<li><span class="file"><a href="insertarimagen.html" target="RightFrame">4.4.3.3 Insertar imagen</a></span>
+</li>
+<li><span class="file"><a href="insertarhiperenlace.html" target="RightFrame">4.4.3.4 Insertar hiperenlace</a></span>
+</li>
+<li><span class="file"><a href="elementoshtml.html" target="RightFrame">4.4.3.5 Listado de elementos HTML de los Comentarios</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="file"><a href="edicionetiquetas.html" target="RightFrame">4.4.4 Edición de etiquetas</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="usosavanzados.html" target="RightFrame">4.5 Usos avanzados</a></span>
+<ul>
+<li><span class="file"><a href="asociarparametros.html" target="RightFrame">4.5.1 Asociar parámetros al "Comando" de una Opción</a></span>
+</li>
+<li><span class="folder"><a href="editorgruposopciones.html" target="RightFrame">4.5.2 Editor combinado de Grupos y Opciones</a></span>
+<ul>
+<li><span class="file"><a href="ediciongrupos.html" target="RightFrame">4.5.2.1 Grupos: añadir, editar, borrar</a></span>
+</li>
+<li><span class="file"><a href="egoopciones.html" target="RightFrame">4.5.2.2 Opciones: añadir, editar, borrar</a></span>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="casosdeuso.html" target="RightFrame">5. Casos de uso</a></span>
+<ul>
+<li><span class="file"><a href="aplicacionconparametros.html" target="RightFrame">5.1 Ejecución de aplicaciones con parámetros</a></span>
+</li>
+<li><span class="file"><a href="albumfotos.html" target="RightFrame">5.2 Album de fotos</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="file"><a href="paradigmasdeuso.html" target="RightFrame">6. Paradigmas de uso</a></span>
+</li>
+
+</li>
+</ul>
+
+	</div>
+	<div id="tabs-2">
+<ul id="index">
+<li><a href="abrirficherob.html" target="RightFrame">abrir</a>
+</li>
+<li><a href="kw-acceso.html" target="RightFrame">acceso</a>
+</li>
+<li><a href="agruparficherosaplicaciones2.html" target="RightFrame">agrupacion</a>
+</li>
+<li><a href="kw-agrupar.html" target="RightFrame">agrupar</a>
+</li>
+<li><a href="anadirgrupo.html" target="RightFrame">anadir</a>
+</li>
+<li><a href="kw-aplicacion.html" target="RightFrame">aplicacion</a>
+</li>
+<li><a href="kw-aplicaciones.html" target="RightFrame">aplicaciones</a>
+</li>
+<li><a href="vistaarboletiquetas.html" target="RightFrame">arbol</a>
+</li>
+<li><a href="arrastrarysoltar.html" target="RightFrame">arrastrar</a>
+</li>
+<li><a href="asociarparametros.html" target="RightFrame">asociar</a>
+</li>
+<li><a href="usosavanzados.html" target="RightFrame">avanzado</a>
+</li>
+<li><a href="kw-añadir.html" target="RightFrame">añadir</a>
+</li>
+<li><a href="kw-borrar.html" target="RightFrame">borrar</a>
+</li>
+<li><a href="asociarparametros.html" target="RightFrame">comando</a>
+</li>
+<li><a href="kw-comentario.html" target="RightFrame">comentario</a>
+</li>
+<li><a href="kw-creacion.html" target="RightFrame">creacion</a>
+</li>
+<li><a href="cambiotextonegrita.html" target="RightFrame">cursiva</a>
+</li>
+<li><a href="creacionficheroconfig.html" target="RightFrame">desplazandose</a>
+</li>
+<li><a href="ejecucionaplicacion.html" target="RightFrame">dto</a>
+</li>
+<li><a href="kw-edicion.html" target="RightFrame">edicion</a>
+</li>
+<li><a href="kw-editar.html" target="RightFrame">editar</a>
+</li>
+<li><a href="kw-editor-combinado.html" target="RightFrame">editor combinado</a>
+</li>
+<li><a href="kw-etiqueta.html" target="RightFrame">etiqueta</a>
+</li>
+<li><a href="kw-fichero.html" target="RightFrame">fichero</a>
+</li>
+<li><a href="kw-fichero-configuracion.html" target="RightFrame">fichero configuracion</a>
+</li>
+<li><a href="propositos.html" target="RightFrame">fichero de configuracion</a>
+</li>
+<li><a href="albumfotos.html" target="RightFrame">fotos</a>
+</li>
+<li><a href="kw-grupo.html" target="RightFrame">grupo</a>
+</li>
+<li><a href="insertarhiperenlace.html" target="RightFrame">hiperenlace</a>
+</li>
+<li><a href="elementoshtml.html" target="RightFrame">html</a>
+</li>
+<li><a href="insertarimagen.html" target="RightFrame">imagen</a>
+</li>
+<li><a href="instalacion.html" target="RightFrame">instalacion</a>
+</li>
+<li><a href="interfazusuario.html" target="RightFrame">interfaz</a>
+</li>
+<li><a href="kw-mauricio.html" target="RightFrame">mauricio</a>
+</li>
+<li><a href="menuanadiropcion.html" target="RightFrame">menu</a>
+</li>
+<li><a href="cambiotextonegrita.html" target="RightFrame">negrita</a>
+</li>
+<li><a href="kw-opcion.html" target="RightFrame">opcion</a>
+</li>
+<li><a href="edicionopciones.html" target="RightFrame">opciones</a>
+</li>
+<li><a href="insertarparrafo.html" target="RightFrame">p</a>
+</li>
+<li><a href="paradigmasdeuso.html" target="RightFrame">paradigma</a>
+</li>
+<li><a href="kw-parametro.html" target="RightFrame">parametro</a>
+</li>
+<li><a href="insertarparrafo.html" target="RightFrame">parrafo</a>
+</li>
+<li><a href="arrastrarysoltar.html" target="RightFrame">soltar</a>
+</li>
+<li><a href="cambiotextonegrita.html" target="RightFrame">subrayado</a>
+</li>
+<li><a href="kw-taxonomia.html" target="RightFrame">taxonomia</a>
+</li>
+<li><a href="busqueda.html" target="RightFrame">texto libre</a>
+</li>
+<li><a href="vistafechaultimaejecucion.html" target="RightFrame">ultima ejecucion</a>
+</li>
+<li><a href="paradigmasdeuso.html" target="RightFrame">uso</a>
+</li>
+<li><a href="interfazusuario.html" target="RightFrame">usuario</a>
+</li>
+<li><a href="kw-vista.html" target="RightFrame">vista</a>
+</li>
+</ul>
+
+	</div>
+	<div id="tabs-3">
+		<form onsubmit="requery();return false">
+			<input id="squery" type="text" name="q" autocomplete="off"/>
+			<input type="button" value=">" onclick="requery()">
+		</form>
+
+		<p>
+		<div id="results">
+		</div>
+
+	</div>
+</div>
+
+</body>
+</html>
