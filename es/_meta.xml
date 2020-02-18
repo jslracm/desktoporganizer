@@ -57,10 +57,10 @@
       <topicid>egoopciones</topicid>
     </item>
     <item keyword="aplicacion">
-      <topicid>accesoaplicaciones</topicid>
       <topicid>taxonomias</topicid>
       <topicid>ejecucionaplicacion</topicid>
       <topicid>aplicacionconparametros</topicid>
+      <topicid>accesoaplicaciones</topicid>
     </item>
     <item keyword="aplicaciones"/>
     <item keyword="arbol"/>
@@ -101,16 +101,16 @@
       <topicid>egoopciones</topicid>
     </item>
     <item keyword="etiqueta">
-      <topicid>propositos</topicid>
       <topicid>taxonomias</topicid>
       <topicid>vistaarboletiquetas</topicid>
-      <topicid>edicionetiquetas</topicid>
       <topicid>busqueda</topicid>
+      <topicid>edicionetiquetas</topicid>
+      <topicid>propositos</topicid>
     </item>
     <item keyword="fichero">
-      <topicid>accesoficheros</topicid>
       <topicid>abrirficherob</topicid>
       <topicid>editarficherob</topicid>
+      <topicid>accesoficheros</topicid>
     </item>
     <item keyword="fichero configuracion">
       <topicid>creacionficheroconfig</topicid>
@@ -119,11 +119,11 @@
     <item keyword="fichero de configuracion"/>
     <item keyword="fotos"/>
     <item keyword="grupo">
-      <topicid>propositos</topicid>
       <topicid>ediciongruposyopciones</topicid>
       <topicid>anadirgrupo</topicid>
       <topicid>editorgruposopciones</topicid>
       <topicid>ediciongrupos</topicid>
+      <topicid>propositos</topicid>
     </item>
     <item keyword="hiperenlace"/>
     <item keyword="html"/>
@@ -134,12 +134,12 @@
     <item keyword="menu"/>
     <item keyword="negrita"/>
     <item keyword="opcion">
-      <topicid>propositos</topicid>
       <topicid>ediciongruposyopciones</topicid>
       <topicid>creacionopciones</topicid>
       <topicid>menuanadiropcion</topicid>
       <topicid>editorgruposopciones</topicid>
       <topicid>egoopciones</topicid>
+      <topicid>propositos</topicid>
     </item>
     <item keyword="opciones"/>
     <item keyword="p"/>
@@ -152,8 +152,8 @@
     <item keyword="soltar"/>
     <item keyword="subrayado"/>
     <item keyword="taxonomia">
-      <topicid>propositos</topicid>
       <topicid>taxonomias</topicid>
+      <topicid>propositos</topicid>
     </item>
     <item keyword="texto libre"/>
     <item keyword="ultima ejecucion"/>
@@ -162,8 +162,8 @@
     <item keyword="vista">
       <topicid>vistanormal</topicid>
       <topicid>vistaarboletiquetas</topicid>
-      <topicid>vistafechaultimaejecucion</topicid>
       <topicid>busqueda</topicid>
+      <topicid>vistafechaultimaejecucion</topicid>
     </item>
   </index>
   <search>
@@ -198,8 +198,8 @@
       <topicid topicid="27" i="27"/>
       <topicid topicid="22" i="28"/>
       <topicid topicid="32" i="29"/>
-      <topicid topicid="11" i="30"/>
-      <topicid topicid="34" i="31"/>
+      <topicid topicid="34" i="30"/>
+      <topicid topicid="11" i="31"/>
       <topicid topicid="16" i="32"/>
       <topicid topicid="12" i="33"/>
       <topicid topicid="30" i="34"/>
@@ -222,6 +222,7 @@
         <i>2</i>
         <i>13</i>
         <i>22</i>
+        <i>14</i>
       </sr>
       <sr word="Y">
         <i>8</i>
@@ -300,7 +301,7 @@
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>9</i>
@@ -391,7 +392,7 @@
         <i>10</i>
       </sr>
       <sr word="UNA">
-        <i>30</i>
+        <i>31</i>
         <i>21</i>
         <i>12</i>
         <i>4</i>
@@ -442,7 +443,7 @@
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>9</i>
@@ -478,7 +479,7 @@
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>35</i>
@@ -512,6 +513,7 @@
         <i>10</i>
       </sr>
       <sr word="UN">
+        <i>8</i>
         <i>15</i>
         <i>5</i>
         <i>21</i>
@@ -580,7 +582,7 @@
       </sr>
       <sr word="ES">
         <i>15</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>4</i>
@@ -828,7 +830,7 @@
       <sr word="PARA"/>
       <sr word="ESTA">
         <i>15</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>35</i>
@@ -875,7 +877,6 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>21</i>
         <i>9</i>
         <i>32</i>
         <i>11</i>
@@ -899,7 +900,7 @@
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>9</i>
@@ -963,7 +964,7 @@
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>9</i>
@@ -993,7 +994,7 @@
         <i>10</i>
       </sr>
       <sr word="TIENE">
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>4</i>
         <i>17</i>
@@ -1066,7 +1067,7 @@
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>35</i>
@@ -1108,7 +1109,7 @@
         <i>6</i>
         <i>29</i>
         <i>19</i>
-        <i>31</i>
+        <i>30</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
@@ -1743,8 +1744,9 @@
       <sr word="EN"/>
       <sr word="LA"/>
       <sr word="VISTA">
+        <i>8</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>21</i>
         <i>35</i>
@@ -1758,8 +1760,9 @@
         <i>10</i>
       </sr>
       <sr word="ESTANDAR">
+        <i>8</i>
         <i>5</i>
-        <i>30</i>
+        <i>31</i>
         <i>25</i>
         <i>20</i>
         <i>10</i>
@@ -1886,7 +1889,6 @@
         <i>22</i>
       </sr>
       <sr word="MEDIANTE">
-        <i>8</i>
         <i>15</i>
         <i>5</i>
         <i>32</i>
@@ -1992,7 +1994,7 @@
       </sr>
       <sr word="COMPONENTES">
         <i>8</i>
-        <i>30</i>
+        <i>31</i>
         <i>6</i>
         <i>29</i>
         <i>19</i>
@@ -2029,7 +2031,7 @@
       <sr word="Y"/>
       <sr word="HA">
         <i>15</i>
-        <i>30</i>
+        <i>31</i>
         <i>33</i>
         <i>2</i>
         <i>3</i>
@@ -2107,7 +2109,6 @@
       </sr>
       <sr word="AL"/>
       <sr word="SER">
-        <i>8</i>
         <i>32</i>
         <i>4</i>
         <i>17</i>
@@ -2493,6 +2494,7 @@
       </sr>
       <sr word="EL"/>
       <sr word="CONTENIDO">
+        <i>8</i>
         <i>33</i>
         <i>32</i>
         <i>1</i>
@@ -2650,8 +2652,7 @@
         <i>20</i>
         <i>22</i>
       </sr>
-      <sr word="INFORMACI&#xF3;N"/>
-      <sr word="SIGNIFICATIVA">
+      <sr word="ANOTACIONES">
         <i>15</i>
         <i>22</i>
       </sr>
@@ -2659,9 +2660,6 @@
       <sr word="DOCUMENTOS"/>
       <sr word="Y"/>
       <sr word="APLICACIONES"/>
-      <sr word="CON"/>
-      <sr word="PAR&#xE1;METROS"/>
-      <sr word="ESPEC&#xED;FICOS"/>
       <sr word="EXISTEN">
         <i>4</i>
         <i>2</i>
@@ -2895,7 +2893,7 @@
       <sr word="HTML"/>
       <sr word="EL"/>
       <sr word="UTILIZADO">
-        <i>30</i>
+        <i>31</i>
         <i>21</i>
         <i>22</i>
       </sr>
@@ -3336,7 +3334,6 @@
         <i>16</i>
       </sr>
       <sr word="B">
-        <i>15</i>
         <i>21</i>
         <i>16</i>
         <i>26</i>
@@ -3640,7 +3637,7 @@
         <i>36</i>
         <i>0</i>
         <i>19</i>
-        <i>31</i>
+        <i>30</i>
       </sr>
       <sr word="BORRAR">
         <i>36</i>
@@ -3648,7 +3645,7 @@
         <i>12</i>
         <i>0</i>
         <i>19</i>
-        <i>31</i>
+        <i>30</i>
       </sr>
       <sr word="CREACI&#xF3;N"/>
       <sr word="DE"/>
@@ -3760,13 +3757,13 @@
       <sr word="LA"/>
       <sr word="INTERFAZ">
         <i>8</i>
-        <i>30</i>
+        <i>31</i>
         <i>9</i>
       </sr>
       <sr word="DE"/>
       <sr word="USUARIO">
         <i>8</i>
-        <i>30</i>
+        <i>31</i>
         <i>9</i>
         <i>2</i>
         <i>38</i>
@@ -4239,6 +4236,7 @@
       <sr word="EL"/>
       <sr word="COMANDO"/>
       <sr word="ANTERIOR">
+        <i>21</i>
         <i>11</i>
         <i>0</i>
         <i>6</i>
@@ -5829,7 +5827,7 @@
       <sr word="Y"/>
       <sr word="SUS">
         <i>8</i>
-        <i>30</i>
+        <i>31</i>
         <i>29</i>
         <i>2</i>
       </sr>
@@ -5971,19 +5969,39 @@
       <sr word="PARTE"/>
       <sr word="IZQUIERDA"/>
       <sr word="ABAJO"/>
-      <sr word="EST&#xE1;"/>
-      <sr word="EL"/>
+      <sr word="SE"/>
+      <sr word="PRESENTA"/>
+      <sr word="UN"/>
       <sr word="PANEL"/>
-      <sr word="DONDE"/>
-      <sr word="SER"/>
+      <sr word="CUYO"/>
+      <sr word="CONTENIDO"/>
+      <sr word="CAMBIA">
+        <i>8</i>
+        <i>20</i>
+        <i>27</i>
+      </sr>
+      <sr word="EN"/>
+      <sr word="FUNCI&#xF3;N"/>
+      <sr word="DE"/>
+      <sr word="LA"/>
+      <sr word="VISTA"/>
+      <sr word="ACTIVA">
+        <i>8</i>
+      </sr>
+      <sr word="EN"/>
+      <sr word="LA"/>
+      <sr word="VISTA"/>
+      <sr word="ESTANDAR"/>
+      <sr word="SE"/>
       <sr word="PRESENTAN"/>
       <sr word="LAS"/>
       <sr word="OPCIONES"/>
       <sr word="DISPONIBLES"/>
-      <sr word="ACCESIBLES">
+      <sr word="AGRUPADAS">
         <i>8</i>
+        <i>2</i>
       </sr>
-      <sr word="MEDIANTE"/>
+      <sr word="EN"/>
       <sr word="GRUPOS"/>
       <sr word="EN"/>
       <sr word="LA"/>
@@ -6026,7 +6044,7 @@
       <sr word="SIGUIENTES"/>
       <sr word="FIGURAS">
         <i>8</i>
-        <i>30</i>
+        <i>31</i>
       </sr>
       <sr word="EN"/>
       <sr word="LA"/>
@@ -6284,8 +6302,7 @@
       <sr word="LOCALIZACI&#xF3;N"/>
       <sr word="F&#xED;SICA"/>
       <sr word="MANTENER"/>
-      <sr word="INFORMACI&#xF3;N"/>
-      <sr word="SIGNIFICATIVA"/>
+      <sr word="ANOTACIONES"/>
       <sr word="SOBRE"/>
       <sr word="FICHEROS"/>
       <sr word="Y"/>
@@ -6474,7 +6491,6 @@
         <i>15</i>
       </sr>
       <sr word="Y"/>
-      <sr word="B"/>
       <sr word="MENUDO">
         <i>15</i>
       </sr>
@@ -8622,9 +8638,7 @@
       <sr word="DOCUMENTOS"/>
       <sr word="Y"/>
       <sr word="APLICACIONES"/>
-      <sr word="AGRUPADAS">
-        <i>2</i>
-      </sr>
+      <sr word="AGRUPADAS"/>
       <sr word="POR"/>
       <sr word="SUS"/>
       <sr word="ETIQUETAS"/>
@@ -8885,7 +8899,7 @@
       <sr word="LAS"/>
       <sr word="FIGURAS"/>
       <sr word="ANTERIORES">
-        <i>30</i>
+        <i>31</i>
       </sr>
       <sr word="EN"/>
       <sr word="DESCRIPCI&#xF3;N"/>
@@ -8898,7 +8912,7 @@
       <sr word="UNA"/>
       <sr word="DESCRIPCI&#xF3;N"/>
       <sr word="PORMENORIZADA">
-        <i>30</i>
+        <i>31</i>
       </sr>
       <sr word="DE"/>
       <sr word="SUS"/>
@@ -9657,6 +9671,7 @@
       <sr word="OPCIONES"/>
       <sr word="QUOT"/>
       <sr word="ACCESO"/>
+      <sr word="DOCUMENTOS"/>
       <sr word="MEDIANTE"/>
       <sr word="ETIQUETAS"/>
       <sr word="UNA"/>
@@ -10082,8 +10097,8 @@
       <sr word="TEXTO"/>
       <sr word="EN"/>
       <sr word="LA"/>
-      <sr word="SIGUIENTE"/>
       <sr word="FIGURA"/>
+      <sr word="ANTERIOR"/>
       <sr word="SE"/>
       <sr word="MUESTRA"/>
       <sr word="UN"/>
@@ -10383,10 +10398,7 @@
       <sr word="UN"/>
       <sr word="HIPERENLACE"/>
       <sr word="QUOT"/>
-      <sr word="CAMBIA">
-        <i>20</i>
-        <i>27</i>
-      </sr>
+      <sr word="CAMBIA"/>
       <sr word="EL"/>
       <sr word="FORMULARIO"/>
       <sr word="QUOT"/>
@@ -10657,9 +10669,6 @@
       <sr word="ALG&#xDA;N">
         <i>2</i>
       </sr>
-      <sr word="AN&#xC1;LISIS">
-        <i>22</i>
-      </sr>
       <sr word="A&#xD1;ADE">
         <i>11</i>
         <i>18</i>
@@ -10679,13 +10688,16 @@
         <i>17</i>
         <i>6</i>
         <i>19</i>
-        <i>31</i>
+        <i>30</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
       </sr>
       <sr word="A&#xD1;ADIRLE">
         <i>2</i>
+      </sr>
+      <sr word="AN&#xC1;LISIS">
+        <i>22</i>
       </sr>
       <sr word="APARECER&#xC1;">
         <i>9</i>
@@ -10850,7 +10862,7 @@
       </sr>
       <sr word="DESCRIPCI&#xD3;N">
         <i>8</i>
-        <i>30</i>
+        <i>31</i>
         <i>9</i>
         <i>23</i>
         <i>14</i>
@@ -10922,7 +10934,6 @@
       </sr>
       <sr word="ESPEC&#xCD;FICOS">
         <i>15</i>
-        <i>22</i>
       </sr>
       <sr word="EST&#xC1;">
         <i>8</i>
@@ -10983,6 +10994,9 @@
       <sr word="F&#xCD;SICOS">
         <i>2</i>
       </sr>
+      <sr word="FUNCI&#xD3;N">
+        <i>8</i>
+      </sr>
       <sr word="GEN&#xC9;RICO">
         <i>4</i>
       </sr>
@@ -11012,7 +11026,6 @@
         <i>17</i>
       </sr>
       <sr word="INFORMACI&#xD3;N">
-        <i>15</i>
         <i>36</i>
         <i>2</i>
         <i>22</i>
@@ -11339,8 +11352,8 @@
       <tocitem id="accesoficheros" title="Acceso a documentos a trav&#xE9;s de nombres significativos"/>
       <tocitem id="accesoaplicaciones" title="Acceso a aplicaciones con par&#xE1;metros particulares a trav&#xE9;s de nombres significativos"/>
       <tocitem id="agruparficherosaplicaciones2" title="Agrupar documentos y aplicaciones con criterios funcionales"/>
-      <tocitem id="comentarioinformativo" title="Mantener informaci&#xF3;n significativa sobre documentos y aplicaciones con par&#xE1;metros espec&#xED;ficos"/>
-      <tocitem id="taxonomias" title="Acceso mediante etiquetas"/>
+      <tocitem id="comentarioinformativo" title="Mantener anotaciones sobre documentos y aplicaciones"/>
+      <tocitem id="taxonomias" title="Acceso a documentos mediante etiquetas"/>
     </tocitem>
     <tocitem id="instalacion" title="Instalaci&#xF3;n"/>
     <tocitem id="guiausuario" title="Gu&#xED;a de Usuario">
