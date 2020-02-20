@@ -67,8 +67,8 @@
 <li><a href="availableviews.html">Available views</a></li>
 <li><a href="standardview.html">Standard view</a></li>
 <li><a href="tagtreeview.html">Tag Tree View</a></li>
-<li><a href="searchview.html">Search view</a></li>
-<li><a href="bylastexecutiondateview.html">By last execution date view</a></li>
+<li><a href="searchview.html">Search View</a></li>
+<li><a href="bylastexecutiondateview.html">By Last Execution Date View</a></li>
 <li><a href="creationconffile.html">Creation of a configuration file</a></li>
 <li><a href="editorselection.html">Selection of the editor</a></li>
 <li><a href="editorconffile.html">Edition of a configuration file</a></li>
@@ -82,7 +82,8 @@
 <li><a href="commentchangefont.html">Change Font: bold, italic, underscore</a></li>
 <li><a href="commentinsertimage.html">Insert an image</a></li>
 <li><a href="commenthyperlink.html">Insert a hyperlink</a></li>
-<li><a href="commenttags.html">Insert Tags</a></li>
+<li><a href="commenthtml.html">HTML elements supported</a></li>
+<li><a href="editiontags.html">Editing &quot;Tags&quot; in Options</a></li>
 <li><a href="advancesubjects.html">Advanced subjects</a></li>
 <li><a href="commandparameters.html">Adding parameters to a Command</a></li>
 <li><a href="combinededitor.html">Combined editor for Groups and Options</a></li>
@@ -110,7 +111,22 @@
 
         <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
 		  <h1 class="bd-title" id="content">Executing applications with parameters</h1>
-          
+          <p>
+<span>When the Command associated with an Option is a document, its display is usually associated with a certain application installed on the PC. The association between a certain type of document and the application used to present it is made through the extension of the document file. E.g., files with extension ".doc" or ".docx" may be associated with the Word application, but can also be associated with the LibreOffice Write application. The </span> <span style="color: #000000;">default association</span> <span> is maintained in the Windows registry, and can be viewed, and changed, through Windows Explorer: click on the file with the right mouse button and look for "</span> <span style="color: #000000;">Open with</span> <span>": a menu will appear with all installed applications that can be used to open it.</span>
+</p>
+<p>
+<span>Additionally, the concept </span> <span style="font-weight: bold;color: #000000;">Option</span> <span> </span> <span style="color: #000000;">Command</span> <span> allows you to choose the application that actually should be used to open a certain document, regardless of which application is associated with its extension.</span>
+</p>
+<p>
+<span>For example, a document with extension PDF may be associated with the application "Adobe Reader", and yet we may want to open it with another one, say, Foxit Reader that allows for some editing (comments, underlining, etc.)</span>
+</p>
+<p>
+<span>On the other hand, the document we want to use in the Option may not have an associated application.</span>
+</p>
+<p>
+<span>The alternative to these situations is to set the Command of the Option as referring to the application (executable) of our choice, followed by the actual document as parameter. This can be done very easily with the "</span> <span style="font-weight: bold;color: #000000;">Change Command</span> <span>" option of the </span> <span style="color: #000000;">Options</span> <span> menu. See </span> <a href="commandparameters.html">here</a> <span>.</span>
+</p>
+
 
         </main>
       </div>

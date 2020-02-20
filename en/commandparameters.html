@@ -67,8 +67,8 @@
 <li><a href="availableviews.html">Available views</a></li>
 <li><a href="standardview.html">Standard view</a></li>
 <li><a href="tagtreeview.html">Tag Tree View</a></li>
-<li><a href="searchview.html">Search view</a></li>
-<li><a href="bylastexecutiondateview.html">By last execution date view</a></li>
+<li><a href="searchview.html">Search View</a></li>
+<li><a href="bylastexecutiondateview.html">By Last Execution Date View</a></li>
 <li><a href="creationconffile.html">Creation of a configuration file</a></li>
 <li><a href="editorselection.html">Selection of the editor</a></li>
 <li><a href="editorconffile.html">Edition of a configuration file</a></li>
@@ -82,7 +82,8 @@
 <li><a href="commentchangefont.html">Change Font: bold, italic, underscore</a></li>
 <li><a href="commentinsertimage.html">Insert an image</a></li>
 <li><a href="commenthyperlink.html">Insert a hyperlink</a></li>
-<li><a href="commenttags.html">Insert Tags</a></li>
+<li><a href="commenthtml.html">HTML elements supported</a></li>
+<li><a href="editiontags.html">Editing &quot;Tags&quot; in Options</a></li>
 <li><a href="advancesubjects.html">Advanced subjects</a></li>
 <li class="active bd-sidenav-active"><a href="commandparameters.html">Adding parameters to a Command</a></li>
 <li><a href="combinededitor.html">Combined editor for Groups and Options</a></li>
@@ -110,7 +111,113 @@
 
         <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
 		  <h1 class="bd-title" id="content">Adding parameters to a Command</h1>
-          
+          <p>
+<span style="color: #0033CC;background-color: #99FF99;">Option with Command type application with parameters.</span>
+</p>
+<p>
+<span>The Command of an Option may be an application (reference to an "*.exe" or "*.com" or "*.bat" file). The invocation of an executable may require parameters. Furthermore, these parameters can refer to files on disk, and the location of these files may contain blanks. For instance:</span> <span> "C: \ Program Files (x86) \ Notepad ++ \ notepad ++. Exe C: \ T mp \ test.xml".</span>
+</p>
+<p>
+<span>The treatment of blanks presents problems, since the command processor (parser) uses the blanks to distinguish between the application location itself and the different components of the command, which implies that, in the previous command, you will find 4 objects:</span>
+</p>
+<p>
+
+</p>
+<p>
+<ol>
+<li>
+<p>
+<span>"C:\Program Files"</span>
+</p>
+
+
+</li>
+<li>
+<p>
+<span>"(x86)\Notepad++\notepad++.exe"</span>
+</p>
+
+
+</li>
+<li>
+<p>
+<span>"C:\T"</span>
+</p>
+
+
+</li>
+<li>
+<p>
+<span>"mp\test.xml"</span>
+</p>
+
+
+</li>
+</ol>
+
+</p>
+<p>
+<span>when what we really want is to find only two:</span>
+</p>
+<p>
+
+</p>
+<p>
+<ol>
+<li>
+<p>
+<span>"C:\Program Files (x86)\Notepad++\notepad++.exe"</span>
+</p>
+
+
+</li>
+<li>
+<p>
+<span>"C:\T mp\test.xml". </span>
+</p>
+
+
+</li>
+</ol>
+
+</p>
+<p>
+<span>The way to solve this problem is to include each </span> <span style="color: #000000;">problematic parameter</span> <span> in double quotation  marks ("): the previous command should be written as:</span>
+</p>
+<p>
+<span style="font-weight: bold;background-color: #FFFF00;">"</span> <span>C:\Program Files (x86)\Notepad++\notepad++.exe</span> <span style="font-weight: bold;background-color: #FFFF00;">"</span> <span> </span> <span style="font-weight: bold;background-color: #FFFF00;">"</span> <span>C:\T mp\text.xml</span> <span style="font-weight: bold;background-color: #FFFF00;">"</span>
+</p>
+<p>
+<span>To facilitate this task, the Desktop Organizer has a specific form that is presented when selecting the "</span> <span style="font-weight: bold;color: #000000;">Change Command</span> <span>" in the Option menu. Next figures show an example.</span>
+</p>
+<p>
+<img src="images/{5691B373-E62C-4973-9FA5-3B4475788881}.png" alt="{5691B373-E62C-4973-9FA5-3B4475788881}.png"/>
+</p>
+<p>
+<span>The tooltip of the selected option (in red) shows that the Command specifies an executable ("c:\ACMSL\WindFarmSimulator\LdPv1r10.exe", and two parameters: "-c" and "RRCV11.conf". To edit its content we use the "Change Command" option of the Option menu, as shown in next figure.</span>
+</p>
+<p>
+<img src="images/{90D4463C-14A2-448E-B010-EE1744ED7AF4}.png" alt="{90D4463C-14A2-448E-B010-EE1744ED7AF4}.png"/>
+</p>
+<p>
+<span>that will present the following form, filled in with the existing values for the parameters:</span>
+</p>
+<p>
+<img src="images/{9066FCE2-3487-44CF-AD5D-472F64512A22}.png" alt="{9066FCE2-3487-44CF-AD5D-472F64512A22}.png"/>
+</p>
+<p>
+<span>Pressing the "</span> <span style="font-weight: bold;color: #000000;">Add Parameter</span> <span>" button creates an additiona "Parameter x" textbox where you can enter the actual value of the parameter: </span> <span style="text-decoration: underline;color: #000000;">this text may contain blanks but not the double quote character (")</span> <span>.</span>
+</p>
+<p>
+<span>Parameters that are blank are not taken into consideration.</span>
+</p>
+<p>
+<span>The "</span> <span style="font-weight: bold;color: #000000;">Command Test</span> <span>" button permits to check that the entered values for the parameters do perform the desired execution.</span>
+</p>
+<p>
+<span></span>
+</p>
+
 
         </main>
       </div>

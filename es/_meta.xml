@@ -57,10 +57,10 @@
       <topicid>egoopciones</topicid>
     </item>
     <item keyword="aplicacion">
+      <topicid>accesoaplicaciones</topicid>
       <topicid>taxonomias</topicid>
       <topicid>ejecucionaplicacion</topicid>
       <topicid>aplicacionconparametros</topicid>
-      <topicid>accesoaplicaciones</topicid>
     </item>
     <item keyword="aplicaciones"/>
     <item keyword="arbol"/>
@@ -101,16 +101,16 @@
       <topicid>egoopciones</topicid>
     </item>
     <item keyword="etiqueta">
+      <topicid>propositos</topicid>
       <topicid>taxonomias</topicid>
       <topicid>vistaarboletiquetas</topicid>
       <topicid>busqueda</topicid>
       <topicid>edicionetiquetas</topicid>
-      <topicid>propositos</topicid>
     </item>
     <item keyword="fichero">
+      <topicid>accesoficheros</topicid>
       <topicid>abrirficherob</topicid>
       <topicid>editarficherob</topicid>
-      <topicid>accesoficheros</topicid>
     </item>
     <item keyword="fichero configuracion">
       <topicid>creacionficheroconfig</topicid>
@@ -119,11 +119,11 @@
     <item keyword="fichero de configuracion"/>
     <item keyword="fotos"/>
     <item keyword="grupo">
+      <topicid>propositos</topicid>
       <topicid>ediciongruposyopciones</topicid>
       <topicid>anadirgrupo</topicid>
       <topicid>editorgruposopciones</topicid>
       <topicid>ediciongrupos</topicid>
-      <topicid>propositos</topicid>
     </item>
     <item keyword="hiperenlace"/>
     <item keyword="html"/>
@@ -134,12 +134,12 @@
     <item keyword="menu"/>
     <item keyword="negrita"/>
     <item keyword="opcion">
+      <topicid>propositos</topicid>
       <topicid>ediciongruposyopciones</topicid>
       <topicid>creacionopciones</topicid>
       <topicid>menuanadiropcion</topicid>
       <topicid>editorgruposopciones</topicid>
       <topicid>egoopciones</topicid>
-      <topicid>propositos</topicid>
     </item>
     <item keyword="opciones"/>
     <item keyword="p"/>
@@ -152,8 +152,8 @@
     <item keyword="soltar"/>
     <item keyword="subrayado"/>
     <item keyword="taxonomia">
-      <topicid>taxonomias</topicid>
       <topicid>propositos</topicid>
+      <topicid>taxonomias</topicid>
     </item>
     <item keyword="texto libre"/>
     <item keyword="ultima ejecucion"/>
@@ -177,25 +177,25 @@
       <topicid topicid="31" i="6"/>
       <topicid topicid="37" i="7"/>
       <topicid topicid="0" i="8"/>
-      <topicid topicid="15" i="9"/>
-      <topicid topicid="9" i="10"/>
-      <topicid topicid="18" i="11"/>
+      <topicid topicid="18" i="9"/>
+      <topicid topicid="15" i="10"/>
+      <topicid topicid="9" i="11"/>
       <topicid topicid="19" i="12"/>
       <topicid topicid="4" i="13"/>
       <topicid topicid="6" i="14"/>
       <topicid topicid="1" i="15"/>
-      <topicid topicid="21" i="16"/>
-      <topicid topicid="3" i="17"/>
-      <topicid topicid="20" i="18"/>
-      <topicid topicid="33" i="19"/>
-      <topicid topicid="26" i="20"/>
-      <topicid topicid="13" i="21"/>
-      <topicid topicid="5" i="22"/>
-      <topicid topicid="28" i="23"/>
-      <topicid topicid="23" i="24"/>
-      <topicid topicid="24" i="25"/>
-      <topicid topicid="25" i="26"/>
-      <topicid topicid="27" i="27"/>
+      <topicid topicid="3" i="16"/>
+      <topicid topicid="20" i="17"/>
+      <topicid topicid="33" i="18"/>
+      <topicid topicid="26" i="19"/>
+      <topicid topicid="13" i="20"/>
+      <topicid topicid="5" i="21"/>
+      <topicid topicid="28" i="22"/>
+      <topicid topicid="23" i="23"/>
+      <topicid topicid="24" i="24"/>
+      <topicid topicid="25" i="25"/>
+      <topicid topicid="27" i="26"/>
+      <topicid topicid="21" i="27"/>
       <topicid topicid="22" i="28"/>
       <topicid topicid="32" i="29"/>
       <topicid topicid="34" i="30"/>
@@ -215,13 +215,13 @@
       </sr>
       <sr word="DOCUMENTOS">
         <i>15</i>
+        <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>1</i>
+        <i>17</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
       </sr>
       <sr word="Y">
@@ -229,63 +229,65 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
-        <i>28</i>
-        <i>25</i>
-        <i>20</i>
-        <i>23</i>
-        <i>0</i>
         <i>17</i>
+        <i>27</i>
+        <i>28</i>
+        <i>24</i>
+        <i>19</i>
+        <i>22</i>
+        <i>0</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
       </sr>
       <sr word="APLICACIONES">
         <i>15</i>
-        <i>18</i>
+        <i>12</i>
         <i>17</i>
+        <i>16</i>
         <i>1</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="CON">
         <i>8</i>
         <i>15</i>
         <i>33</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
-        <i>24</i>
-        <i>20</i>
+        <i>27</i>
+        <i>23</i>
+        <i>19</i>
+        <i>22</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="CRITERIOS">
         <i>15</i>
@@ -303,34 +305,34 @@
         <i>5</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
+        <i>19</i>
         <i>26</i>
-        <i>20</i>
-        <i>27</i>
-        <i>23</i>
+        <i>22</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="MUCHOS">
         <i>15</i>
@@ -342,11 +344,11 @@
       </sr>
       <sr word="P">
         <i>15</i>
-        <i>9</i>
+        <i>10</i>
         <i>4</i>
-        <i>24</i>
-        <i>25</i>
         <i>23</i>
+        <i>24</i>
+        <i>22</i>
         <i>0</i>
         <i>1</i>
         <i>7</i>
@@ -355,9 +357,9 @@
       </sr>
       <sr word="E">
         <i>15</i>
-        <i>9</i>
+        <i>10</i>
         <i>4</i>
-        <i>25</i>
+        <i>24</i>
         <i>0</i>
         <i>1</i>
         <i>7</i>
@@ -368,47 +370,47 @@
       <sr word="PARA">
         <i>15</i>
         <i>5</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
-        <i>26</i>
-        <i>20</i>
+        <i>19</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="UNA">
         <i>31</i>
-        <i>21</i>
+        <i>20</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
-        <i>24</i>
-        <i>26</i>
-        <i>20</i>
+        <i>23</i>
+        <i>25</i>
+        <i>19</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
       </sr>
@@ -419,22 +421,22 @@
       <sr word="O">
         <i>8</i>
         <i>15</i>
-        <i>21</i>
+        <i>20</i>
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
         <i>12</i>
-        <i>18</i>
-        <i>16</i>
-        <i>24</i>
-        <i>26</i>
+        <i>17</i>
+        <i>27</i>
+        <i>23</i>
+        <i>25</i>
         <i>0</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
-        <i>10</i>
+        <i>21</i>
+        <i>11</i>
       </sr>
       <sr word="DURANTE">
         <i>13</i>
@@ -445,32 +447,32 @@
         <i>5</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
-        <i>28</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
         <i>27</i>
+        <i>28</i>
         <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
+        <i>22</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="ESCRITURA">
         <i>13</i>
@@ -481,67 +483,67 @@
         <i>5</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>35</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
-        <i>28</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
-        <i>23</i>
-        <i>0</i>
         <i>17</i>
+        <i>27</i>
+        <i>28</i>
+        <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>22</i>
+        <i>0</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>37</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
         <i>38</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="UN">
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
+        <i>17</i>
+        <i>27</i>
         <i>28</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
+        <i>19</i>
         <i>26</i>
-        <i>20</i>
-        <i>27</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="LIBRO">
         <i>2</i>
@@ -550,18 +552,18 @@
       <sr word="O"/>
       <sr word="PARA"/>
       <sr word="CREAR">
-        <i>9</i>
+        <i>10</i>
         <i>36</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
         <i>0</i>
         <i>29</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
-        <i>10</i>
+        <i>21</i>
+        <i>11</i>
       </sr>
       <sr word="UNA"/>
       <sr word="TESIS">
@@ -573,41 +575,42 @@
       </sr>
       <sr word="ETC">
         <i>4</i>
-        <i>24</i>
+        <i>23</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ES">
         <i>15</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
-        <i>4</i>
-        <i>16</i>
-        <i>25</i>
-        <i>26</i>
         <i>20</i>
-        <i>17</i>
-        <i>6</i>
+        <i>12</i>
+        <i>4</i>
+        <i>27</i>
+        <i>24</i>
+        <i>25</i>
         <i>19</i>
+        <i>16</i>
+        <i>6</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="MUY">
         <i>15</i>
-        <i>18</i>
+        <i>17</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="PRODUCTIVO">
         <i>13</i>
@@ -636,29 +639,29 @@
       <sr word="LOS">
         <i>15</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
+        <i>17</i>
         <i>27</i>
         <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
+        <i>22</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
       </sr>
@@ -670,10 +673,11 @@
       <sr word="DICHO">
         <i>2</i>
         <i>13</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="TRABAJO">
         <i>15</i>
+        <i>19</i>
         <i>29</i>
         <i>13</i>
       </sr>
@@ -686,15 +690,14 @@
       <sr word="SU">
         <i>15</i>
         <i>33</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>16</i>
-        <i>17</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="LOCALIZACI&#xF3;N"/>
@@ -704,78 +707,74 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
+        <i>17</i>
+        <i>27</i>
         <i>28</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
+        <i>19</i>
         <i>26</i>
-        <i>20</i>
-        <i>27</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="ORGANIZADOR">
         <i>15</i>
         <i>5</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>4</i>
-        <i>18</i>
         <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="DE"/>
       <sr word="ESCRITORIO">
         <i>15</i>
         <i>5</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>4</i>
-        <i>18</i>
         <i>17</i>
+        <i>16</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="USA">
+        <i>12</i>
         <i>13</i>
       </sr>
-      <sr word="EL"/>
-      <sr word="CONCEPTO">
-        <i>15</i>
-        <i>4</i>
-        <i>17</i>
-        <i>1</i>
-        <i>7</i>
+      <sr word="LOS"/>
+      <sr word="CONCEPTOS">
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DE"/>
       <sr word="QUOT">
@@ -783,45 +782,86 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
+        <i>17</i>
+        <i>27</i>
         <i>28</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
+        <i>19</i>
         <i>26</i>
-        <i>20</i>
-        <i>27</i>
+        <i>22</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
+      <sr word="PROYECTO">
+        <i>2</i>
+        <i>13</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="ES"/>
+      <sr word="DECIR">
+        <i>12</i>
+        <i>13</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="FICHERO">
+        <i>8</i>
+        <i>5</i>
+        <i>33</i>
+        <i>10</i>
+        <i>32</i>
+        <i>36</i>
+        <i>9</i>
+        <i>12</i>
+        <i>4</i>
+        <i>17</i>
+        <i>27</i>
+        <i>28</i>
+        <i>19</i>
+        <i>16</i>
+        <i>29</i>
+        <i>1</i>
+        <i>2</i>
+        <i>13</i>
+        <i>21</i>
+        <i>3</i>
+        <i>11</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="CONFIGURACI&#xF3;N"/>
+      <sr word="QUOT"/>
+      <sr word="Y"/>
+      <sr word="DE"/>
+      <sr word="QUOT"/>
       <sr word="GRUPO">
         <i>8</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
+        <i>17</i>
+        <i>27</i>
         <i>28</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
@@ -832,24 +872,25 @@
         <i>15</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>35</i>
         <i>12</i>
         <i>4</i>
-        <i>25</i>
-        <i>20</i>
+        <i>24</i>
+        <i>19</i>
         <i>6</i>
         <i>1</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
       </sr>
       <sr word="FUNCIONALIDAD">
         <i>15</i>
+        <i>12</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="EN"/>
       <sr word="LA"/>
@@ -857,44 +898,44 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
-        <i>11</i>
-        <i>4</i>
-        <i>16</i>
-        <i>24</i>
-        <i>25</i>
         <i>20</i>
-        <i>27</i>
-        <i>17</i>
+        <i>10</i>
+        <i>9</i>
+        <i>12</i>
+        <i>4</i>
+        <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="SIGUIENTE">
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
-        <i>28</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
         <i>27</i>
-        <i>17</i>
+        <i>28</i>
+        <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="SE">
         <i>8</i>
@@ -902,45 +943,46 @@
         <i>5</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
-        <i>28</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
         <i>27</i>
+        <i>28</i>
+        <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="MUESTRA">
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
+        <i>12</i>
         <i>4</i>
-        <i>25</i>
+        <i>24</i>
         <i>6</i>
         <i>29</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
       </sr>
@@ -957,7 +999,7 @@
         <i>8</i>
         <i>13</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="QUE">
@@ -966,60 +1008,61 @@
         <i>5</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
-        <i>28</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
         <i>27</i>
+        <i>28</i>
+        <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="TIENE">
         <i>31</i>
         <i>33</i>
         <i>4</i>
-        <i>17</i>
+        <i>16</i>
         <i>29</i>
         <i>2</i>
         <i>13</i>
       </sr>
       <sr word="TRES">
-        <i>11</i>
+        <i>9</i>
         <i>13</i>
         <i>3</i>
       </sr>
       <sr word="GRUPOS">
         <i>8</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
-        <i>18</i>
-        <i>24</i>
+        <i>9</i>
+        <i>12</i>
+        <i>17</i>
+        <i>23</i>
         <i>0</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
@@ -1028,8 +1071,9 @@
       <sr word="EL"/>
       <sr word="PRIMERO">
         <i>33</i>
+        <i>24</i>
         <i>25</i>
-        <i>26</i>
+        <i>19</i>
         <i>13</i>
       </sr>
       <sr word="QUOT"/>
@@ -1043,17 +1087,17 @@
         <i>8</i>
         <i>15</i>
         <i>33</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>24</i>
+        <i>23</i>
         <i>6</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="EST&#xE1;"/>
@@ -1069,24 +1113,25 @@
         <i>5</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>35</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>18</i>
-        <i>16</i>
-        <i>28</i>
-        <i>24</i>
-        <i>20</i>
-        <i>0</i>
         <i>17</i>
+        <i>27</i>
+        <i>28</i>
+        <i>23</i>
         <i>19</i>
+        <i>22</i>
+        <i>0</i>
+        <i>16</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
       </sr>
       <sr word="OPCIONES">
@@ -1094,21 +1139,21 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>35</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>18</i>
-        <i>28</i>
-        <i>24</i>
-        <i>0</i>
         <i>17</i>
+        <i>28</i>
+        <i>23</i>
+        <i>0</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>30</i>
         <i>7</i>
         <i>2</i>
@@ -1119,6 +1164,7 @@
       <sr word="TIENE"/>
       <sr word="ASOCIADAS">
         <i>8</i>
+        <i>9</i>
         <i>28</i>
         <i>0</i>
         <i>7</i>
@@ -1126,19 +1172,19 @@
       </sr>
       <sr word="PANEL">
         <i>8</i>
-        <i>11</i>
+        <i>9</i>
         <i>28</i>
         <i>0</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="IZQUIERDO">
         <i>8</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
         <i>6</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="MIENTRAS">
         <i>13</i>
@@ -1147,13 +1193,14 @@
       <sr word="EL"/>
       <sr word="PANEL"/>
       <sr word="DERECHO">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>12</i>
+        <i>27</i>
         <i>28</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>13</i>
@@ -1163,73 +1210,195 @@
       <sr word="EL"/>
       <sr word="COMENTARIO">
         <i>8</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>16</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
         <i>27</i>
         <i>23</i>
+        <i>24</i>
         <i>19</i>
+        <i>26</i>
+        <i>22</i>
+        <i>18</i>
         <i>7</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ASOCIADO">
         <i>8</i>
         <i>15</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
       </sr>
       <sr word="AL">
         <i>15</i>
-        <i>9</i>
+        <i>10</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
+        <i>24</i>
         <i>25</i>
-        <i>26</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="GRUPO"/>
-      <sr word="INSERTAR">
+      <sr word="EN"/>
+      <sr word="CONCEPTO">
+        <i>15</i>
+        <i>4</i>
+        <i>16</i>
+        <i>1</i>
+        <i>7</i>
+        <i>2</i>
+        <i>13</i>
+        <i>21</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="QUOT"/>
+      <sr word="GRUPO"/>
+      <sr word="QUOT"/>
+      <sr word="PUEDE">
+        <i>10</i>
+        <i>32</i>
+        <i>9</i>
+        <i>12</i>
+        <i>4</i>
+        <i>27</i>
+        <i>28</i>
+        <i>19</i>
+        <i>0</i>
+        <i>16</i>
+        <i>6</i>
+        <i>1</i>
+        <i>7</i>
+        <i>2</i>
+        <i>13</i>
+        <i>21</i>
+        <i>14</i>
+        <i>3</i>
+        <i>11</i>
+      </sr>
+      <sr word="ENTENDERSE">
+        <i>13</i>
+      </sr>
+      <sr word="TAMBI&#xE9;N"/>
+      <sr word="COMO">
+        <i>15</i>
+        <i>10</i>
+        <i>4</i>
+        <i>23</i>
+        <i>24</i>
+        <i>16</i>
+        <i>6</i>
+        <i>29</i>
+        <i>7</i>
+        <i>2</i>
+        <i>13</i>
+        <i>21</i>
+        <i>14</i>
+        <i>3</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="LISTA">
+        <i>28</i>
+        <i>7</i>
+        <i>2</i>
+        <i>13</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="LECTURA">
+        <i>2</i>
+        <i>13</i>
+        <i>21</i>
+        <i>14</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="OTRO">
+        <i>33</i>
+        <i>10</i>
+        <i>12</i>
+        <i>4</i>
+        <i>27</i>
+        <i>7</i>
+        <i>13</i>
+        <i>11</i>
+      </sr>
+      <sr word="EJEMPLO">
+        <i>20</i>
+        <i>10</i>
+        <i>4</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
+        <i>0</i>
+        <i>16</i>
+        <i>6</i>
+        <i>1</i>
+        <i>7</i>
+        <i>2</i>
+        <i>13</i>
+        <i>21</i>
+        <i>14</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="INTERPRETACI&#xF3;N"/>
+      <sr word="SE"/>
+      <sr word="DESCRIBE">
+        <i>32</i>
+        <i>9</i>
+        <i>12</i>
+        <i>13</i>
+      </sr>
+      <sr word="EN"/>
+      <sr word="QUOT"/>
+      <sr word="ALBUM">
+        <i>7</i>
+        <i>13</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="FOTOS">
+        <i>10</i>
+        <i>4</i>
+        <i>7</i>
+        <i>13</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="INSERTAR">
+        <i>23</i>
+        <i>24</i>
+        <i>25</i>
+        <i>19</i>
         <i>26</i>
-        <i>20</i>
-        <i>27</i>
         <i>7</i>
       </sr>
       <sr word="UN"/>
       <sr word="NUEVO">
+        <i>10</i>
         <i>9</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
-        <i>26</i>
         <i>29</i>
-        <i>19</i>
-        <i>10</i>
+        <i>18</i>
+        <i>11</i>
       </sr>
       <sr word="P&#xE1;RRAFO"/>
       <sr word="EN"/>
@@ -1238,63 +1407,65 @@
         <i>8</i>
         <i>15</i>
         <i>5</i>
-        <i>21</i>
+        <i>20</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
+        <i>19</i>
         <i>26</i>
-        <i>20</i>
-        <i>27</i>
         <i>0</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
       </sr>
       <sr word="HTML">
+        <i>12</i>
+        <i>23</i>
         <i>24</i>
         <i>25</i>
-        <i>20</i>
-        <i>27</i>
-        <i>23</i>
+        <i>19</i>
+        <i>26</i>
         <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="LOS"/>
       <sr word="CAMBIOS">
-        <i>25</i>
+        <i>24</i>
         <i>2</i>
       </sr>
       <sr word="DE"/>
       <sr word="P&#xE1;RRAFO"/>
       <sr word="REQUIEREN">
-        <i>25</i>
-        <i>22</i>
+        <i>24</i>
+        <i>21</i>
       </sr>
       <sr word="UN"/>
       <sr word="ELEMENTO">
-        <i>25</i>
-        <i>23</i>
+        <i>24</i>
+        <i>22</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="LT">
+        <i>23</i>
         <i>24</i>
         <i>25</i>
-        <i>26</i>
       </sr>
       <sr word="P"/>
       <sr word="GT">
+        <i>23</i>
         <i>24</i>
         <i>25</i>
-        <i>26</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>7</i>
       </sr>
       <sr word="LT"/>
@@ -1303,23 +1474,24 @@
       <sr word="QUOT"/>
       <sr word="YA">
         <i>15</i>
-        <i>11</i>
+        <i>9</i>
+        <i>12</i>
         <i>28</i>
-        <i>25</i>
+        <i>24</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>7</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUE"/>
       <sr word="LOS"/>
       <sr word="RETORNOS">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="DE"/>
       <sr word="CARRO">
-        <i>25</i>
+        <i>24</i>
         <i>0</i>
       </sr>
       <sr word="QUE"/>
@@ -1327,10 +1499,11 @@
       <sr word="EL"/>
       <sr word="PROCEDIMIENTO">
         <i>32</i>
-        <i>11</i>
-        <i>18</i>
+        <i>9</i>
+        <i>17</i>
+        <i>23</i>
+        <i>24</i>
         <i>25</i>
-        <i>26</i>
         <i>29</i>
       </sr>
       <sr word="COM&#xFA;N"/>
@@ -1339,7 +1512,7 @@
       <sr word="OPERACI&#xF3;N"/>
       <sr word="EN"/>
       <sr word="PROCESADORES">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="DE"/>
       <sr word="TEXTO"/>
@@ -1348,26 +1521,61 @@
         <i>8</i>
         <i>15</i>
         <i>33</i>
-        <i>11</i>
-        <i>25</i>
+        <i>9</i>
+        <i>23</i>
+        <i>24</i>
         <i>0</i>
         <i>2</i>
       </sr>
-      <sr word="EJEMPLO">
-        <i>21</i>
-        <i>9</i>
-        <i>4</i>
+      <sr word="EJEMPLO"/>
+      <sr word="TEXTO"/>
+      <sr word="HTML"/>
+      <sr word="RESULTADO">
         <i>24</i>
         <i>25</i>
-        <i>26</i>
         <i>0</i>
+      </sr>
+      <sr word="PRESENTADO">
+        <i>24</i>
+        <i>25</i>
+      </sr>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="DEL">
+        <i>8</i>
+        <i>15</i>
+        <i>33</i>
+        <i>20</i>
+        <i>10</i>
+        <i>32</i>
+        <i>9</i>
+        <i>12</i>
+        <i>4</i>
         <i>17</i>
+        <i>27</i>
+        <i>28</i>
+        <i>23</i>
+        <i>24</i>
+        <i>25</i>
+        <i>19</i>
+        <i>0</i>
+        <i>16</i>
         <i>6</i>
+        <i>29</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
-        <i>14</i>
+        <i>21</i>
+        <i>3</i>
+        <i>11</i>
+      </sr>
+      <sr word="MENU">
+        <i>17</i>
+        <i>28</i>
+        <i>24</i>
+        <i>25</i>
+        <i>19</i>
+        <i>2</i>
       </sr>
       <sr word="P&#xE1;RRAFO"/>
       <sr word="PRIMERO"/>
@@ -1377,7 +1585,7 @@
       <sr word="P&#xE1;RRAFO"/>
       <sr word="SEGUNDO">
         <i>33</i>
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="LT"/>
       <sr word="P"/>
@@ -1386,71 +1594,42 @@
       <sr word="PRIMERO"/>
       <sr word="P&#xE1;RRAFO"/>
       <sr word="SEGUNDO"/>
-      <sr word="MENU">
-        <i>18</i>
-        <i>28</i>
-        <i>25</i>
-        <i>2</i>
-      </sr>
       <sr word="QUOT"/>
       <sr word="AGREGAR">
+        <i>24</i>
         <i>25</i>
+        <i>19</i>
         <i>26</i>
-        <i>20</i>
-        <i>27</i>
       </sr>
       <sr word="UN"/>
       <sr word="P&#xE1;RRAFO"/>
       <sr word="QUOT"/>
-      <sr word="SI">
-        <i>11</i>
-        <i>4</i>
-        <i>16</i>
-        <i>28</i>
-        <i>25</i>
-        <i>20</i>
-        <i>0</i>
-        <i>6</i>
-        <i>29</i>
-        <i>19</i>
-        <i>2</i>
-        <i>3</i>
-        <i>10</i>
-      </sr>
-      <sr word="EMBARGO">
-        <i>15</i>
-        <i>4</i>
-        <i>25</i>
-        <i>1</i>
-        <i>10</i>
-      </sr>
       <sr word="EL"/>
       <sr word="FORMULARIO">
         <i>8</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>18</i>
-        <i>16</i>
-        <i>28</i>
-        <i>24</i>
-        <i>25</i>
-        <i>20</i>
+        <i>17</i>
         <i>27</i>
+        <i>28</i>
+        <i>23</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
         <i>0</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>2</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="EDITE">
+        <i>23</i>
         <i>24</i>
-        <i>25</i>
-        <i>20</i>
-        <i>27</i>
+        <i>26</i>
       </sr>
       <sr word="EL"/>
       <sr word="COMENTARIO"/>
@@ -1458,18 +1637,17 @@
       <sr word="PERMITE">
         <i>8</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>12</i>
-        <i>18</i>
+        <i>17</i>
+        <i>28</i>
+        <i>23</i>
         <i>24</i>
-        <i>25</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>2</i>
       </sr>
-      <sr word="INSERTA">
-        <i>25</i>
-      </sr>
+      <sr word="INSERTAR"/>
       <sr word="AUTOM&#xE1;TICAMENTE"/>
       <sr word="UN"/>
       <sr word="ELEMENTO"/>
@@ -1480,36 +1658,35 @@
       <sr word="QUOT"/>
       <sr word="CUANDO">
         <i>15</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
-        <i>25</i>
+        <i>9</i>
+        <i>12</i>
+        <i>24</i>
         <i>6</i>
+        <i>1</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="SE"/>
-      <sr word="ENCUENTRA">
-        <i>8</i>
-        <i>25</i>
-        <i>1</i>
+      <sr word="ENCUENTRAN">
+        <i>24</i>
       </sr>
       <sr word="DOS">
         <i>8</i>
         <i>15</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
-        <i>25</i>
-        <i>20</i>
-        <i>27</i>
-        <i>17</i>
+        <i>9</i>
+        <i>24</i>
+        <i>19</i>
+        <i>26</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
         <i>2</i>
-        <i>22</i>
         <i>14</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="RETORNOS"/>
@@ -1517,85 +1694,73 @@
       <sr word="CARRO"/>
       <sr word="QUOT"/>
       <sr word="CONSECUTIVOS">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="SUPONGAMOS">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="QUE"/>
       <sr word="PARTIMOS">
-        <i>25</i>
-      </sr>
-      <sr word="DEL">
-        <i>8</i>
-        <i>15</i>
-        <i>33</i>
-        <i>21</i>
-        <i>9</i>
-        <i>32</i>
-        <i>11</i>
-        <i>12</i>
-        <i>4</i>
-        <i>18</i>
-        <i>16</i>
-        <i>28</i>
         <i>24</i>
-        <i>25</i>
-        <i>26</i>
-        <i>20</i>
-        <i>0</i>
-        <i>17</i>
-        <i>6</i>
-        <i>29</i>
-        <i>19</i>
-        <i>1</i>
-        <i>7</i>
-        <i>2</i>
-        <i>22</i>
-        <i>3</i>
-        <i>10</i>
       </sr>
+      <sr word="DEL"/>
       <sr word="SIGUIENTE"/>
       <sr word="TEXTO"/>
       <sr word="INTRODUCIDO">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="DIRECTAMENTE">
-        <i>16</i>
-        <i>25</i>
-        <i>10</i>
+        <i>27</i>
+        <i>24</i>
+        <i>11</i>
       </sr>
       <sr word="TECLEANDO">
-        <i>16</i>
-        <i>25</i>
+        <i>27</i>
+        <i>24</i>
       </sr>
       <sr word="SOBRE">
         <i>8</i>
         <i>15</i>
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>12</i>
+        <i>27</i>
         <i>28</i>
-        <i>25</i>
+        <i>24</i>
         <i>0</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>2</i>
-        <i>22</i>
-        <i>10</i>
+        <i>21</i>
+        <i>11</i>
       </sr>
       <sr word="EL"/>
       <sr word="BLOQUE">
-        <i>25</i>
-        <i>20</i>
+        <i>24</i>
+        <i>19</i>
       </sr>
       <sr word="DE"/>
       <sr word="TEXTO"/>
-      <sr word="SI"/>
-      <sr word="QUEREMOS">
-        <i>16</i>
+      <sr word="SI">
+        <i>9</i>
+        <i>12</i>
+        <i>4</i>
+        <i>27</i>
         <i>28</i>
-        <i>25</i>
+        <i>24</i>
+        <i>19</i>
+        <i>0</i>
+        <i>6</i>
+        <i>29</i>
+        <i>18</i>
+        <i>2</i>
+        <i>3</i>
+        <i>11</i>
+      </sr>
+      <sr word="QUEREMOS">
+        <i>27</i>
+        <i>28</i>
+        <i>24</i>
         <i>6</i>
         <i>1</i>
       </sr>
@@ -1605,15 +1770,15 @@
       <sr word="QUOT"/>
       <sr word="SEGUNDO"/>
       <sr word="PARRAFO">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="SE"/>
       <sr word="PRESENTE">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="EFECTIVAMENTE">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="EN"/>
       <sr word="UN"/>
@@ -1627,16 +1792,18 @@
         <i>33</i>
         <i>32</i>
         <i>12</i>
+        <i>23</i>
         <i>24</i>
-        <i>25</i>
+        <i>19</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
+        <i>29</i>
         <i>2</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="PRIMER">
-        <i>25</i>
+        <i>24</i>
         <i>29</i>
         <i>14</i>
       </sr>
@@ -1644,44 +1811,47 @@
       <sr word="QUOT"/>
       <sr word="PRIMERO"/>
       <sr word="SELECCIONAMOS">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="ESTE">
         <i>8</i>
         <i>15</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
+        <i>12</i>
         <i>4</i>
+        <i>27</i>
+        <i>23</i>
+        <i>24</i>
+        <i>19</i>
         <i>16</i>
-        <i>25</i>
-        <i>17</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="TEXTO"/>
       <sr word="VER">
         <i>8</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
-        <i>25</i>
+        <i>24</i>
         <i>6</i>
         <i>29</i>
         <i>1</i>
         <i>7</i>
-        <i>22</i>
+        <i>2</i>
+        <i>21</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="FIGURA"/>
       <sr word="SIGUIENTE"/>
@@ -1694,36 +1864,22 @@
       <sr word="QUOT"/>
       <sr word="E"/>
       <sr word="INMEDIATAMENTE">
-        <i>25</i>
+        <i>24</i>
         <i>0</i>
       </sr>
       <sr word="EL"/>
       <sr word="TEXTO"/>
       <sr word="QUEDAR&#xE1;"/>
       <sr word="MODIFICADO">
-        <i>25</i>
-        <i>20</i>
-      </sr>
-      <sr word="COMO">
-        <i>15</i>
-        <i>9</i>
-        <i>4</i>
         <i>24</i>
-        <i>25</i>
-        <i>17</i>
-        <i>6</i>
-        <i>29</i>
-        <i>7</i>
-        <i>2</i>
-        <i>22</i>
-        <i>14</i>
-        <i>3</i>
+        <i>19</i>
       </sr>
+      <sr word="COMO"/>
       <sr word="MUESTRA"/>
       <sr word="COMO"/>
       <sr word="INDICA">
         <i>8</i>
-        <i>25</i>
+        <i>24</i>
         <i>6</i>
       </sr>
       <sr word="LA"/>
@@ -1733,7 +1889,7 @@
       <sr word="SE"/>
       <sr word="VER&#xE1;"/>
       <sr word="REFLEJADO">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="EN"/>
       <sr word="EL"/>
@@ -1748,24 +1904,26 @@
         <i>5</i>
         <i>31</i>
         <i>33</i>
-        <i>21</i>
-        <i>35</i>
-        <i>25</i>
         <i>20</i>
+        <i>35</i>
+        <i>12</i>
+        <i>24</i>
+        <i>19</i>
         <i>0</i>
         <i>6</i>
         <i>7</i>
         <i>2</i>
         <i>14</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="ESTANDAR">
         <i>8</i>
         <i>5</i>
         <i>31</i>
-        <i>25</i>
-        <i>20</i>
-        <i>10</i>
+        <i>12</i>
+        <i>24</i>
+        <i>19</i>
+        <i>11</i>
       </sr>
       <sr word="CREACI&#xF3;N"/>
       <sr word="DE"/>
@@ -1776,18 +1934,18 @@
       <sr word="UN"/>
       <sr word="GRUPO"/>
       <sr word="CONSTITUYEN">
-        <i>18</i>
+        <i>17</i>
       </sr>
       <sr word="LOS"/>
       <sr word="ACCESOS">
         <i>15</i>
-        <i>18</i>
         <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="DIRECTOS">
         <i>15</i>
-        <i>18</i>
         <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="DOCUMENTOS"/>
       <sr word="O"/>
@@ -1798,7 +1956,7 @@
       <sr word="ESCRITORIO"/>
       <sr word="PERMITE"/>
       <sr word="CREARLAS">
-        <i>18</i>
+        <i>17</i>
       </sr>
       <sr word="MUY"/>
       <sr word="F&#xE1;CILMENTE"/>
@@ -1806,32 +1964,33 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>35</i>
-        <i>11</i>
+        <i>9</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
-        <i>24</i>
-        <i>0</i>
         <i>17</i>
+        <i>27</i>
+        <i>23</i>
+        <i>0</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="VARIOS">
-        <i>18</i>
-        <i>20</i>
+        <i>17</i>
+        <i>19</i>
         <i>2</i>
+        <i>21</i>
       </sr>
       <sr word="PROCEDIMIENTOS">
-        <i>18</i>
+        <i>17</i>
       </sr>
       <sr word="POR"/>
       <sr word="EL"/>
@@ -1839,62 +1998,41 @@
       <sr word="DE"/>
       <sr word="QUOT"/>
       <sr word="SELECCIONAR">
-        <i>12</i>
+        <i>17</i>
         <i>18</i>
-        <i>19</i>
         <i>2</i>
       </sr>
       <sr word="ARRASTRAR">
-        <i>11</i>
-        <i>18</i>
-        <i>16</i>
+        <i>9</i>
+        <i>17</i>
+        <i>27</i>
         <i>28</i>
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="SOLTAR">
-        <i>11</i>
-        <i>18</i>
-        <i>16</i>
+        <i>9</i>
+        <i>17</i>
+        <i>27</i>
         <i>28</i>
+        <i>19</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="EL"/>
-      <sr word="FICHERO">
-        <i>8</i>
-        <i>5</i>
-        <i>33</i>
-        <i>9</i>
-        <i>32</i>
-        <i>36</i>
-        <i>11</i>
-        <i>12</i>
-        <i>4</i>
-        <i>18</i>
-        <i>16</i>
-        <i>20</i>
-        <i>17</i>
-        <i>29</i>
-        <i>1</i>
-        <i>2</i>
-        <i>22</i>
-        <i>3</i>
-        <i>10</i>
-      </sr>
+      <sr word="FICHERO"/>
       <sr word="DE"/>
       <sr word="REFERENCIA">
         <i>12</i>
-        <i>18</i>
-        <i>6</i>
+        <i>17</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="MEDIANTE">
         <i>15</i>
         <i>5</i>
         <i>32</i>
-        <i>11</i>
-        <i>18</i>
-        <i>24</i>
+        <i>9</i>
+        <i>17</i>
+        <i>23</i>
         <i>0</i>
         <i>6</i>
         <i>2</i>
@@ -1903,7 +2041,7 @@
       <sr word="EL"/>
       <sr word="MENU"/>
       <sr word="EMERGENTE">
-        <i>18</i>
+        <i>17</i>
         <i>28</i>
       </sr>
       <sr word="QUOT"/>
@@ -1916,22 +2054,23 @@
       <sr word="QUOT"/>
       <sr word="EDITOR">
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>18</i>
+        <i>17</i>
         <i>28</i>
         <i>0</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
       </sr>
       <sr word="COMBINADO">
         <i>32</i>
-        <i>11</i>
-        <i>18</i>
+        <i>9</i>
+        <i>12</i>
+        <i>17</i>
         <i>0</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="DE"/>
       <sr word="GRUPOS"/>
@@ -1941,25 +2080,25 @@
       <sr word="INSTALACI&#xF3;N"/>
       <sr word="ESTE"/>
       <sr word="PROGRAMA">
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
-        <i>16</i>
+        <i>27</i>
         <i>29</i>
         <i>2</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="DESKTOPORGANIZER">
         <i>3</i>
       </sr>
       <sr word="EXE">
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>3</i>
       </sr>
       <sr word="REQUIERE">
-        <i>20</i>
-        <i>27</i>
+        <i>19</i>
+        <i>26</i>
         <i>3</i>
       </sr>
       <sr word="INSTALACI&#xF3;N"/>
@@ -1974,21 +2113,21 @@
         <i>3</i>
       </sr>
       <sr word="NI">
-        <i>21</i>
+        <i>20</i>
         <i>3</i>
       </sr>
       <sr word="LIBRER&#xED;A"/>
       <sr word="EN"/>
       <sr word="SU"/>
       <sr word="PC">
-        <i>24</i>
+        <i>23</i>
         <i>1</i>
         <i>3</i>
       </sr>
       <sr word="UTILIZA">
         <i>6</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
       </sr>
@@ -1997,7 +2136,7 @@
         <i>31</i>
         <i>6</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>3</i>
       </sr>
       <sr word="PRESENTES">
@@ -2010,21 +2149,21 @@
       <sr word="EN"/>
       <sr word="CUALQUIER">
         <i>32</i>
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>27</i>
         <i>6</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="INSTALACI&#xF3;N"/>
       <sr word="DE"/>
       <sr word="WINDOWS">
         <i>15</i>
+        <i>27</i>
         <i>16</i>
-        <i>17</i>
         <i>1</i>
         <i>3</i>
       </sr>
@@ -2054,26 +2193,7 @@
       <sr word="10">
         <i>3</i>
       </sr>
-      <sr word="PUEDE">
-        <i>9</i>
-        <i>32</i>
-        <i>11</i>
-        <i>12</i>
-        <i>4</i>
-        <i>16</i>
-        <i>28</i>
-        <i>20</i>
-        <i>0</i>
-        <i>17</i>
-        <i>6</i>
-        <i>1</i>
-        <i>7</i>
-        <i>2</i>
-        <i>22</i>
-        <i>14</i>
-        <i>3</i>
-        <i>10</i>
-      </sr>
+      <sr word="PUEDE"/>
       <sr word="DESCARGAR">
         <i>3</i>
       </sr>
@@ -2082,9 +2202,9 @@
       <sr word="EN"/>
       <sr word="CUALQUIER"/>
       <sr word="DIRECTORIO">
-        <i>9</i>
-        <i>3</i>
         <i>10</i>
+        <i>3</i>
+        <i>11</i>
       </sr>
       <sr word="DE"/>
       <sr word="SU"/>
@@ -2097,7 +2217,7 @@
         <i>3</i>
       </sr>
       <sr word="REALIZA">
-        <i>24</i>
+        <i>23</i>
         <i>1</i>
         <i>2</i>
         <i>3</i>
@@ -2111,16 +2231,18 @@
       <sr word="SER">
         <i>32</i>
         <i>4</i>
-        <i>17</i>
+        <i>22</i>
+        <i>16</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="EJECUTADO">
+        <i>12</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="CREA">
         <i>32</i>
@@ -2133,7 +2255,6 @@
         <i>12</i>
         <i>4</i>
         <i>16</i>
-        <i>17</i>
         <i>2</i>
         <i>14</i>
         <i>3</i>
@@ -2141,13 +2262,13 @@
       <sr word="DIRECTO">
         <i>15</i>
         <i>4</i>
-        <i>17</i>
+        <i>16</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="AL"/>
       <sr word="PROPIO">
-        <i>24</i>
+        <i>23</i>
         <i>3</i>
       </sr>
       <sr word="PROGRAMA"/>
@@ -2165,9 +2286,9 @@
       <sr word="DE"/>
       <sr word="ESTA"/>
       <sr word="FORMA">
-        <i>24</i>
-        <i>20</i>
         <i>23</i>
+        <i>19</i>
+        <i>22</i>
         <i>6</i>
         <i>29</i>
         <i>7</i>
@@ -2176,21 +2297,21 @@
       </sr>
       <sr word="PODR&#xE1;"/>
       <sr word="EJECUTARLO">
-        <i>9</i>
+        <i>10</i>
         <i>3</i>
       </sr>
       <sr word="SIN">
         <i>15</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>1</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="TENER">
-        <i>24</i>
+        <i>23</i>
         <i>2</i>
         <i>3</i>
       </sr>
@@ -2204,54 +2325,56 @@
       <sr word="DONDE">
         <i>8</i>
         <i>15</i>
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
+        <i>19</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="LO">
         <i>15</i>
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
+        <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="DEJ&#xF3;"/>
       <sr word="CREA"/>
       <sr word="UN"/>
       <sr word="SUBDIRECTORIO">
-        <i>9</i>
-        <i>3</i>
         <i>10</i>
+        <i>3</i>
+        <i>11</i>
       </sr>
       <sr word="LLAMADO">
         <i>3</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="DESKTOPORGANIZER_FILES">
-        <i>9</i>
-        <i>3</i>
         <i>10</i>
+        <i>3</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="DEBAJO">
-        <i>9</i>
+        <i>10</i>
         <i>0</i>
         <i>3</i>
       </sr>
@@ -2301,10 +2424,10 @@
       <sr word="ESCRITORIO"/>
       <sr word="QUOT"/>
       <sr word="APARECE">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>27</i>
         <i>28</i>
-        <i>24</i>
+        <i>23</i>
         <i>6</i>
         <i>3</i>
       </sr>
@@ -2322,7 +2445,7 @@
       <sr word="ICONO">
         <i>15</i>
         <i>4</i>
-        <i>17</i>
+        <i>16</i>
         <i>3</i>
       </sr>
       <sr word="Y"/>
@@ -2337,15 +2460,16 @@
       <sr word="FIGURA"/>
       <sr word="HACIENDO">
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="CLICK">
+        <i>12</i>
         <i>28</i>
-        <i>17</i>
-        <i>19</i>
+        <i>16</i>
+        <i>18</i>
         <i>2</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="EN"/>
       <sr word="ESTE"/>
@@ -2363,9 +2487,9 @@
         <i>3</i>
       </sr>
       <sr word="CREADO">
-        <i>11</i>
+        <i>9</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="CON"/>
       <sr word="EL"/>
@@ -2395,11 +2519,12 @@
       <sr word="Y"/>
       <sr word="ESTE"/>
       <sr word="EJECUTABLE">
+        <i>27</i>
         <i>16</i>
-        <i>17</i>
         <i>6</i>
         <i>1</i>
-        <i>22</i>
+        <i>2</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="COMO"/>
@@ -2410,15 +2535,17 @@
       </sr>
       <sr word="SI"/>
       <sr word="HACE">
-        <i>11</i>
+        <i>9</i>
+        <i>12</i>
         <i>28</i>
         <i>3</i>
       </sr>
       <sr word="DOBLE">
+        <i>12</i>
         <i>28</i>
         <i>2</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="CLICK"/>
       <sr word="CON"/>
@@ -2426,7 +2553,7 @@
       <sr word="RAT&#xF3;N"/>
       <sr word="EN"/>
       <sr word="ALGUNO">
-        <i>19</i>
+        <i>18</i>
         <i>3</i>
       </sr>
       <sr word="DE"/>
@@ -2436,8 +2563,9 @@
       <sr word="QUE"/>
       <sr word="VER&#xE1;"/>
       <sr word="PULSANDO">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>12</i>
+        <i>27</i>
         <i>6</i>
         <i>3</i>
       </sr>
@@ -2454,10 +2582,10 @@
         <i>3</i>
       </sr>
       <sr word="ESE">
-        <i>11</i>
+        <i>9</i>
         <i>4</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="FICHERO"/>
@@ -2475,10 +2603,10 @@
         <i>15</i>
         <i>5</i>
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>36</i>
         <i>12</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
         <i>0</i>
         <i>7</i>
@@ -2490,7 +2618,7 @@
       <sr word="PERMITE"/>
       <sr word="EXPLORAR">
         <i>33</i>
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="EL"/>
       <sr word="CONTENIDO">
@@ -2504,6 +2632,7 @@
       <sr word="FICHERO"/>
       <sr word="UTILIZANDO">
         <i>33</i>
+        <i>12</i>
         <i>28</i>
       </sr>
       <sr word="LAS"/>
@@ -2525,8 +2654,8 @@
       <sr word="GRUPOS"/>
       <sr word="TIENEN">
         <i>33</i>
-        <i>24</i>
-        <i>17</i>
+        <i>23</i>
+        <i>16</i>
         <i>7</i>
       </sr>
       <sr word="ETIQUETAS"/>
@@ -2543,9 +2672,9 @@
         <i>15</i>
         <i>33</i>
         <i>12</i>
-        <i>16</i>
+        <i>27</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>1</i>
         <i>2</i>
       </sr>
@@ -2564,8 +2693,10 @@
       <sr word="QUE"/>
       <sr word="TENGA">
         <i>33</i>
+        <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
+        <i>19</i>
         <i>0</i>
         <i>29</i>
         <i>1</i>
@@ -2588,22 +2719,14 @@
       <sr word="SIN"/>
       <sr word="ETIQUETAS"/>
       <sr word="QUOT"/>
-      <sr word="OTRO">
-        <i>33</i>
-        <i>9</i>
-        <i>12</i>
-        <i>4</i>
-        <i>16</i>
-        <i>7</i>
-        <i>10</i>
-      </sr>
+      <sr word="OTRO"/>
       <sr word="ASPECTO">
         <i>33</i>
       </sr>
       <sr word="IMPORTANTE">
         <i>33</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ES"/>
       <sr word="LA"/>
@@ -2621,7 +2744,7 @@
       <sr word="SELECCIONADO">
         <i>33</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
@@ -2649,12 +2772,12 @@
       <sr word="QUOT"/>
       <sr word="MANTENER">
         <i>15</i>
-        <i>20</i>
-        <i>22</i>
+        <i>19</i>
+        <i>21</i>
       </sr>
       <sr word="ANOTACIONES">
         <i>15</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="SOBRE"/>
       <sr word="DOCUMENTOS"/>
@@ -2663,38 +2786,34 @@
       <sr word="EXISTEN">
         <i>4</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="FICHEROS"/>
       <sr word="QUE"/>
       <sr word="CONTIENEN">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="INFORMACI&#xF3;N"/>
       <sr word="RELEVANTE">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="QUE"/>
       <sr word="CONOCEMOS">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DESPU&#xE9;S"/>
       <sr word="DE"/>
       <sr word="REALIZAR">
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="UN"/>
       <sr word="ESFUERZO">
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DE"/>
-      <sr word="LECTURA">
-        <i>2</i>
-        <i>22</i>
-        <i>14</i>
-      </sr>
+      <sr word="LECTURA"/>
       <sr word="Y"/>
       <sr word="AN&#xE1;LISIS"/>
       <sr word="QUE"/>
@@ -2704,33 +2823,30 @@
       <sr word="EN"/>
       <sr word="ALGUNOS">
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="CASOS">
         <i>15</i>
-        <i>9</i>
+        <i>10</i>
         <i>37</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ES"/>
       <sr word="CONVENIENTE">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ANOTAR">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="LOS"/>
-      <sr word="CONCEPTOS">
-        <i>2</i>
-        <i>22</i>
-      </sr>
+      <sr word="CONCEPTOS"/>
       <sr word="O"/>
       <sr word="IDEAS">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="OBTENIDAS">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DE"/>
       <sr word="ESE"/>
@@ -2740,23 +2856,24 @@
       <sr word="Y"/>
       <sr word="ASOCIAR">
         <i>12</i>
+        <i>27</i>
         <i>16</i>
-        <i>17</i>
         <i>6</i>
         <i>1</i>
         <i>7</i>
-        <i>22</i>
+        <i>2</i>
+        <i>21</i>
       </sr>
       <sr word="ESTAS">
         <i>29</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="NOTAS">
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="CON"/>
       <sr word="EL"/>
@@ -2764,11 +2881,11 @@
         <i>15</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DE"/>
       <sr word="REFERENCIA"/>
@@ -2779,7 +2896,7 @@
       <sr word="DISPONE">
         <i>5</i>
         <i>6</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DEL"/>
       <sr word="CONCEPTO"/>
@@ -2791,27 +2908,30 @@
       <sr word="FICHERO"/>
       <sr word="DIRECCI&#xF3;N"/>
       <sr word="URL">
-        <i>17</i>
-        <i>22</i>
+        <i>12</i>
+        <i>27</i>
+        <i>16</i>
+        <i>2</i>
+        <i>21</i>
       </sr>
       <sr word="EJECUTABLE"/>
       <sr word="ETC"/>
       <sr word="PENSADO">
         <i>29</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="PARA"/>
       <sr word="ANOTAR"/>
       <sr word="COMENTARIOS">
-        <i>21</i>
+        <i>20</i>
         <i>36</i>
-        <i>24</i>
         <i>23</i>
-        <i>19</i>
+        <i>22</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="MUY"/>
       <sr word="F&#xE1;CIL"/>
@@ -2829,7 +2949,7 @@
       <sr word="EL"/>
       <sr word="RAT&#xF3;N"/>
       <sr word="PASA">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="SOBRE"/>
       <sr word="LA"/>
@@ -2840,7 +2960,7 @@
       <sr word="IZQUIERDO"/>
       <sr word="ESTA"/>
       <sr word="RAPIDEZ">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DE"/>
       <sr word="PRESENTACI&#xF3;N"/>
@@ -2850,10 +2970,10 @@
       <sr word="FACILITA">
         <i>6</i>
         <i>29</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="MUCHO">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="LA"/>
       <sr word="EXPLORACI&#xF3;N"/>
@@ -2878,65 +2998,67 @@
         <i>15</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
-        <i>10</i>
+        <i>21</i>
+        <i>14</i>
+        <i>11</i>
       </sr>
       <sr word="LOS"/>
       <sr word="COMENTARIOS"/>
       <sr word="ADMITEN">
-        <i>24</i>
-        <i>22</i>
+        <i>23</i>
+        <i>21</i>
       </sr>
       <sr word="FORMATO">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="HTML"/>
       <sr word="EL"/>
       <sr word="UTILIZADO">
         <i>31</i>
+        <i>20</i>
         <i>21</i>
-        <i>22</i>
       </sr>
       <sr word="PARA"/>
       <sr word="CREAR"/>
       <sr word="PAGINAS">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="WEB">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="LO"/>
       <sr word="QUE"/>
       <sr word="DA">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="UNA"/>
       <sr word="GRAN">
         <i>7</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="VERSATILIDAD">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="EN"/>
-      <sr word="DOS"/>
+      <sr word="VARIOS"/>
       <sr word="ASPECTOS">
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="SE"/>
       <sr word="PUEDE"/>
       <sr word="CAMBIAR">
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>16</i>
-        <i>24</i>
-        <i>26</i>
+        <i>27</i>
+        <i>23</i>
+        <i>25</i>
+        <i>19</i>
         <i>0</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="EL"/>
       <sr word="FORMATO"/>
@@ -2944,80 +3066,82 @@
       <sr word="CUALQUIER"/>
       <sr word="PARTE">
         <i>8</i>
-        <i>24</i>
-        <i>26</i>
+        <i>23</i>
+        <i>25</i>
         <i>0</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DEL"/>
       <sr word="TEXTO"/>
       <sr word="EN"/>
       <sr word="NEGRITA">
-        <i>24</i>
-        <i>26</i>
-        <i>22</i>
+        <i>23</i>
+        <i>25</i>
+        <i>21</i>
       </sr>
       <sr word="EN"/>
       <sr word="IT&#xE1;LICA"/>
       <sr word="SUBRAYADO">
-        <i>26</i>
+        <i>25</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="TAMA&#xF1;OS"/>
       <sr word="DE"/>
       <sr word="CARACTERES">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="COLOR">
         <i>12</i>
-        <i>23</i>
-        <i>29</i>
         <i>22</i>
+        <i>29</i>
+        <i>21</i>
       </sr>
       <sr word="SE"/>
       <sr word="PUEDEN">
-        <i>21</i>
+        <i>20</i>
         <i>36</i>
-        <i>24</i>
+        <i>23</i>
         <i>0</i>
         <i>6</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="INCLUIR">
-        <i>11</i>
-        <i>24</i>
+        <i>9</i>
+        <i>23</i>
         <i>0</i>
         <i>7</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="IM&#xE1;GENES"/>
       <sr word="SE"/>
       <sr word="PUEDEN"/>
       <sr word="INCLUIR"/>
       <sr word="HIPERENLACES">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="TANTO">
         <i>15</i>
-        <i>9</i>
-        <i>24</i>
-        <i>22</i>
+        <i>10</i>
+        <i>23</i>
+        <i>21</i>
       </sr>
       <sr word="URLS">
-        <i>22</i>
+        <i>12</i>
+        <i>21</i>
       </sr>
       <sr word="EN"/>
       <sr word="INTERNET">
-        <i>24</i>
-        <i>17</i>
-        <i>22</i>
+        <i>12</i>
+        <i>23</i>
+        <i>16</i>
+        <i>21</i>
       </sr>
       <sr word="COMO"/>
       <sr word="FICHEROS"/>
@@ -3026,7 +3150,7 @@
       <sr word="DISCO">
         <i>4</i>
         <i>6</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="LA"/>
       <sr word="SIGUIENTE"/>
@@ -3043,7 +3167,7 @@
       <sr word="INFORMACI&#xF3;N"/>
       <sr word="SE"/>
       <sr word="GUARDA">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="EN"/>
       <sr word="EL"/>
@@ -3055,17 +3179,17 @@
       <sr word="EST&#xE1;"/>
       <sr word="USANDO">
         <i>8</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>16</i>
+        <i>27</i>
         <i>29</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="Y"/>
       <sr word="POR"/>
       <sr word="TANTO"/>
       <sr word="QUEDA">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ASOCIADO"/>
       <sr word="AL"/>
@@ -3077,7 +3201,7 @@
       <sr word="REFIERE">
         <i>12</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
       </sr>
       <sr word="LA"/>
@@ -3086,13 +3210,14 @@
       <sr word="EL"/>
       <sr word="CASO">
         <i>8</i>
-        <i>21</i>
+        <i>20</i>
+        <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>29</i>
-        <i>19</i>
-        <i>22</i>
-        <i>10</i>
+        <i>18</i>
+        <i>21</i>
+        <i>11</i>
       </sr>
       <sr word="DE"/>
       <sr word="APLICACIONES"/>
@@ -3103,7 +3228,7 @@
       <sr word="LOS"/>
       <sr word="QUE"/>
       <sr word="DEPENDEN">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="SU"/>
       <sr word="FUNCIONALIDAD"/>
@@ -3113,35 +3238,35 @@
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
       <sr word="CORRESPONDIENTE">
-        <i>9</i>
+        <i>10</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ES"/>
       <sr word="IMPRESCINDIBLE">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="PARA"/>
       <sr word="PODER">
         <i>12</i>
-        <i>22</i>
+        <i>21</i>
         <i>14</i>
       </sr>
       <sr word="CONOCER">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="SU"/>
       <sr word="COMPORTAMIENTO">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="ANTES">
         <i>0</i>
         <i>6</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DE"/>
       <sr word="LANZARLA">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="VER"/>
       <sr word="FIGURA"/>
@@ -3168,7 +3293,7 @@
       <sr word="USANDO"/>
       <sr word="EL"/>
       <sr word="EXPLORADOR">
-        <i>16</i>
+        <i>27</i>
         <i>1</i>
         <i>7</i>
       </sr>
@@ -3180,21 +3305,21 @@
       <sr word="PROGRAMA"/>
       <sr word="QUE"/>
       <sr word="PERMITA">
-        <i>16</i>
+        <i>27</i>
         <i>7</i>
       </sr>
       <sr word="EXPLORAR"/>
       <sr word="EL"/>
       <sr word="SISTEMA">
         <i>15</i>
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="DE"/>
       <sr word="DISCOS">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="SELECCIONE">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="EL"/>
       <sr word="DOCUMENTO"/>
@@ -3205,9 +3330,9 @@
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
       <sr word="PULSE">
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
-        <i>16</i>
+        <i>27</i>
         <i>6</i>
         <i>1</i>
       </sr>
@@ -3222,15 +3347,15 @@
       <sr word="Y"/>
       <sr word="SIN"/>
       <sr word="DEJAR">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="APRETAR">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="EL"/>
       <sr word="BOT&#xF3;N"/>
       <sr word="MUEVA">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="EL"/>
       <sr word="RAT&#xF3;N"/>
@@ -3240,7 +3365,8 @@
       <sr word="QUE"/>
       <sr word="DONDE"/>
       <sr word="QUIERA">
-        <i>16</i>
+        <i>27</i>
+        <i>19</i>
         <i>2</i>
       </sr>
       <sr word="CREAR"/>
@@ -3248,13 +3374,13 @@
       <sr word="OPCI&#xF3;N"/>
       <sr word="Y"/>
       <sr word="ENTONCES">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="SU&#xE9;LTELO"/>
       <sr word="QUOT"/>
       <sr word="DEJE">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="DE"/>
       <sr word="APRETAR"/>
@@ -3267,22 +3393,23 @@
       <sr word="SIGUIENTE"/>
       <sr word="FORMULARIO"/>
       <sr word="PARCIALMENTE">
-        <i>21</i>
-        <i>16</i>
+        <i>20</i>
+        <i>27</i>
       </sr>
       <sr word="RELLENADO">
-        <i>16</i>
+        <i>12</i>
+        <i>27</i>
       </sr>
       <sr word="CON"/>
       <sr word="DATOS">
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
       </sr>
       <sr word="DEL"/>
       <sr word="FICHERO"/>
       <sr word="ELEGIDO">
-        <i>9</i>
-        <i>16</i>
+        <i>10</i>
+        <i>27</i>
         <i>1</i>
       </sr>
       <sr word="EL"/>
@@ -3298,70 +3425,57 @@
       <sr word="EL"/>
       <sr word="COMANDO">
         <i>12</i>
+        <i>27</i>
+        <i>28</i>
         <i>16</i>
-        <i>17</i>
         <i>6</i>
         <i>1</i>
         <i>2</i>
       </sr>
       <sr word="DEBE">
-        <i>9</i>
-        <i>16</i>
-        <i>20</i>
-        <i>6</i>
+        <i>10</i>
+        <i>12</i>
+        <i>27</i>
         <i>19</i>
+        <i>6</i>
+        <i>18</i>
         <i>2</i>
       </sr>
       <sr word="CONTENER">
-        <i>16</i>
+        <i>27</i>
         <i>14</i>
       </sr>
-      <sr word="EN"/>
-      <sr word="EL"/>
-      <sr word="CASO"/>
+      <sr word="LA"/>
+      <sr word="LOCALIZACI&#xF3;N"/>
       <sr word="DE"/>
-      <sr word="ACCESO"/>
       <sr word="UN"/>
       <sr word="DOCUMENTO"/>
-      <sr word="SU"/>
-      <sr word="LOCALIZACI&#xF3;N"/>
       <sr word="EN"/>
       <sr word="EL"/>
       <sr word="SISTEMA"/>
       <sr word="DE"/>
       <sr word="ARCHIVOS">
         <i>15</i>
-        <i>16</i>
+        <i>27</i>
       </sr>
-      <sr word="B">
-        <i>21</i>
-        <i>16</i>
-        <i>26</i>
-        <i>23</i>
-        <i>2</i>
+      <sr word="UNA"/>
+      <sr word="URL"/>
+      <sr word="V&#xE1;LIDA"/>
+      <sr word="LA"/>
+      <sr word="LOCALIZACION">
+        <i>27</i>
       </sr>
-      <sr word="EN"/>
-      <sr word="EL"/>
-      <sr word="CASO"/>
       <sr word="DE"/>
       <sr word="UNA"/>
       <sr word="APLICACI&#xF3;N"/>
       <sr word="EJECUTABLE"/>
-      <sr word="LA"/>
-      <sr word="DIRECCI&#xF3;N"/>
-      <sr word="DE"/>
-      <sr word="LA"/>
-      <sr word="MISMA">
-        <i>16</i>
-        <i>28</i>
-      </sr>
       <sr word="SEGUIDA">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="DEL"/>
       <sr word="CONJUNTO">
-        <i>21</i>
-        <i>16</i>
+        <i>20</i>
+        <i>27</i>
         <i>2</i>
       </sr>
       <sr word="DE"/>
@@ -3369,17 +3483,24 @@
       <sr word="QUE"/>
       <sr word="SE"/>
       <sr word="DESEEN">
-        <i>16</i>
+        <i>27</i>
+      </sr>
+      <sr word="SEPARADAS">
+        <i>27</i>
+      </sr>
+      <sr word="POR"/>
+      <sr word="BLANCOS">
+        <i>27</i>
       </sr>
       <sr word="PARA"/>
       <sr word="ESTE"/>
       <sr word="ULTIMO">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="CASO"/>
       <sr word="CONSULTAR">
-        <i>9</i>
-        <i>16</i>
+        <i>10</i>
+        <i>27</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="ASOCIAR"/>
@@ -3396,10 +3517,10 @@
       <sr word="PUEDE"/>
       <sr word="MODIFICAR">
         <i>36</i>
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="COLOCANDO">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="EL"/>
       <sr word="RAT&#xF3;N"/>
@@ -3407,9 +3528,9 @@
       <sr word="LA"/>
       <sr word="CAJA">
         <i>8</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
-        <i>20</i>
+        <i>19</i>
         <i>0</i>
         <i>6</i>
         <i>1</i>
@@ -3417,11 +3538,11 @@
       <sr word="DE"/>
       <sr word="TEXTO"/>
       <sr word="FONDO">
-        <i>16</i>
+        <i>27</i>
         <i>29</i>
       </sr>
       <sr word="AZUL">
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
       </sr>
       <sr word="ASOCIADO"/>
@@ -3437,36 +3558,37 @@
       <sr word="DONDE"/>
       <sr word="DEBE"/>
       <sr word="INTRODUCIR">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>12</i>
+        <i>27</i>
         <i>0</i>
         <i>2</i>
         <i>14</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="EL"/>
       <sr word="TEXTO"/>
       <sr word="DEL"/>
       <sr word="COMENTARIO"/>
       <sr word="DESEADO">
-        <i>9</i>
-        <i>16</i>
+        <i>10</i>
+        <i>27</i>
       </sr>
       <sr word="PULSE"/>
       <sr word="EL"/>
       <sr word="BOT&#xF3;N"/>
       <sr word="QUOT"/>
       <sr word="CONTINUAR">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>27</i>
         <i>0</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="O"/>
       <sr word="QUOT"/>
       <sr word="CANCELAR">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>27</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="PARA"/>
@@ -3488,15 +3610,11 @@
       <sr word="ASOCIADO"/>
       <sr word="AL"/>
       <sr word="ROTULO">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="ETIQUETAS"/>
       <sr word="QUOT"/>
-      <sr word="VER"/>
-      <sr word="LA"/>
-      <sr word="SIGUIENTE"/>
-      <sr word="FIGURA"/>
       <sr word="PULSANDO"/>
       <sr word="EL"/>
       <sr word="BOT&#xF3;N"/>
@@ -3505,51 +3623,52 @@
       <sr word="LOS"/>
       <sr word="DETALLES">
         <i>12</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
         <i>7</i>
       </sr>
       <sr word="Y"/>
       <sr word="VOLVER">
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
         <i>6</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="AUNQUE">
-        <i>16</i>
+        <i>27</i>
         <i>1</i>
       </sr>
       <sr word="PREVIAMENTE">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="EL"/>
       <sr word="PROGRAMA"/>
       <sr word="LE">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>12</i>
+        <i>27</i>
         <i>6</i>
         <i>2</i>
       </sr>
       <sr word="PEDIR&#xE1;"/>
       <sr word="QUE"/>
       <sr word="COMPRUEBE">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="SI"/>
       <sr word="EL"/>
       <sr word="COMANDO"/>
       <sr word="ES"/>
       <sr word="CORRECTO">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="PARA"/>
       <sr word="LO"/>
       <sr word="QUE"/>
       <sr word="DEBER&#xE1;"/>
       <sr word="PULSAR">
-        <i>16</i>
-        <i>20</i>
+        <i>27</i>
+        <i>19</i>
         <i>0</i>
         <i>6</i>
       </sr>
@@ -3557,7 +3676,7 @@
       <sr word="BOT&#xF3;N"/>
       <sr word="QUOT"/>
       <sr word="COMPROBAR">
-        <i>16</i>
+        <i>27</i>
         <i>6</i>
         <i>1</i>
       </sr>
@@ -3565,7 +3684,7 @@
       <sr word="QUOT"/>
       <sr word="Y"/>
       <sr word="CERCIORARSE">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="DE"/>
       <sr word="QUE"/>
@@ -3573,7 +3692,7 @@
       <sr word="DOCUMENTO"/>
       <sr word="APARECE"/>
       <sr word="CORRECTAMENTE">
-        <i>16</i>
+        <i>27</i>
         <i>6</i>
       </sr>
       <sr word="EN"/>
@@ -3583,35 +3702,36 @@
       <sr word="TENGA"/>
       <sr word="ASOCIADA"/>
       <sr word="RESPONDA">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="SI"/>
       <sr word="QUOT"/>
       <sr word="LA"/>
       <sr word="PREGUNTA">
-        <i>21</i>
-        <i>16</i>
+        <i>20</i>
+        <i>27</i>
       </sr>
       <sr word="QUE"/>
       <sr word="LE"/>
       <sr word="HAGA">
-        <i>16</i>
+        <i>12</i>
+        <i>27</i>
       </sr>
       <sr word="CASO"/>
       <sr word="DE"/>
       <sr word="QUE"/>
       <sr word="TODO">
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="VAYA">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="BIEN">
-        <i>21</i>
+        <i>20</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>7</i>
       </sr>
       <sr word="APARECER&#xE1;"/>
@@ -3619,15 +3739,15 @@
       <sr word="OPCI&#xF3;N"/>
       <sr word="CREADA">
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="EN"/>
       <sr word="EL"/>
       <sr word="FORMULARIO"/>
       <sr word="PRINCIPAL">
         <i>8</i>
-        <i>9</i>
-        <i>16</i>
+        <i>10</i>
+        <i>27</i>
         <i>14</i>
       </sr>
       <sr word="OPCIONES"/>
@@ -3635,16 +3755,17 @@
       <sr word="EDITAR">
         <i>32</i>
         <i>36</i>
+        <i>12</i>
         <i>0</i>
-        <i>19</i>
+        <i>18</i>
         <i>30</i>
       </sr>
       <sr word="BORRAR">
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>0</i>
-        <i>19</i>
+        <i>18</i>
         <i>30</i>
       </sr>
       <sr word="CREACI&#xF3;N"/>
@@ -3664,7 +3785,7 @@
       <sr word="DE"/>
       <sr word="ESCRITORIO"/>
       <sr word="SIRVE">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="TANTO"/>
       <sr word="PARA"/>
@@ -3676,11 +3797,11 @@
       <sr word="COMO"/>
       <sr word="PARA"/>
       <sr word="CREARLO">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="O"/>
       <sr word="MODIFICARLO">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="SE"/>
       <sr word="PUEDE"/>
@@ -3693,13 +3814,13 @@
       <sr word="DE"/>
       <sr word="DOS"/>
       <sr word="FORMAS">
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>7</i>
       </sr>
       <sr word="ESPECIFICANDO">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
@@ -3713,9 +3834,9 @@
       <sr word="QUOT"/>
       <sr word="AL"/>
       <sr word="MOMENTO">
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>2</i>
       </sr>
       <sr word="DE"/>
@@ -3743,10 +3864,10 @@
       <sr word="QUOT"/>
       <sr word="CUANDO"/>
       <sr word="ESTAMOS">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="VISUALIZANDO">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="OTRO"/>
       <sr word="FICHERO"/>
@@ -3758,22 +3879,22 @@
       <sr word="INTERFAZ">
         <i>8</i>
         <i>31</i>
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="DE"/>
       <sr word="USUARIO">
         <i>8</i>
         <i>31</i>
-        <i>9</i>
+        <i>10</i>
         <i>2</i>
         <i>38</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="EN"/>
       <sr word="AMBOS">
-        <i>9</i>
-        <i>20</i>
+        <i>10</i>
+        <i>19</i>
       </sr>
       <sr word="CASOS"/>
       <sr word="EL"/>
@@ -3782,29 +3903,31 @@
       <sr word="EL"/>
       <sr word="NOMBRE">
         <i>8</i>
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
         <i>4</i>
         <i>2</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUE"/>
       <sr word="QUIERE">
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
+        <i>12</i>
         <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>2</i>
       </sr>
       <sr word="DARLE">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="AL"/>
       <sr word="FICHERO"/>
       <sr word="NUEVO"/>
       <sr word="PARA"/>
       <sr word="ELLO">
-        <i>9</i>
+        <i>10</i>
         <i>28</i>
         <i>1</i>
       </sr>
@@ -3813,8 +3936,8 @@
       <sr word="FORMULARIO"/>
       <sr word="CORRESPONDIENTE"/>
       <sr word="ABIERTO">
-        <i>9</i>
         <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="EN"/>
       <sr word="EL"/>
@@ -3823,8 +3946,8 @@
       <sr word="DESKTOPORGANIZER_FILES"/>
       <sr word="QUOT"/>
       <sr word="SITUADO">
-        <i>9</i>
-        <i>19</i>
+        <i>10</i>
+        <i>18</i>
       </sr>
       <sr word="DEBAJO"/>
       <sr word="DEL"/>
@@ -3836,7 +3959,7 @@
       <sr word="SIGUIENTE"/>
       <sr word="FIGURA"/>
       <sr word="TECLEE">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="EL"/>
       <sr word="NOMBRE"/>
@@ -3847,22 +3970,18 @@
       <sr word="ESTE"/>
       <sr word="EJEMPLO"/>
       <sr word="HEMOS">
-        <i>9</i>
+        <i>10</i>
         <i>4</i>
       </sr>
       <sr word="ELEGIDO"/>
       <sr word="QUOT"/>
-      <sr word="FOTOS">
-        <i>9</i>
-        <i>4</i>
-        <i>7</i>
-      </sr>
+      <sr word="FOTOS"/>
       <sr word="QUOT"/>
       <sr word="Y"/>
       <sr word="PULSE"/>
       <sr word="QUOT"/>
       <sr word="GUARDAR">
-        <i>9</i>
+        <i>10</i>
         <i>28</i>
         <i>2</i>
       </sr>
@@ -3874,13 +3993,13 @@
       <sr word="DONDE"/>
       <sr word="PODR&#xE1;"/>
       <sr word="ESCOGER">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="DOS"/>
       <sr word="FORMAS"/>
       <sr word="DE"/>
       <sr word="COMENZAR">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="LA"/>
       <sr word="EDICI&#xF3;N"/>
@@ -3888,28 +4007,29 @@
       <sr word="NUEVO"/>
       <sr word="FICHERO"/>
       <sr word="ELIJA">
-        <i>9</i>
-        <i>29</i>
+        <i>10</i>
       </sr>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
       <sr word="QUOT"/>
       <sr word="USAR">
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
         <i>12</i>
+        <i>23</i>
         <i>1</i>
+        <i>14</i>
       </sr>
       <sr word="MEN&#xFA;S"/>
       <sr word="EMERGENTES">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="Y"/>
       <sr word="PULSE"/>
       <sr word="QUOT"/>
       <sr word="CONTINUE">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="APARECER&#xE1;"/>
@@ -3926,13 +4046,13 @@
       <sr word="LA"/>
       <sr word="SIGUIENTE"/>
       <sr word="IMAGEN">
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>24</i>
-        <i>20</i>
+        <i>23</i>
+        <i>19</i>
       </sr>
       <sr word="PARTIR">
-        <i>9</i>
+        <i>10</i>
         <i>2</i>
       </sr>
       <sr word="DE"/>
@@ -3950,23 +4070,23 @@
       <sr word="LOS"/>
       <sr word="GRUPOS"/>
       <sr word="ESTO">
-        <i>9</i>
-        <i>19</i>
+        <i>10</i>
+        <i>18</i>
       </sr>
       <sr word="LO"/>
       <sr word="PUEDE"/>
       <sr word="HACER">
-        <i>9</i>
+        <i>10</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>28</i>
-        <i>19</i>
+        <i>18</i>
         <i>2</i>
       </sr>
       <sr word="DE"/>
       <sr word="VARIAS">
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
         <i>7</i>
         <i>2</i>
       </sr>
@@ -3983,8 +4103,8 @@
       <sr word="CAMBIAR"/>
       <sr word="NEGRITA"/>
       <sr word="CURSIVA">
-        <i>24</i>
-        <i>26</i>
+        <i>23</i>
+        <i>25</i>
       </sr>
       <sr word="O"/>
       <sr word="SUBRAYADO"/>
@@ -4002,11 +4122,12 @@
       <sr word="SUBRAYADO"/>
       <sr word="ES"/>
       <sr word="SIMILAR">
-        <i>26</i>
+        <i>25</i>
       </sr>
       <sr word="AL"/>
       <sr word="DESCRITO">
-        <i>26</i>
+        <i>12</i>
+        <i>25</i>
       </sr>
       <sr word="EN"/>
       <sr word="QUOT"/>
@@ -4018,9 +4139,21 @@
       <sr word="TEXTO"/>
       <sr word="EN"/>
       <sr word="NEGRITA"/>
+      <sr word="TEXTO"/>
+      <sr word="HTML"/>
+      <sr word="RESULTADO"/>
+      <sr word="PRESENTADO"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="DEL"/>
+      <sr word="MENU"/>
       <sr word="P&#xE1;RRAFO"/>
       <sr word="LT"/>
-      <sr word="B"/>
+      <sr word="B">
+        <i>20</i>
+        <i>25</i>
+        <i>22</i>
+        <i>2</i>
+      </sr>
       <sr word="GT"/>
       <sr word="PRIMERO"/>
       <sr word="LT"/>
@@ -4039,11 +4172,18 @@
       <sr word="TEXTO"/>
       <sr word="EN"/>
       <sr word="CURSIVA"/>
+      <sr word="TEXTO"/>
+      <sr word="HTML"/>
+      <sr word="RESULTADO"/>
+      <sr word="PRESENTADO"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="DEL"/>
+      <sr word="MENU"/>
       <sr word="P&#xE1;RRAFO"/>
       <sr word="LT"/>
       <sr word="I">
-        <i>26</i>
-        <i>23</i>
+        <i>25</i>
+        <i>22</i>
       </sr>
       <sr word="GT"/>
       <sr word="PRIMERO"/>
@@ -4065,8 +4205,9 @@
       <sr word="P&#xE1;RRAFO"/>
       <sr word="LT"/>
       <sr word="U">
-        <i>26</i>
-        <i>23</i>
+        <i>25</i>
+        <i>19</i>
+        <i>22</i>
       </sr>
       <sr word="GT"/>
       <sr word="PRIMERO"/>
@@ -4093,13 +4234,17 @@
       <sr word="OPCI&#xF3;N"/>
       <sr word="OPCIONES"/>
       <sr word="CON"/>
-      <sr word="REFERENCIA"/>
-      <sr word="UNA"/>
+      <sr word="COMANDO"/>
+      <sr word="TIPO">
+        <i>20</i>
+        <i>23</i>
+        <i>6</i>
+        <i>1</i>
+        <i>2</i>
+      </sr>
       <sr word="APLICACI&#xF3;N"/>
       <sr word="CON"/>
-      <sr word="PARAMETROS">
-        <i>6</i>
-      </sr>
+      <sr word="PAR&#xE1;METROS"/>
       <sr word="LA"/>
       <sr word="INVOCACI&#xF3;N"/>
       <sr word="DE"/>
@@ -4107,18 +4252,18 @@
       <sr word="EJECUTABLE"/>
       <sr word="PUEDE"/>
       <sr word="REQUERIR">
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
       </sr>
       <sr word="PAR&#xE1;METROS"/>
       <sr word="ADEM&#xE1;S"/>
       <sr word="ESTOS">
         <i>15</i>
-        <i>24</i>
         <i>23</i>
+        <i>22</i>
         <i>6</i>
         <i>2</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="PAR&#xE1;METROS"/>
       <sr word="PUEDEN"/>
@@ -4139,7 +4284,7 @@
       <sr word="PUEDE"/>
       <sr word="QUE"/>
       <sr word="CONTENGA">
-        <i>21</i>
+        <i>20</i>
         <i>6</i>
         <i>29</i>
       </sr>
@@ -4158,7 +4303,7 @@
       <sr word="EJEMPLO"/>
       <sr word="QUOT"/>
       <sr word="C">
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
       </sr>
       <sr word="PROGRAM">
@@ -4180,7 +4325,7 @@
         <i>6</i>
       </sr>
       <sr word="TEST">
-        <i>20</i>
+        <i>19</i>
         <i>6</i>
       </sr>
       <sr word="XML">
@@ -4236,8 +4381,8 @@
       <sr word="EL"/>
       <sr word="COMANDO"/>
       <sr word="ANTERIOR">
-        <i>21</i>
-        <i>11</i>
+        <i>20</i>
+        <i>9</i>
         <i>0</i>
         <i>6</i>
       </sr>
@@ -4347,7 +4492,7 @@
       <sr word="C"/>
       <sr word="MP"/>
       <sr word="TEXT">
-        <i>23</i>
+        <i>22</i>
         <i>6</i>
       </sr>
       <sr word="XML"/>
@@ -4355,7 +4500,8 @@
       <sr word="PARA"/>
       <sr word="FACILITAR">
         <i>15</i>
-        <i>21</i>
+        <i>20</i>
+        <i>19</i>
         <i>6</i>
         <i>29</i>
         <i>2</i>
@@ -4379,7 +4525,7 @@
       <sr word="QUE"/>
       <sr word="FACILITA"/>
       <sr word="ESA">
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
         <i>7</i>
       </sr>
@@ -4393,7 +4539,7 @@
       <sr word="SU"/>
       <sr word="USO">
         <i>4</i>
-        <i>23</i>
+        <i>22</i>
         <i>6</i>
         <i>37</i>
         <i>2</i>
@@ -4444,7 +4590,7 @@
       <sr word="FIGURA"/>
       <sr word="SI"/>
       <sr word="PULSAMOS">
-        <i>11</i>
+        <i>9</i>
         <i>28</i>
         <i>6</i>
         <i>1</i>
@@ -4499,7 +4645,7 @@
         <i>28</i>
         <i>6</i>
         <i>1</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUE"/>
       <sr word="SE"/>
@@ -4549,6 +4695,7 @@
       <sr word="APLICACI&#xF3;N"/>
       <sr word="SE"/>
       <sr word="EJECUTA">
+        <i>12</i>
         <i>6</i>
       </sr>
       <sr word="CORRECTAMENTE"/>
@@ -4581,9 +4728,7 @@
         <i>6</i>
         <i>2</i>
       </sr>
-      <sr word="ALBUM">
-        <i>7</i>
-      </sr>
+      <sr word="ALBUM"/>
       <sr word="DE"/>
       <sr word="FOTOS"/>
       <sr word="LOS"/>
@@ -4591,13 +4736,13 @@
       <sr word="SON">
         <i>15</i>
         <i>5</i>
-        <i>21</i>
-        <i>4</i>
-        <i>24</i>
         <i>20</i>
+        <i>4</i>
         <i>23</i>
-        <i>0</i>
         <i>19</i>
+        <i>22</i>
+        <i>0</i>
+        <i>18</i>
         <i>7</i>
         <i>2</i>
       </sr>
@@ -4613,7 +4758,7 @@
       </sr>
       <sr word="FORMAS"/>
       <sr word="DE"/>
-      <sr word="VISUALIZACI&#xF3;N"/>
+      <sr word="CLASIFICACI&#xF3;N"/>
       <sr word="YA"/>
       <sr word="QUE"/>
       <sr word="TIENEN"/>
@@ -4686,13 +4831,13 @@
       </sr>
       <sr word="PUEDE"/>
       <sr word="AYUDAR">
-        <i>24</i>
+        <i>23</i>
         <i>7</i>
       </sr>
       <sr word="CREAR"/>
       <sr word="UNA"/>
       <sr word="ESTRUCTURA">
-        <i>24</i>
+        <i>23</i>
         <i>7</i>
         <i>2</i>
       </sr>
@@ -4717,7 +4862,7 @@
         <i>7</i>
       </sr>
       <sr word="DETERMINADOS">
-        <i>24</i>
+        <i>23</i>
         <i>7</i>
       </sr>
       <sr word="CRITERIOS"/>
@@ -4743,7 +4888,7 @@
       <sr word="EJEMPLO"/>
       <sr word="PODEMOS">
         <i>4</i>
-        <i>19</i>
+        <i>18</i>
         <i>7</i>
       </sr>
       <sr word="CREAR"/>
@@ -4752,11 +4897,7 @@
       <sr word="POR"/>
       <sr word="CADA"/>
       <sr word="QUOT"/>
-      <sr word="LISTA">
-        <i>28</i>
-        <i>7</i>
-        <i>2</i>
-      </sr>
+      <sr word="LISTA"/>
       <sr word="DE"/>
       <sr word="VISUALIZACI&#xF3;N"/>
       <sr word="QUOT"/>
@@ -4848,6 +4989,7 @@
       <sr word="EST&#xE1;N"/>
       <sr word="DISPONIBLES">
         <i>8</i>
+        <i>12</i>
         <i>7</i>
       </sr>
       <sr word="TRAV&#xE9;S"/>
@@ -4871,7 +5013,8 @@
       <sr word="OPCI&#xF3;N"/>
       <sr word="QUOT"/>
       <sr word="PROPIEDADES">
-        <i>17</i>
+        <i>12</i>
+        <i>16</i>
         <i>7</i>
       </sr>
       <sr word="QUOT"/>
@@ -4894,6 +5037,7 @@
       </sr>
       <sr word="EN"/>
       <sr word="ELLA">
+        <i>12</i>
         <i>7</i>
         <i>2</i>
       </sr>
@@ -4907,7 +5051,7 @@
         <i>2</i>
       </sr>
       <sr word="OTROS">
-        <i>24</i>
+        <i>23</i>
         <i>7</i>
         <i>2</i>
       </sr>
@@ -4915,8 +5059,8 @@
       <sr word="BIEN"/>
       <sr word="COMO"/>
       <sr word="HIPERENLACE">
-        <i>24</i>
-        <i>27</i>
+        <i>23</i>
+        <i>26</i>
         <i>7</i>
       </sr>
       <sr word="VER"/>
@@ -4953,7 +5097,7 @@
       <sr word="POSIBLES">
         <i>8</i>
         <i>5</i>
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="EL"/>
       <sr word="ORGANIZADOR"/>
@@ -4964,7 +5108,7 @@
       <sr word="4"/>
       <sr word="MODOS">
         <i>5</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="DE"/>
       <sr word="PRESENTAR">
@@ -4991,7 +5135,7 @@
       <sr word="DESPLEGABLE">
         <i>5</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="TITULADO">
         <i>5</i>
@@ -5032,9 +5176,7 @@
       <sr word="BORRAR"/>
       <sr word="LA"/>
       <sr word="PARTE"/>
-      <sr word="QUOT"/>
       <sr word="GRUPOS"/>
-      <sr word="QUOT"/>
       <sr word="DEL"/>
       <sr word="QUOT"/>
       <sr word="EDITOR"/>
@@ -5048,17 +5190,17 @@
         <i>8</i>
         <i>0</i>
         <i>29</i>
-        <i>19</i>
+        <i>18</i>
         <i>14</i>
       </sr>
       <sr word="LOS"/>
       <sr word="SIGUIENTES">
         <i>8</i>
         <i>15</i>
-        <i>20</i>
-        <i>23</i>
-        <i>17</i>
         <i>19</i>
+        <i>22</i>
+        <i>16</i>
+        <i>18</i>
         <i>1</i>
         <i>2</i>
         <i>14</i>
@@ -5067,32 +5209,38 @@
       <sr word="LAS"/>
       <sr word="CAJAS">
         <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="EXISTENTES">
         <i>28</i>
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="Y"/>
       <sr word="QUOT"/>
       <sr word="NUEVO"/>
       <sr word="QUOT"/>
-      <sr word="PERMITE"/>
       <sr word="ARRIBA">
         <i>8</i>
-        <i>11</i>
-        <i>19</i>
+        <i>9</i>
+        <i>18</i>
       </sr>
       <sr word="LA"/>
       <sr word="IZQUIERDA">
         <i>8</i>
-        <i>11</i>
-        <i>19</i>
+        <i>9</i>
+        <i>18</i>
       </sr>
-      <sr word="PERMITE"/>
+      <sr word="PERMITEN">
+        <i>9</i>
+        <i>16</i>
+        <i>18</i>
+        <i>2</i>
+        <i>14</i>
+      </sr>
       <sr word="DECIDIR">
-        <i>19</i>
+        <i>18</i>
         <i>2</i>
       </sr>
       <sr word="SI"/>
@@ -5102,9 +5250,7 @@
       <sr word="QUIERE"/>
       <sr word="HACER"/>
       <sr word="ES"/>
-      <sr word="TRABAJAR">
-        <i>19</i>
-      </sr>
+      <sr word="EDITAR"/>
       <sr word="CON"/>
       <sr word="ALGUNO"/>
       <sr word="DE"/>
@@ -5114,11 +5260,11 @@
       <sr word="EXISTENTES"/>
       <sr word="O"/>
       <sr word="DEFINIR">
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="UNO">
-        <i>19</i>
-        <i>10</i>
+        <i>18</i>
+        <i>11</i>
       </sr>
       <sr word="NUEVO"/>
       <sr word="EN"/>
@@ -5134,7 +5280,7 @@
       <sr word="SU"/>
       <sr word="DERECHA">
         <i>8</i>
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="PERMITE"/>
       <sr word="SELECCIONAR"/>
@@ -5146,11 +5292,12 @@
       <sr word="SE"/>
       <sr word="QUIERE"/>
       <sr word="ACTUAR">
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="LAS"/>
       <sr word="FUNCIONES">
-        <i>19</i>
+        <i>12</i>
+        <i>18</i>
       </sr>
       <sr word="QUE"/>
       <sr word="PODEMOS"/>
@@ -5169,14 +5316,14 @@
       <sr word="QUOT"/>
       <sr word="CAMBIAR"/>
       <sr word="TITULO">
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="Y"/>
       <sr word="QUOT"/>
       <sr word="MODIFICA">
-        <i>20</i>
         <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="COMENTARIO"/>
       <sr word="QUOT"/>
@@ -5200,7 +5347,7 @@
       <sr word="SOBRE"/>
       <sr word="EL"/>
       <sr word="CUADRO">
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="DE"/>
       <sr word="TEXTO"/>
@@ -5216,9 +5363,9 @@
       <sr word="PARA"/>
       <sr word="EDITAR"/>
       <sr word="TEXTOS">
-        <i>24</i>
         <i>23</i>
-        <i>19</i>
+        <i>22</i>
+        <i>18</i>
       </sr>
       <sr word="DE"/>
       <sr word="COMENTARIOS"/>
@@ -5233,7 +5380,7 @@
       <sr word="POR"/>
       <sr word="PRIMERA">
         <i>29</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="VEZ"/>
       <sr word="ESTE"/>
@@ -5241,13 +5388,13 @@
       <sr word="SE"/>
       <sr word="PUEDE"/>
       <sr word="LANZAR">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="DE"/>
       <sr word="DOS"/>
       <sr word="MODOS"/>
       <sr word="LANZAMIENTO">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="HACIENDO"/>
       <sr word="DOBLE"/>
@@ -5257,7 +5404,8 @@
       <sr word="ENLACE">
         <i>15</i>
         <i>4</i>
-        <i>10</i>
+        <i>23</i>
+        <i>11</i>
       </sr>
       <sr word="DIRECTO"/>
       <sr word="CREADO"/>
@@ -5274,7 +5422,7 @@
       <sr word="EL"/>
       <sr word="USUARIO"/>
       <sr word="PUEDA">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="CREAR"/>
@@ -5289,19 +5437,19 @@
       <sr word="ABRIR">
         <i>12</i>
         <i>1</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="UNO"/>
       <sr word="YA"/>
       <sr word="EXISTENTE">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="SI"/>
       <sr word="SE"/>
       <sr word="ELIGE">
         <i>4</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="ABRIR"/>
@@ -5330,27 +5478,33 @@
       <sr word="QUOT"/>
       <sr word="DONDE"/>
       <sr word="HABITUALMENTE">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="SE"/>
       <sr word="CREAN">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="ESTOS"/>
       <sr word="FICHEROS"/>
       <sr word="SIN"/>
-      <sr word="EMBARGO"/>
+      <sr word="EMBARGO">
+        <i>15</i>
+        <i>4</i>
+        <i>1</i>
+        <i>11</i>
+      </sr>
       <sr word="EL"/>
       <sr word="USUARIO"/>
       <sr word="ES"/>
       <sr word="LIBRE"/>
       <sr word="DE"/>
       <sr word="ESPECIFICAR">
-        <i>21</i>
         <i>20</i>
-        <i>27</i>
-        <i>17</i>
-        <i>10</i>
+        <i>12</i>
+        <i>19</i>
+        <i>26</i>
+        <i>16</i>
+        <i>11</i>
       </sr>
       <sr word="CUALQUIER"/>
       <sr word="OTRO"/>
@@ -5418,7 +5572,7 @@
       <sr word="FICHERO"/>
       <sr word="EN"/>
       <sr word="MODO">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="VISTA"/>
@@ -5430,32 +5584,33 @@
       <sr word="PAR&#xE1;METROS"/>
       <sr word="PARTICULARES">
         <i>15</i>
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="TRAV&#xE9;S"/>
       <sr word="DE"/>
       <sr word="NOMBRES">
         <i>15</i>
         <i>4</i>
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="SIGNIFICATIVOS">
         <i>15</i>
         <i>4</i>
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="VECES">
-        <i>21</i>
-        <i>17</i>
+        <i>20</i>
+        <i>16</i>
       </sr>
       <sr word="ES"/>
       <sr word="NECESARIO">
-        <i>21</i>
         <i>20</i>
-        <i>17</i>
+        <i>19</i>
+        <i>16</i>
       </sr>
       <sr word="EJECUTAR">
-        <i>17</i>
+        <i>12</i>
+        <i>16</i>
         <i>2</i>
       </sr>
       <sr word="UNA"/>
@@ -5473,12 +5628,7 @@
       <sr word="ESCRITORIO"/>
       <sr word="DE"/>
       <sr word="WINDOWS"/>
-      <sr word="PERMITEN">
-        <i>11</i>
-        <i>17</i>
-        <i>2</i>
-        <i>14</i>
-      </sr>
+      <sr word="PERMITEN"/>
       <sr word="A&#xF1;ADIR"/>
       <sr word="PAR&#xE1;METROS"/>
       <sr word="LA"/>
@@ -5503,7 +5653,7 @@
       <sr word="QUOT"/>
       <sr word="QUOT"/>
       <sr word="EXPLORER">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="GT"/>
@@ -5518,7 +5668,7 @@
       <sr word="SE"/>
       <sr word="APRECIA">
         <i>4</i>
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="QUE"/>
       <sr word="ESTE"/>
@@ -5533,33 +5683,33 @@
       <sr word="QUOT"/>
       <sr word="C"/>
       <sr word="ACMSL">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="WINDFARMSIMULATOR">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="LDPV1R12">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="EXE"/>
       <sr word="C"/>
       <sr word="DFIGR12">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="CONF">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="QUE"/>
       <sr word="CORRESPONDE">
         <i>15</i>
-        <i>17</i>
+        <i>16</i>
         <i>2</i>
       </sr>
       <sr word="AL"/>
       <sr word="EJECUTABLE"/>
       <sr word="LOCALIZADO">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="EN"/>
       <sr word="QUOT"/>
@@ -5590,7 +5740,7 @@
       <sr word="TAMBI&#xE9;N"/>
       <sr word="ESA"/>
       <sr word="PROPIEDAD">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="ASOCIADA"/>
       <sr word="AL"/>
@@ -5737,8 +5887,25 @@
       <sr word="Y"/>
       <sr word="SOLTAR"/>
       <sr word="QUOT"/>
+      <sr word="LA"/>
+      <sr word="CAJA"/>
+      <sr word="DE"/>
+      <sr word="TEXTO"/>
+      <sr word="QUOT"/>
+      <sr word="COMANDO"/>
+      <sr word="QUOT"/>
+      <sr word="PERMITE"/>
+      <sr word="QUOT"/>
+      <sr word="ARRASTRAR"/>
+      <sr word="Y"/>
+      <sr word="SOLTAR"/>
+      <sr word="QUOT"/>
+      <sr word="UN"/>
+      <sr word="FICHERO"/>
       <sr word="NOTA">
+        <i>12</i>
         <i>28</i>
+        <i>22</i>
         <i>2</i>
       </sr>
       <sr word="VER&#xE1;"/>
@@ -5760,7 +5927,7 @@
       <sr word="EST&#xE1;N"/>
       <sr word="ASOCIADAS"/>
       <sr word="ALGUNA">
-        <i>21</i>
+        <i>20</i>
         <i>28</i>
         <i>29</i>
       </sr>
@@ -5791,7 +5958,9 @@
       <sr word="SI"/>
       <sr word="APARECE"/>
       <sr word="UNA"/>
-      <sr word="MISMA"/>
+      <sr word="MISMA">
+        <i>28</i>
+      </sr>
       <sr word="ETIQUETA"/>
       <sr word="M&#xE1;S"/>
       <sr word="DE"/>
@@ -5835,9 +6004,9 @@
       <sr word="SE"/>
       <sr word="MUESTRAN">
         <i>8</i>
-        <i>24</i>
-        <i>20</i>
-        <i>27</i>
+        <i>23</i>
+        <i>19</i>
+        <i>26</i>
         <i>1</i>
       </sr>
       <sr word="CONTINUACI&#xF3;N"/>
@@ -5896,11 +6065,13 @@
       <sr word="M&#xE1;S"/>
       <sr word="ABAJO">
         <i>8</i>
+        <i>9</i>
       </sr>
       <sr word="AYUDA">
         <i>8</i>
         <i>15</i>
         <i>35</i>
+        <i>12</i>
       </sr>
       <sr word="CUYO"/>
       <sr word="DESPLIEGUE"/>
@@ -5957,6 +6128,7 @@
       <sr word="DESCRIBEN">
         <i>8</i>
         <i>36</i>
+        <i>12</i>
       </sr>
       <sr word="EN"/>
       <sr word="DETALLE">
@@ -5977,8 +6149,8 @@
       <sr word="CONTENIDO"/>
       <sr word="CAMBIA">
         <i>8</i>
-        <i>20</i>
-        <i>27</i>
+        <i>19</i>
+        <i>26</i>
       </sr>
       <sr word="EN"/>
       <sr word="FUNCI&#xF3;N"/>
@@ -6008,7 +6180,10 @@
       <sr word="PARTE"/>
       <sr word="DERECHA"/>
       <sr word="SE"/>
-      <sr word="ENCUENTRA"/>
+      <sr word="ENCUENTRA">
+        <i>8</i>
+        <i>1</i>
+      </sr>
       <sr word="EL"/>
       <sr word="PANEL"/>
       <sr word="DE"/>
@@ -6037,6 +6212,7 @@
       <sr word="VER"/>
       <sr word="EJEMPLOS">
         <i>8</i>
+        <i>23</i>
         <i>14</i>
       </sr>
       <sr word="EN"/>
@@ -6075,7 +6251,7 @@
       <sr word="EST&#xE1;"/>
       <sr word="SITUADA">
         <i>8</i>
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="EL"/>
       <sr word="RAT&#xF3;N"/>
@@ -6130,10 +6306,7 @@
       <sr word="FORMULARIO"/>
       <sr word="QUE"/>
       <sr word="SE"/>
-      <sr word="DESCRIBE">
-        <i>32</i>
-        <i>11</i>
-      </sr>
+      <sr word="DESCRIBE"/>
       <sr word="EN"/>
       <sr word="QUOT"/>
       <sr word="EDITOR"/>
@@ -6260,6 +6433,8 @@
       <sr word="SIGUIENTES"/>
       <sr word="FUNCIONALIDADES">
         <i>15</i>
+        <i>12</i>
+        <i>19</i>
       </sr>
       <sr word="QUE"/>
       <sr word="FACILITAN">
@@ -6342,7 +6517,7 @@
       <sr word="LOS"/>
       <sr word="ENLACES">
         <i>15</i>
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="DIRECTOS"/>
       <sr word="TAMBI&#xE9;N"/>
@@ -6521,10 +6696,17 @@
       <sr word="APLICACIONES"/>
       <sr word="CON"/>
       <sr word="PAR&#xE1;METROS"/>
-      <sr word="LA"/>
+      <sr word="CUANDO"/>
+      <sr word="EL"/>
+      <sr word="COMANDO"/>
+      <sr word="ASOCIADO"/>
+      <sr word="UNA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="ES"/>
+      <sr word="UN"/>
+      <sr word="DOCUMENTO"/>
+      <sr word="SU"/>
       <sr word="VISUALIZACI&#xF3;N"/>
-      <sr word="DE"/>
-      <sr word="DOCUMENTOS"/>
       <sr word="SUELE">
         <i>1</i>
       </sr>
@@ -6532,7 +6714,8 @@
       <sr word="ASOCIADA"/>
       <sr word="UNA"/>
       <sr word="DETERMINADA">
-        <i>21</i>
+        <i>20</i>
+        <i>12</i>
         <i>4</i>
         <i>1</i>
       </sr>
@@ -6543,7 +6726,7 @@
       <sr word="EN"/>
       <sr word="EL"/>
       <sr word="PC"/>
-      <sr word="LA"/>
+      <sr word="ESTA"/>
       <sr word="ASOCIACI&#xF3;N"/>
       <sr word="ENTRE"/>
       <sr word="UN"/>
@@ -6551,12 +6734,7 @@
         <i>1</i>
         <i>2</i>
       </sr>
-      <sr word="TIPO">
-        <i>21</i>
-        <i>24</i>
-        <i>1</i>
-        <i>2</i>
-      </sr>
+      <sr word="TIPO"/>
       <sr word="DE"/>
       <sr word="DOCUMENTO"/>
       <sr word="Y"/>
@@ -6567,6 +6745,7 @@
       <sr word="QUE"/>
       <sr word="SE"/>
       <sr word="ABRE">
+        <i>12</i>
         <i>1</i>
       </sr>
       <sr word="SE"/>
@@ -6600,8 +6779,8 @@
       <sr word="ESTAR"/>
       <sr word="ASOCIADOS">
         <i>12</i>
-        <i>24</i>
         <i>23</i>
+        <i>22</i>
         <i>1</i>
         <i>2</i>
       </sr>
@@ -6620,7 +6799,7 @@
       <sr word="ASOCIACI&#xF3;N"/>
       <sr word="SE"/>
       <sr word="MANTIENE">
-        <i>20</i>
+        <i>19</i>
         <i>1</i>
       </sr>
       <sr word="EN"/>
@@ -6662,6 +6841,7 @@
       <sr word="SE"/>
       <sr word="PRESENTAR&#xE1;N"/>
       <sr word="TODAS">
+        <i>9</i>
         <i>1</i>
         <i>2</i>
       </sr>
@@ -6681,6 +6861,7 @@
       <sr word="ABRIR"/>
       <sr word="EL"/>
       <sr word="CONCEPTO"/>
+      <sr word="COMANDO"/>
       <sr word="DE"/>
       <sr word="OPCI&#xF3;N"/>
       <sr word="PERMITE"/>
@@ -6984,17 +7165,17 @@
       <sr word="INCLUIR"/>
       <sr word="DETERMINADOS"/>
       <sr word="ELEMENTOS">
-        <i>24</i>
         <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="HTML"/>
       <sr word="TALES">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="COMO"/>
       <sr word="PALABRAS">
-        <i>21</i>
-        <i>24</i>
+        <i>20</i>
+        <i>23</i>
       </sr>
       <sr word="CON"/>
       <sr word="TEXTO"/>
@@ -7004,11 +7185,11 @@
       <sr word="CURSIVA"/>
       <sr word="O"/>
       <sr word="SUBRAYADAS">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="ENLACES"/>
       <sr word="DIRECCIONES">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="DE"/>
       <sr word="INTERNET"/>
@@ -7019,49 +7200,49 @@
       <sr word="PROPIO"/>
       <sr word="PC"/>
       <sr word="HYPERLINK">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="IM&#xE1;GENES"/>
       <sr word="ETC"/>
       <sr word="EL"/>
       <sr word="LISTADO">
-        <i>24</i>
         <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="DE"/>
       <sr word="LOS"/>
       <sr word="ELEMENTOS"/>
       <sr word="HTML"/>
       <sr word="PERMITIDOS">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="SE"/>
       <sr word="DETALLAN">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="AQU&#xED;"/>
       <sr word="EN"/>
       <sr word="GENERAL">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="ESTOS"/>
       <sr word="ELEMENTOS"/>
       <sr word="SE"/>
       <sr word="CONCRETAN">
         <i>36</i>
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="EN"/>
       <sr word="PAREJAS">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="DE"/>
       <sr word="TEXTO"/>
       <sr word="NORMAL">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="ENCERRADAS">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="EN"/>
       <sr word="QUOT"/>
@@ -7076,8 +7257,8 @@
       <sr word="GT"/>
       <sr word="TEXTO"/>
       <sr word="CUALQUIERA">
-        <i>21</i>
-        <i>24</i>
+        <i>20</i>
+        <i>23</i>
         <i>2</i>
         <i>14</i>
       </sr>
@@ -7114,12 +7295,12 @@
       <sr word="UNA"/>
       <sr word="ESTRUCTURA"/>
       <sr word="ALGO">
-        <i>24</i>
+        <i>23</i>
         <i>2</i>
       </sr>
       <sr word="M&#xE1;S"/>
       <sr word="COMPLEJA">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="PARA"/>
       <sr word="AYUDAR"/>
@@ -7137,7 +7318,7 @@
       <sr word="COMENTARIO"/>
       <sr word="QUOT"/>
       <sr word="INCLUYE">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="UN"/>
       <sr word="MEN&#xFA;"/>
@@ -7151,8 +7332,27 @@
       <sr word="LA"/>
       <sr word="SIGUIENTE"/>
       <sr word="FIGURA"/>
+      <sr word="EL"/>
+      <sr word="PROCEDIMIENTO"/>
+      <sr word="GENERAL"/>
+      <sr word="PARA"/>
+      <sr word="USAR"/>
+      <sr word="LAS"/>
+      <sr word="OPCIONES"/>
+      <sr word="DE"/>
+      <sr word="ESTE"/>
+      <sr word="MEN&#xFA;"/>
+      <sr word="SE"/>
+      <sr word="PRESENTAN"/>
+      <sr word="EN"/>
+      <sr word="QUOT"/>
+      <sr word="INSERTAR"/>
+      <sr word="UN"/>
+      <sr word="NUEVO"/>
+      <sr word="P&#xE1;RRAFO"/>
+      <sr word="QUOT"/>
       <sr word="NORMAS">
-        <i>24</i>
+        <i>23</i>
         <i>0</i>
       </sr>
       <sr word="PARA"/>
@@ -7167,11 +7367,12 @@
       <sr word="ADMITEN"/>
       <sr word="UN"/>
       <sr word="SUBCONJUNTO">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="DE"/>
       <sr word="ELEMENTOS"/>
       <sr word="HTML"/>
+      <sr word="EJEMPLOS"/>
       <sr word="INSERTAR"/>
       <sr word="UN"/>
       <sr word="P&#xE1;RRAFO"/>
@@ -7188,6 +7389,9 @@
       <sr word="INSERTAR"/>
       <sr word="UNA"/>
       <sr word="IMAGEN"/>
+      <sr word="INSERTAR"/>
+      <sr word="UN"/>
+      <sr word="ENLACE"/>
       <sr word="ACCESO"/>
       <sr word="DOCUMENTOS"/>
       <sr word="TRAV&#xE9;S"/>
@@ -7537,6 +7741,7 @@
       <sr word="&#xE9;L"/>
       <sr word="QUE"/>
       <sr word="APUNTE">
+        <i>12</i>
         <i>4</i>
       </sr>
       <sr word="AL"/>
@@ -7577,7 +7782,7 @@
       <sr word="ELEMENTOS"/>
       <sr word="HTML"/>
       <sr word="ADMISIBLES">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="EN"/>
       <sr word="LOS"/>
@@ -7588,19 +7793,19 @@
       <sr word="LOS"/>
       <sr word="SIGUIENTES"/>
       <sr word="CONSULTE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="EN"/>
       <sr word="W3SCHOOLS">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="COM">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="LA"/>
       <sr word="DESCRIPCI&#xF3;N"/>
       <sr word="COMPLETA">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="Y"/>
       <sr word="FORMA"/>
@@ -7611,154 +7816,170 @@
       <sr word="ELEMENTOS"/>
       <sr word="ELEMENTO"/>
       <sr word="ATRIBUTO">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="ASOCIADOS"/>
       <sr word="HREF">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="ID">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="NAME">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="TITLE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="B"/>
       <sr word="BIG">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="BLOCKQUOTE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="BODY">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="BACKGROUND">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="BGCOLOR">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="TEXT"/>
       <sr word="LINK">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="BR">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="CENTER">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="EM">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="FONT">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="FACE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="COLOR"/>
       <sr word="SIZE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="H1">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="H6">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="HR">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="I"/>
       <sr word="IMG">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="ALT">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="BORDER">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="HEIGHT">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="HSPACE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="SRC">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="VSPACE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="WIDTH">
-        <i>23</i>
+        <i>22</i>
       </sr>
+      <sr word="NOTA"/>
+      <sr word="LAS"/>
+      <sr word="IM&#xE1;GENES"/>
+      <sr word="DEBEN">
+        <i>22</i>
+      </sr>
+      <sr word="SER"/>
+      <sr word="CON"/>
+      <sr word="FORMAT">
+        <i>22</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="JPG">
+        <i>22</i>
+      </sr>
+      <sr word="QUOT"/>
       <sr word="LI">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="OL">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="P"/>
       <sr word="SMALL">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="STRONG">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="TABLE">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="ALIGN">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="LEFT">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="CENTER"/>
       <sr word="BORDER"/>
       <sr word="CELLPADDING">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="CELLSPACING">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="WIDTH"/>
       <sr word="THEAD">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="TBODY">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="TFOOT">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="TR">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="TH">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="ALIGN"/>
       <sr word="COLSPAN">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="WIDTH"/>
       <sr word="TD">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="ALIGN"/>
       <sr word="COLSPAN"/>
       <sr word="WIDTH"/>
       <sr word="U"/>
       <sr word="UL">
-        <i>23</i>
+        <i>22</i>
       </sr>
       <sr word="PARADIGMAS">
         <i>2</i>
@@ -7803,6 +8024,10 @@
       <sr word="TIENE"/>
       <sr word="QUE"/>
       <sr word="HACER"/>
+      <sr word="AL"/>
+      <sr word="MENOS">
+        <i>2</i>
+      </sr>
       <sr word="DOS"/>
       <sr word="COSAS">
         <i>2</i>
@@ -8078,9 +8303,7 @@
       </sr>
       <sr word="PARA"/>
       <sr word="UN"/>
-      <sr word="PROYECTO">
-        <i>2</i>
-      </sr>
+      <sr word="PROYECTO"/>
       <sr word="ETC"/>
       <sr word="EN"/>
       <sr word="TODOS"/>
@@ -8227,9 +8450,8 @@
       <sr word="FACILITE">
         <i>2</i>
       </sr>
-      <sr word="C&#xF3;MO"/>
       <sr word="TOMAR">
-        <i>21</i>
+        <i>20</i>
         <i>2</i>
       </sr>
       <sr word="NOTAS"/>
@@ -8252,9 +8474,14 @@
       <sr word="RECUPERABLES">
         <i>2</i>
       </sr>
+      <sr word="ASOCIAR"/>
+      <sr word="LAS"/>
+      <sr word="NOTAS"/>
+      <sr word="LOS"/>
+      <sr word="DOCUMENTOS"/>
       <sr word="C&#xF3;MO"/>
       <sr word="BUSCAR">
-        <i>21</i>
+        <i>20</i>
         <i>2</i>
       </sr>
       <sr word="EL"/>
@@ -8323,6 +8550,7 @@
       <sr word="FICHEROS"/>
       <sr word="DE"/>
       <sr word="DIFERENTES">
+        <i>12</i>
         <i>2</i>
       </sr>
       <sr word="TIPOS">
@@ -8544,18 +8772,36 @@
       <sr word="AL"/>
       <sr word="DOCUMENTO"/>
       <sr word="O"/>
+      <sr word="LA"/>
+      <sr word="UBICACI&#xF3;N"/>
+      <sr word="DE"/>
       <sr word="UNA"/>
+      <sr word="APLICACI&#xF3;N"/>
+      <sr word="FICHERO"/>
+      <sr word="EJECUTABLE"/>
+      <sr word="CON"/>
+      <sr word="UN"/>
+      <sr word="CONJUNTO"/>
+      <sr word="OPCIONAL">
+        <i>2</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="PAR&#xE1;METROS"/>
+      <sr word="VER"/>
       <sr word="LINEA">
         <i>2</i>
       </sr>
       <sr word="DE"/>
       <sr word="COMANDO"/>
       <sr word="EJECUTAR"/>
+      <sr word="UNA"/>
+      <sr word="URL"/>
       <sr word="EL"/>
       <sr word="COMENTARIO"/>
       <sr word="CORRESPONDE"/>
-      <sr word="CON"/>
-      <sr word="LAS"/>
+      <sr word="AL"/>
+      <sr word="CONCEPTO"/>
+      <sr word="DE"/>
       <sr word="QUOT"/>
       <sr word="NOTAS"/>
       <sr word="SOBRE"/>
@@ -8725,6 +8971,7 @@
       <sr word="SI"/>
       <sr word="QUIERE"/>
       <sr word="VISUALIZAR">
+        <i>19</i>
         <i>2</i>
       </sr>
       <sr word="EL"/>
@@ -8740,8 +8987,7 @@
       <sr word="LA"/>
       <sr word="REFERENCIA"/>
       <sr word="BASTA">
-        <i>11</i>
-        <i>12</i>
+        <i>9</i>
         <i>2</i>
       </sr>
       <sr word="CON"/>
@@ -8876,7 +9122,6 @@
       <sr word="OPCIONES"/>
       <sr word="CAMBIO">
         <i>36</i>
-        <i>12</i>
       </sr>
       <sr word="DE"/>
       <sr word="ETIQUETAS"/>
@@ -8929,8 +9174,16 @@
       <sr word="GRUPOS"/>
       <sr word="Y"/>
       <sr word="OPCIONES"/>
-      <sr word="ESTE"/>
+      <sr word="EL"/>
       <sr word="FORMULARIO"/>
+      <sr word="QUOT"/>
+      <sr word="EDITOR"/>
+      <sr word="COMBINADO"/>
+      <sr word="DE"/>
+      <sr word="GRUPOS"/>
+      <sr word="Y"/>
+      <sr word="OPCIONES"/>
+      <sr word="QUOT"/>
       <sr word="EST&#xE1;"/>
       <sr word="PENSADO"/>
       <sr word="PARA"/>
@@ -8957,12 +9210,16 @@
       <sr word="CREAR"/>
       <sr word="MUCHAS"/>
       <sr word="OPCIONES"/>
-      <sr word="EN"/>
-      <sr word="CASO"/>
-      <sr word="DE"/>
-      <sr word="QUE"/>
+      <sr word="ESTE"/>
+      <sr word="FORMULARIO"/>
       <sr word="SE"/>
-      <sr word="ELIJA"/>
+      <sr word="PRESENTA"/>
+      <sr word="POR"/>
+      <sr word="DOS"/>
+      <sr word="MEDIOS">
+        <i>29</i>
+      </sr>
+      <sr word="USANDO"/>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
       <sr word="QUOT"/>
@@ -9021,7 +9278,7 @@
       <sr word="NING&#xFA;N"/>
       <sr word="GRUPO"/>
       <sr word="DEFINIDO">
-        <i>11</i>
+        <i>9</i>
         <i>29</i>
       </sr>
       <sr word="SE"/>
@@ -9130,7 +9387,7 @@
       <sr word="CONTENDR&#xE1;N"/>
       <sr word="LOS"/>
       <sr word="VALORES">
-        <i>20</i>
+        <i>19</i>
         <i>29</i>
       </sr>
       <sr word="CORRESPONDIENTES">
@@ -9148,6 +9405,11 @@
       <sr word="DIFERENCIADAS">
         <i>29</i>
       </sr>
+      <sr word="PARA"/>
+      <sr word="GRUPOS"/>
+      <sr word="Y"/>
+      <sr word="PARA"/>
+      <sr word="OPCIONES"/>
       <sr word="OPCIONES"/>
       <sr word="CREACI&#xF3;N"/>
       <sr word="EDICION">
@@ -9158,11 +9420,76 @@
       <sr word="CREACI&#xF3;N"/>
       <sr word="DE"/>
       <sr word="OPCIONES"/>
+      <sr word="EST&#xE9;"/>
+      <sr word="EPIGRAFE">
+        <i>12</i>
+      </sr>
+      <sr word="DESCRIBE"/>
+      <sr word="LAS"/>
+      <sr word="DIVERSAS">
+        <i>12</i>
+      </sr>
+      <sr word="MODALIDADES">
+        <i>12</i>
+      </sr>
+      <sr word="PARA"/>
+      <sr word="LA"/>
+      <sr word="CREACI&#xF3;N"/>
+      <sr word="DE"/>
+      <sr word="OPCIONES"/>
       <sr word="EDICI&#xF3;N"/>
       <sr word="DE"/>
       <sr word="DETALLES"/>
       <sr word="DE"/>
       <sr word="OPCIONES"/>
+      <sr word="CONTINUACI&#xF3;N"/>
+      <sr word="SE"/>
+      <sr word="DESCRIBEN"/>
+      <sr word="LAS"/>
+      <sr word="DIFERENTES"/>
+      <sr word="OPCIONES"/>
+      <sr word="PARA"/>
+      <sr word="CAMBIAR"/>
+      <sr word="LAS"/>
+      <sr word="PROPIEDADES"/>
+      <sr word="DE"/>
+      <sr word="UNA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="EN"/>
+      <sr word="LA"/>
+      <sr word="VISTA"/>
+      <sr word="ESTANDAR"/>
+      <sr word="Y"/>
+      <sr word="PULSANDO"/>
+      <sr word="EL"/>
+      <sr word="BOT&#xF3;N"/>
+      <sr word="DERECHO"/>
+      <sr word="DEL"/>
+      <sr word="RAT&#xF3;N"/>
+      <sr word="CUANDO"/>
+      <sr word="EST&#xE1;"/>
+      <sr word="SOBRE"/>
+      <sr word="LA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="EDITAR"/>
+      <sr word="SE"/>
+      <sr word="MUESTRA"/>
+      <sr word="EL"/>
+      <sr word="SIGUIENTE"/>
+      <sr word="MEN&#xFA;"/>
+      <sr word="CONTINUACI&#xF3;N"/>
+      <sr word="SE"/>
+      <sr word="DESCRIBEN"/>
+      <sr word="LAS"/>
+      <sr word="DIFERENTES"/>
+      <sr word="FUNCIONALIDADES"/>
+      <sr word="ACCESIBLES">
+        <i>12</i>
+      </sr>
+      <sr word="TRAV&#xE9;S"/>
+      <sr word="DE"/>
+      <sr word="ESTE"/>
+      <sr word="MEN&#xFA;"/>
       <sr word="ACCESO"/>
       <sr word="AL"/>
       <sr word="EDITOR"/>
@@ -9171,15 +9498,62 @@
       <sr word="DE"/>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
+      <sr word="ESTA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="PRESENTA"/>
+      <sr word="EL"/>
+      <sr word="QUOT"/>
+      <sr word="EDITOR"/>
+      <sr word="COMBINADO"/>
+      <sr word="DE"/>
+      <sr word="GRUPOS"/>
+      <sr word="Y"/>
+      <sr word="OPCIONES"/>
+      <sr word="QUOT"/>
+      <sr word="RELLENADO"/>
+      <sr word="CON"/>
+      <sr word="LAS"/>
+      <sr word="PROPIEDADES"/>
+      <sr word="DE"/>
+      <sr word="LA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="SELECCIONADA">
+        <i>12</i>
+      </sr>
+      <sr word="EN"/>
+      <sr word="ESTE"/>
+      <sr word="EP&#xED;GRAFE"/>
+      <sr word="SE"/>
+      <sr word="DESCRIBEN"/>
+      <sr word="LAS"/>
+      <sr word="FUNCIONES"/>
+      <sr word="DISPONIBLES"/>
+      <sr word="EN"/>
+      <sr word="ESTE"/>
+      <sr word="EDITOR"/>
       <sr word="CAMBIAR"/>
       <sr word="EL"/>
       <sr word="COMENTARIO"/>
-      <sr word="VER"/>
+      <sr word="EL"/>
+      <sr word="COMENTARIO"/>
+      <sr word="ES"/>
+      <sr word="UN"/>
+      <sr word="TEXTO"/>
+      <sr word="HTML"/>
+      <sr word="EL"/>
+      <sr word="EDITOR"/>
+      <sr word="DESCRITO"/>
+      <sr word="EN"/>
       <sr word="QUOT"/>
       <sr word="EDICI&#xF3;N"/>
       <sr word="DEL"/>
       <sr word="COMENTARIO"/>
       <sr word="QUOT"/>
+      <sr word="LE"/>
+      <sr word="AYUDA"/>
+      <sr word="EN"/>
+      <sr word="SU"/>
+      <sr word="EDICI&#xF3;N"/>
       <sr word="CAMBIAR"/>
       <sr word="COMANDO"/>
       <sr word="EL"/>
@@ -9188,12 +9562,82 @@
       <sr word="REFIERE"/>
       <sr word="AL"/>
       <sr word="FICHERO"/>
+      <sr word="URL"/>
       <sr word="O"/>
-      <sr word="LA"/>
       <sr word="APLICACI&#xF3;N"/>
       <sr word="ASOCIADOS"/>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
+      <sr word="QUE"/>
+      <sr word="ES"/>
+      <sr word="EJECUTADO"/>
+      <sr word="CUANDO"/>
+      <sr word="SE"/>
+      <sr word="HACE"/>
+      <sr word="DOBLE"/>
+      <sr word="CLICK"/>
+      <sr word="SOBRE"/>
+      <sr word="ELLA"/>
+      <sr word="ES"/>
+      <sr word="DECIR"/>
+      <sr word="PRESENTA"/>
+      <sr word="EL"/>
+      <sr word="DOCUMENTO"/>
+      <sr word="INDICADO">
+        <i>12</i>
+      </sr>
+      <sr word="UTILIZANDO"/>
+      <sr word="LA"/>
+      <sr word="APLICACI&#xF3;N"/>
+      <sr word="ASOCIADA"/>
+      <sr word="SU"/>
+      <sr word="EXTENSI&#xF3;N"/>
+      <sr word="QUOT"/>
+      <sr word="EXT">
+        <i>12</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="PARA"/>
+      <sr word="LOS"/>
+      <sr word="DOCUMENTOS"/>
+      <sr word="O"/>
+      <sr word="ABRE"/>
+      <sr word="UNA"/>
+      <sr word="VENTANA">
+        <i>12</i>
+      </sr>
+      <sr word="DEL"/>
+      <sr word="NAVEGADOR">
+        <i>12</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="INTERNET"/>
+      <sr word="CON"/>
+      <sr word="LA"/>
+      <sr word="URL"/>
+      <sr word="CASO"/>
+      <sr word="DE"/>
+      <sr word="LAS"/>
+      <sr word="URLS"/>
+      <sr word="O"/>
+      <sr word="EJECUTA"/>
+      <sr word="LA"/>
+      <sr word="APLICACI&#xF3;N"/>
+      <sr word="CON"/>
+      <sr word="LOS"/>
+      <sr word="PAR&#xE1;METROS"/>
+      <sr word="QUE"/>
+      <sr word="TENGA"/>
+      <sr word="ASOCIADOS"/>
+      <sr word="EN"/>
+      <sr word="EL"/>
+      <sr word="COMANDO"/>
+      <sr word="EN"/>
+      <sr word="EL"/>
+      <sr word="CASO"/>
+      <sr word="DE"/>
+      <sr word="LAS"/>
+      <sr word="APLICACIONES"/>
       <sr word="ESTA"/>
       <sr word="OPCI&#xF3;N"/>
       <sr word="DEL"/>
@@ -9207,10 +9651,18 @@
       <sr word="SE"/>
       <sr word="PUEDE"/>
       <sr word="CAMBIAR"/>
+      <sr word="CAMBIAR"/>
       <sr word="EL"/>
       <sr word="DOCUMENTO"/>
       <sr word="ABRIR"/>
       <sr word="O"/>
+      <sr word="INTRODUCIR"/>
+      <sr word="UNA"/>
+      <sr word="URL"/>
+      <sr word="O"/>
+      <sr word="ESPECIFICAR"/>
+      <sr word="LA"/>
+      <sr word="UBICACI&#xF3;N"/>
       <sr word="LA"/>
       <sr word="APLICACI&#xF3;N"/>
       <sr word="DESEADA">
@@ -9226,6 +9678,11 @@
       <sr word="PAR&#xE1;METROS"/>
       <sr word="QUE"/>
       <sr word="NECESITE"/>
+      <sr word="O"/>
+      <sr word="SE"/>
+      <sr word="DESEN">
+        <i>12</i>
+      </sr>
       <sr word="VER"/>
       <sr word="TAMBI&#xE9;N"/>
       <sr word="QUOT"/>
@@ -9246,6 +9703,26 @@
       <sr word="OPCI&#xF3;N"/>
       <sr word="CAMBIAR"/>
       <sr word="T&#xED;TULO"/>
+      <sr word="PERMITE"/>
+      <sr word="CAMBIAR"/>
+      <sr word="EL"/>
+      <sr word="T&#xED;TULO"/>
+      <sr word="QUE"/>
+      <sr word="SE"/>
+      <sr word="PRESENTA"/>
+      <sr word="DE"/>
+      <sr word="LA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="TRAV&#xE9;S"/>
+      <sr word="DEL"/>
+      <sr word="FORMULARIO"/>
+      <sr word="QUE"/>
+      <sr word="SE"/>
+      <sr word="MUESTRA"/>
+      <sr word="EN"/>
+      <sr word="LA"/>
+      <sr word="FIGURA"/>
+      <sr word="SIGUIENTE"/>
       <sr word="CAMBIAR"/>
       <sr word="FUENTE">
         <i>12</i>
@@ -9256,17 +9733,26 @@
       <sr word="OPCI&#xF3;N"/>
       <sr word="DEL"/>
       <sr word="MEN&#xFA;"/>
-      <sr word="PRESENTA"/>
-      <sr word="EL"/>
-      <sr word="FORMULARIO"/>
+      <sr word="SE"/>
+      <sr word="USA"/>
       <sr word="PARA"/>
-      <sr word="SELECCIONAR"/>
+      <sr word="RESALTAR">
+        <i>12</i>
+      </sr>
+      <sr word="UNA"/>
+      <sr word="DETERMINADA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="CAMBIANDO">
+        <i>12</i>
+        <i>19</i>
+      </sr>
       <sr word="EL"/>
       <sr word="ESTILO">
         <i>12</i>
       </sr>
-      <sr word="DEL"/>
-      <sr word="TEXTO"/>
+      <sr word="DE"/>
+      <sr word="SU"/>
+      <sr word="T&#xED;TULO"/>
       <sr word="SU"/>
       <sr word="FUENTE"/>
       <sr word="ESTILO"/>
@@ -9308,26 +9794,18 @@
       <sr word="MOVER&#xE1;"/>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
-      <sr word="SELECCIONADA">
-        <i>12</i>
-      </sr>
+      <sr word="SELECCIONADA"/>
       <sr word="BORRAR"/>
       <sr word="ESTA"/>
       <sr word="OPCI&#xF3;N"/>
-      <sr word="BASTA"/>
-      <sr word="CON"/>
-      <sr word="USAR"/>
+      <sr word="PARA"/>
+      <sr word="ELIMINAR">
+        <i>9</i>
+        <i>12</i>
+      </sr>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
-      <sr word="QUOT"/>
-      <sr word="BORRAR"/>
-      <sr word="ESTA"/>
-      <sr word="OPCI&#xF3;N"/>
-      <sr word="QUOT"/>
-      <sr word="PARA"/>
-      <sr word="ELIMINARLA">
-        <i>12</i>
-      </sr>
+      <sr word="SELECCIONADA"/>
       <sr word="MOVER"/>
       <sr word="EL"/>
       <sr word="ARCHIVO">
@@ -9357,26 +9835,73 @@
       <sr word="LA"/>
       <sr word="NUEVA"/>
       <sr word="UBICACI&#xF3;N"/>
-      <sr word="MODIFICACI&#xF3;N"/>
+      <sr word="NOTA"/>
+      <sr word="CUANDO"/>
+      <sr word="SE"/>
+      <sr word="QUIERE"/>
+      <sr word="CAMBIAR"/>
+      <sr word="LA"/>
+      <sr word="UBICACI&#xF3;N"/>
+      <sr word="DEL"/>
+      <sr word="FICHERO"/>
+      <sr word="QUE"/>
+      <sr word="HACE"/>
+      <sr word="REFERENCIA"/>
+      <sr word="UNA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="DEBE"/>
+      <sr word="USAR"/>
+      <sr word="ESTA"/>
+      <sr word="FUNCIONALIDAD"/>
+      <sr word="YA"/>
+      <sr word="QUE"/>
+      <sr word="SI"/>
+      <sr word="LO"/>
+      <sr word="HACE"/>
+      <sr word="MANUALMENTE">
+        <i>12</i>
+      </sr>
+      <sr word="LA"/>
+      <sr word="OPCI&#xF3;N"/>
+      <sr word="DEJAR&#xE1;"/>
+      <sr word="DE"/>
+      <sr word="EJECUTAR"/>
+      <sr word="SU"/>
+      <sr word="FUNCIONALIDAD"/>
+      <sr word="CUANDO"/>
+      <sr word="SE"/>
+      <sr word="HAGA"/>
+      <sr word="DOBLE"/>
+      <sr word="CLICK"/>
+      <sr word="SOBRE"/>
+      <sr word="ELLA"/>
+      <sr word="ESTA"/>
+      <sr word="FUNCIONALIDAD"/>
+      <sr word="ES"/>
+      <sr word="EQUIVALENTE">
+        <i>12</i>
+      </sr>
+      <sr word="MOVER"/>
+      <sr word="MANUALMENTE"/>
+      <sr word="EL"/>
+      <sr word="FICHERO"/>
+      <sr word="DE"/>
+      <sr word="REFERENCIA"/>
+      <sr word="Y"/>
+      <sr word="CAMBIAR"/>
+      <sr word="EL"/>
+      <sr word="QUOT"/>
+      <sr word="COMANDO"/>
+      <sr word="QUOT"/>
       <sr word="DE"/>
       <sr word="LA"/>
-      <sr word="REFERENCIA"/>
-      <sr word="DE"/>
-      <sr word="UNA"/>
       <sr word="OPCI&#xF3;N"/>
-      <sr word="ELIMINACI&#xF3;N"/>
-      <sr word="DE"/>
-      <sr word="UNA"/>
-      <sr word="OPCI&#xF3;N"/>
-      <sr word="CAMBIO"/>
-      <sr word="DEL"/>
-      <sr word="GRUPO"/>
-      <sr word="AL"/>
+      <sr word="PARA"/>
       <sr word="QUE"/>
-      <sr word="EST&#xE1;"/>
-      <sr word="ASOCIADA"/>
-      <sr word="UNA"/>
-      <sr word="OPCI&#xF3;N"/>
+      <sr word="APUNTE"/>
+      <sr word="LA"/>
+      <sr word="NUEVA"/>
+      <sr word="UBICACI&#xF3;N"/>
       <sr word="EDICI&#xF3;N"/>
       <sr word="DE"/>
       <sr word="ETIQUETAS"/>
@@ -9548,9 +10073,7 @@
       <sr word="LA"/>
       <sr word="ANTERIOR"/>
       <sr word="EL"/>
-      <sr word="RESULTADO">
-        <i>0</i>
-      </sr>
+      <sr word="RESULTADO"/>
       <sr word="SE"/>
       <sr word="PRESENTA"/>
       <sr word="INMEDIATAMENTE"/>
@@ -9604,7 +10127,7 @@
       </sr>
       <sr word="ETIQUETAS"/>
       <sr word="QUEDAN">
-        <i>20</i>
+        <i>19</i>
         <i>0</i>
       </sr>
       <sr word="REFLEJADAS"/>
@@ -9801,7 +10324,7 @@
       <sr word="LAS"/>
       <sr word="OPCIONES"/>
       <sr word="FUERA">
-        <i>11</i>
+        <i>9</i>
         <i>14</i>
       </sr>
       <sr word="DE"/>
@@ -9857,6 +10380,29 @@
       <sr word="TRAV&#xE9;S"/>
       <sr word="DE"/>
       <sr word="ETIQUETAS"/>
+      <sr word="EN"/>
+      <sr word="VISTA"/>
+      <sr word="PARA"/>
+      <sr word="B&#xFA;SQUEDAS"/>
+      <sr word="POR"/>
+      <sr word="TEXTO"/>
+      <sr word="Y"/>
+      <sr word="ETIQUETAS"/>
+      <sr word="SE"/>
+      <sr word="MUESTRA"/>
+      <sr word="COMO"/>
+      <sr word="USAR"/>
+      <sr word="LAS"/>
+      <sr word="ETIQUETAS"/>
+      <sr word="PARA"/>
+      <sr word="AFINAR">
+        <i>14</i>
+      </sr>
+      <sr word="LAS"/>
+      <sr word="B&#xFA;SQUEDAS"/>
+      <sr word="POR"/>
+      <sr word="TEXTO"/>
+      <sr word="LIBRE"/>
       <sr word="VISTA"/>
       <sr word="PARA"/>
       <sr word="B&#xFA;SQUEDAS"/>
@@ -9875,7 +10421,7 @@
       <sr word="LA"/>
       <sr word="QUE"/>
       <sr word="RECORDAMOS">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="NI"/>
       <sr word="EL"/>
@@ -9915,16 +10461,16 @@
       <sr word="LAS"/>
       <sr word="PALABRAS"/>
       <sr word="CANDIDATAS">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="SON"/>
       <sr word="LAS"/>
       <sr word="QUE"/>
       <sr word="CUMPLEN">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="TOTAL">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="O"/>
       <sr word="PARCIALMENTE"/>
@@ -9944,10 +10490,10 @@
       <sr word="TOMAR"/>
       <sr word="EN"/>
       <sr word="CUENTA">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="CONJUNTOS">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="DE"/>
       <sr word="ETIQUETAS"/>
@@ -9956,7 +10502,7 @@
       <sr word="QUE"/>
       <sr word="LAS"/>
       <sr word="CONTENGAN">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="O"/>
       <sr word="POR"/>
@@ -9976,7 +10522,7 @@
       <sr word="ETIQUETAS"/>
       <sr word="LAS"/>
       <sr word="COMBINACIONES">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="POSIBLES"/>
       <sr word="SON"/>
@@ -9985,7 +10531,7 @@
       <sr word="EL"/>
       <sr word="TEXTO"/>
       <sr word="ESPECIFICADO">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="QUE"/>
       <sr word="CONTENGA"/>
@@ -10000,7 +10546,7 @@
       <sr word="LAS"/>
       <sr word="ETIQUETAS"/>
       <sr word="MARCADAS">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="EN"/>
       <sr word="EL"/>
@@ -10075,7 +10621,7 @@
       <sr word="ETIQUETAS"/>
       <sr word="SIN"/>
       <sr word="CONSIDERAR">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="EL"/>
       <sr word="TEXTO"/>
@@ -10111,6 +10657,8 @@
       <sr word="EDICI&#xF3;N"/>
       <sr word="Y"/>
       <sr word="ELIMINACI&#xF3;N"/>
+      <sr word="NUEVO"/>
+      <sr word="GRUPO"/>
       <sr word="SE"/>
       <sr word="PUEDE"/>
       <sr word="A&#xF1;ADIR"/>
@@ -10126,6 +10674,9 @@
       <sr word="A&#xF1;ADE"/>
       <sr word="GRUPO"/>
       <sr word="QUOT"/>
+      <sr word="VER"/>
+      <sr word="M&#xE1;S"/>
+      <sr word="ABAJO"/>
       <sr word="TRAV&#xE9;S"/>
       <sr word="DEL"/>
       <sr word="QUOT"/>
@@ -10139,7 +10690,7 @@
       <sr word="EN"/>
       <sr word="EL"/>
       <sr word="PROCESO">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="DE"/>
       <sr word="INCLUIR"/>
@@ -10162,6 +10713,8 @@
       <sr word="GRUPO"/>
       <sr word="YA"/>
       <sr word="CREADO"/>
+      <sr word="VER"/>
+      <sr word="AQU&#xED;"/>
       <sr word="CREACI&#xF3;N"/>
       <sr word="DE"/>
       <sr word="UN"/>
@@ -10225,7 +10778,7 @@
       <sr word="QUOT"/>
       <sr word="PUEDE"/>
       <sr word="ABORTAR">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="LA"/>
       <sr word="CREACI&#xF3;N"/>
@@ -10247,7 +10800,7 @@
       <sr word="PUEDE"/>
       <sr word="HACER"/>
       <sr word="POSTERIORMENTE">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="CON"/>
       <sr word="EL"/>
@@ -10257,11 +10810,11 @@
       <sr word="DESCRIBE"/>
       <sr word="M&#xE1;S"/>
       <sr word="ADELANTE">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="SI"/>
       <sr word="PULSA">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="CONTINUAR"/>
@@ -10319,7 +10872,7 @@
       <sr word="LAS"/>
       <sr word="TRES"/>
       <sr word="PRIMERAS">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="OPCIONES"/>
       <sr word="PERMITEN"/>
@@ -10342,7 +10895,7 @@
       <sr word="QUOT"/>
       <sr word="O"/>
       <sr word="BORRARLO">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="EN"/>
       <sr word="LAS"/>
@@ -10353,16 +10906,14 @@
       <sr word="PRESENTAN"/>
       <sr word="LOS"/>
       <sr word="FORMULARIOS">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="DESCRITOS">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="M&#xE1;S"/>
       <sr word="ARRIBA"/>
-      <sr word="ELIMINAR">
-        <i>11</i>
-      </sr>
+      <sr word="ELIMINAR"/>
       <sr word="UN"/>
       <sr word="GRUPO"/>
       <sr word="BASTA"/>
@@ -10379,6 +10930,20 @@
       <sr word="LA"/>
       <sr word="FIGURA"/>
       <sr word="ANTERIOR"/>
+      <sr word="ATENCION">
+        <i>9</i>
+      </sr>
+      <sr word="BORRA">
+        <i>9</i>
+      </sr>
+      <sr word="EL"/>
+      <sr word="GRUPO"/>
+      <sr word="Y"/>
+      <sr word="TODAS"/>
+      <sr word="LAS"/>
+      <sr word="OPCIONES"/>
+      <sr word="ASOCIADAS"/>
+      <sr word="PUEDE"/>
       <sr word="INSERTAR"/>
       <sr word="HIPERENLACE"/>
       <sr word="AGREGAR"/>
@@ -10409,8 +10974,8 @@
       <sr word="A&#xF1;ADIENDO"/>
       <sr word="LOS"/>
       <sr word="CAMPOS">
-        <i>20</i>
-        <i>27</i>
+        <i>19</i>
+        <i>26</i>
       </sr>
       <sr word="QUE"/>
       <sr word="SE"/>
@@ -10431,21 +10996,59 @@
       <sr word="ESPECIFICAR"/>
       <sr word="VARIOS"/>
       <sr word="PAR&#xE1;METROS"/>
+      <sr word="PARA"/>
+      <sr word="FACILITAR"/>
+      <sr word="ESTE"/>
+      <sr word="TRABAJO"/>
+      <sr word="EL"/>
+      <sr word="FORMULARIO"/>
+      <sr word="CAMBIA"/>
+      <sr word="A&#xF1;ADIENDO"/>
+      <sr word="CAMPOS"/>
+      <sr word="U"/>
+      <sr word="FUNCIONALIDADES"/>
+      <sr word="ADICIONALES">
+        <i>19</i>
+      </sr>
+      <sr word="COLOQUE">
+        <i>19</i>
+      </sr>
+      <sr word="PRIMERO"/>
+      <sr word="EL"/>
+      <sr word="CURSOR">
+        <i>19</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="LA"/>
+      <sr word="CAJA"/>
+      <sr word="DE"/>
+      <sr word="TEXTO"/>
+      <sr word="EN"/>
+      <sr word="LA"/>
+      <sr word="POSICI&#xF3;N"/>
+      <sr word="DONDE"/>
+      <sr word="QUIERA"/>
+      <sr word="INSERTAR"/>
+      <sr word="LA"/>
+      <sr word="IMAGEN"/>
+      <sr word="USE">
+        <i>19</i>
+      </sr>
       <sr word="LA"/>
       <sr word="OPCI&#xF3;N"/>
+      <sr word="DE"/>
+      <sr word="MENU"/>
       <sr word="QUOT"/>
       <sr word="A&#xF1;ADIR"/>
       <sr word="UNA"/>
       <sr word="IMAGEN"/>
       <sr word="QUOT"/>
-      <sr word="CAMBIA"/>
+      <sr word="Y"/>
+      <sr word="VER&#xE1;"/>
+      <sr word="QUE"/>
       <sr word="EL"/>
       <sr word="FORMULARIO"/>
-      <sr word="QUOT"/>
-      <sr word="EDITE"/>
-      <sr word="EL"/>
-      <sr word="COMENTARIO"/>
-      <sr word="QUOT"/>
+      <sr word="CAMBIA"/>
       <sr word="A&#xF1;ADIENDO"/>
       <sr word="LOS"/>
       <sr word="CAMPOS"/>
@@ -10460,40 +11063,46 @@
       <sr word="NECESARIO"/>
       <sr word="QUOT"/>
       <sr word="ARRASTRAR"/>
-      <sr word="QUOT"/>
-      <sr word="HASTA">
-        <i>20</i>
-      </sr>
-      <sr word="EL"/>
-      <sr word="CAMPO">
-        <i>20</i>
-      </sr>
-      <sr word="QUOT"/>
-      <sr word="DIRECCI&#xF3;N"/>
-      <sr word="IMAGEN"/>
+      <sr word="Y"/>
+      <sr word="SOLTAR"/>
       <sr word="QUOT"/>
       <sr word="EL"/>
       <sr word="FICHERO"/>
       <sr word="DE"/>
       <sr word="LA"/>
       <sr word="IMAGEN"/>
+      <sr word="QUE"/>
+      <sr word="SE"/>
+      <sr word="QUIERE"/>
+      <sr word="INSERTAR"/>
+      <sr word="HASTA">
+        <i>19</i>
+      </sr>
+      <sr word="EL"/>
+      <sr word="CAMPO">
+        <i>19</i>
+      </sr>
+      <sr word="QUOT"/>
+      <sr word="DIRECCI&#xF3;N"/>
+      <sr word="IMAGEN"/>
+      <sr word="QUOT"/>
       <sr word="AUTOM&#xE1;TICAMENTE"/>
       <sr word="SE"/>
       <sr word="RELLENAN">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="LOS"/>
       <sr word="CAMPOS"/>
       <sr word="QUOT"/>
       <sr word="ANCHO">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="IMAGEN"/>
       <sr word="QUOT"/>
       <sr word="Y"/>
       <sr word="QUOT"/>
       <sr word="ALTO">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="IMAGEN"/>
       <sr word="QUOT"/>
@@ -10501,7 +11110,7 @@
       <sr word="LOS"/>
       <sr word="VALORES"/>
       <sr word="REALES">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="DE"/>
       <sr word="LA"/>
@@ -10509,6 +11118,54 @@
       <sr word="EN"/>
       <sr word="EL"/>
       <sr word="FICHERO"/>
+      <sr word="PUEDE"/>
+      <sr word="QUE"/>
+      <sr word="LA"/>
+      <sr word="IMAGEN"/>
+      <sr word="TENGA"/>
+      <sr word="UNA"/>
+      <sr word="DIMENSIONES">
+        <i>19</i>
+      </sr>
+      <sr word="QUE"/>
+      <sr word="SON"/>
+      <sr word="LAS"/>
+      <sr word="ADECUADAS">
+        <i>19</i>
+      </sr>
+      <sr word="PARA"/>
+      <sr word="VISUALIZAR"/>
+      <sr word="EN"/>
+      <sr word="EL"/>
+      <sr word="COMENTARIO"/>
+      <sr word="PUEDE"/>
+      <sr word="CAMBIAR"/>
+      <sr word="EL"/>
+      <sr word="TAMA&#xF1;O"/>
+      <sr word="CON"/>
+      <sr word="EL"/>
+      <sr word="QUE"/>
+      <sr word="SE"/>
+      <sr word="PRESENTA"/>
+      <sr word="CAMBIANDO"/>
+      <sr word="EL"/>
+      <sr word="VALOR">
+        <i>19</i>
+      </sr>
+      <sr word="DE"/>
+      <sr word="LAS"/>
+      <sr word="CAJAS"/>
+      <sr word="DE"/>
+      <sr word="TEXTO"/>
+      <sr word="QUOT"/>
+      <sr word="ANCHO"/>
+      <sr word="IMAGEN"/>
+      <sr word="QUOT"/>
+      <sr word="Y"/>
+      <sr word="QUOT"/>
+      <sr word="ALTO"/>
+      <sr word="IMAGEN"/>
+      <sr word="QUOT"/>
       <sr word="SI"/>
       <sr word="SE"/>
       <sr word="MANTIENE"/>
@@ -10517,11 +11174,11 @@
       <sr word="QUOT"/>
       <sr word="MANTENER"/>
       <sr word="PROPORCIONES">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="MARCADA">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="SI"/>
       <sr word="SE"/>
@@ -10534,7 +11191,7 @@
       <sr word="SE"/>
       <sr word="MODIFICA"/>
       <sr word="CORRESPONDIENTEMENTE">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="ALTO"/>
@@ -10544,7 +11201,7 @@
       <sr word="MANTENER"/>
       <sr word="EL"/>
       <sr word="FACTOR">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="DE"/>
       <sr word="FORMA"/>
@@ -10554,7 +11211,7 @@
       <sr word="SE"/>
       <sr word="PUEDE"/>
       <sr word="ADAPTAR">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="EL"/>
       <sr word="TAMA&#xF1;O"/>
@@ -10569,7 +11226,7 @@
       <sr word="COMENTARIO"/>
       <sr word="LAS"/>
       <sr word="MEDIDAS">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="DE"/>
       <sr word="LA"/>
@@ -10578,21 +11235,21 @@
       <sr word="EN"/>
       <sr word="QUOT"/>
       <sr word="PIXELS">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="ES"/>
       <sr word="NECESARIO"/>
       <sr word="TAMBI&#xE9;N"/>
       <sr word="RELLENAR">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="EL"/>
       <sr word="CAMPO"/>
       <sr word="QUOT"/>
       <sr word="TEXTO"/>
       <sr word="ALTERNATIVO">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="QUOT"/>
       <sr word="SE"/>
@@ -10607,7 +11264,7 @@
       <sr word="TEXTO"/>
       <sr word="MODIFICADO"/>
       <sr word="APAREZCA">
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="EN"/>
       <sr word="EL"/>
@@ -10642,7 +11299,7 @@
       <sr word="SIGUIENTES"/>
       <sr word="IM&#xE1;GENES"/>
       <sr word="ABRIR&#xC1;">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="ACCI&#xD3;N">
         <i>2</i>
@@ -10651,10 +11308,10 @@
         <i>14</i>
       </sr>
       <sr word="ADEM&#xC1;S">
-        <i>21</i>
+        <i>20</i>
         <i>4</i>
         <i>6</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="AGRADECER&#xC1;">
         <i>2</i>
@@ -10670,24 +11327,24 @@
         <i>2</i>
       </sr>
       <sr word="A&#xD1;ADE">
-        <i>11</i>
-        <i>18</i>
+        <i>9</i>
+        <i>17</i>
         <i>28</i>
       </sr>
       <sr word="A&#xD1;ADIENDO">
-        <i>9</i>
-        <i>20</i>
-        <i>27</i>
+        <i>10</i>
+        <i>19</i>
+        <i>26</i>
       </sr>
       <sr word="A&#xD1;ADIR">
-        <i>11</i>
-        <i>16</i>
-        <i>28</i>
-        <i>20</i>
+        <i>9</i>
         <i>27</i>
-        <i>17</i>
-        <i>6</i>
+        <i>28</i>
         <i>19</i>
+        <i>26</i>
+        <i>16</i>
+        <i>6</i>
+        <i>18</i>
         <i>30</i>
         <i>1</i>
         <i>7</i>
@@ -10697,12 +11354,12 @@
         <i>2</i>
       </sr>
       <sr word="AN&#xC1;LISIS">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="APARECER&#xC1;">
+        <i>10</i>
         <i>9</i>
-        <i>11</i>
-        <i>16</i>
+        <i>27</i>
         <i>28</i>
         <i>0</i>
         <i>6</i>
@@ -10714,33 +11371,34 @@
         <i>3</i>
       </sr>
       <sr word="APARICI&#xD3;N">
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="APLICACI&#xD3;N">
         <i>15</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
         <i>12</i>
+        <i>27</i>
         <i>16</i>
-        <i>17</i>
         <i>6</i>
         <i>1</i>
         <i>2</i>
-        <i>22</i>
-        <i>10</i>
+        <i>21</i>
+        <i>11</i>
       </sr>
       <sr word="APROXIMACI&#xD3;N">
         <i>4</i>
       </sr>
       <sr word="AQU&#xCD;">
+        <i>10</i>
         <i>9</i>
-        <i>24</i>
+        <i>23</i>
         <i>7</i>
         <i>2</i>
       </sr>
       <sr word="&#xC1;RBOL">
         <i>33</i>
-        <i>21</i>
+        <i>20</i>
         <i>2</i>
       </sr>
       <sr word="AS&#xCD;">
@@ -10751,33 +11409,35 @@
         <i>3</i>
       </sr>
       <sr word="AUTOM&#xC1;TICAMENTE">
-        <i>25</i>
-        <i>20</i>
+        <i>24</i>
+        <i>19</i>
       </sr>
       <sr word="BOT&#xD3;N">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>12</i>
+        <i>27</i>
         <i>28</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
-        <i>19</i>
+        <i>18</i>
         <i>1</i>
         <i>7</i>
       </sr>
       <sr word="B&#xDA;SQUEDA">
         <i>15</i>
-        <i>21</i>
+        <i>20</i>
         <i>7</i>
         <i>2</i>
       </sr>
       <sr word="B&#xDA;SQUEDAS">
         <i>15</i>
         <i>5</i>
-        <i>21</i>
+        <i>20</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
+        <i>14</i>
       </sr>
       <sr word="C&#xC1;LCULO">
         <i>4</i>
@@ -10790,12 +11450,13 @@
         <i>2</i>
       </sr>
       <sr word="CAR&#xC1;CTER">
-        <i>24</i>
+        <i>23</i>
         <i>6</i>
         <i>14</i>
       </sr>
       <sr word="CLASIFICACI&#xD3;N">
         <i>4</i>
+        <i>7</i>
       </sr>
       <sr word="C&#xD3;MO">
         <i>2</i>
@@ -10812,21 +11473,21 @@
       <sr word="COM&#xDA;N">
         <i>15</i>
         <i>4</i>
-        <i>25</i>
+        <i>24</i>
         <i>13</i>
       </sr>
       <sr word="CONFIGURACI&#xD3;N">
         <i>8</i>
         <i>5</i>
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
         <i>29</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="CONSIDERACI&#xD3;N">
         <i>33</i>
@@ -10836,26 +11497,30 @@
       </sr>
       <sr word="CONTINUACI&#xD3;N">
         <i>8</i>
-        <i>25</i>
+        <i>12</i>
+        <i>24</i>
         <i>29</i>
       </sr>
       <sr word="COPIAR&#xC1;">
         <i>28</i>
       </sr>
       <sr word="CREACI&#xD3;N">
-        <i>9</i>
-        <i>11</i>
-        <i>12</i>
-        <i>18</i>
-        <i>2</i>
         <i>10</i>
+        <i>9</i>
+        <i>12</i>
+        <i>17</i>
+        <i>2</i>
+        <i>11</i>
       </sr>
       <sr word="DEBER&#xC1;">
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>27</i>
       </sr>
       <sr word="DEFINICI&#xD3;N">
         <i>29</i>
+      </sr>
+      <sr word="DEJAR&#xC1;">
+        <i>12</i>
       </sr>
       <sr word="DEJ&#xD3;">
         <i>3</i>
@@ -10863,30 +11528,29 @@
       <sr word="DESCRIPCI&#xD3;N">
         <i>8</i>
         <i>31</i>
-        <i>9</i>
-        <i>23</i>
+        <i>10</i>
+        <i>22</i>
         <i>14</i>
       </sr>
       <sr word="DESPU&#xC9;S">
-        <i>22</i>
-        <i>10</i>
+        <i>21</i>
+        <i>11</i>
       </sr>
       <sr word="DIRECCI&#xD3;N">
+        <i>19</i>
         <i>16</i>
-        <i>20</i>
-        <i>17</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="DOCUMENTACI&#xD3;N">
         <i>2</i>
       </sr>
       <sr word="EDICI&#xD3;N">
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
         <i>36</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>24</i>
+        <i>23</i>
         <i>0</i>
         <i>29</i>
         <i>1</i>
@@ -10895,12 +11559,12 @@
       <sr word="EJECUCI&#xD3;N">
         <i>5</i>
         <i>35</i>
-        <i>9</i>
-        <i>17</i>
+        <i>10</i>
+        <i>16</i>
         <i>29</i>
         <i>1</i>
         <i>2</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="EJECUTAR&#xC1;">
         <i>1</i>
@@ -10908,7 +11572,7 @@
       </sr>
       <sr word="&#xC9;L">
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="ELECCI&#xD3;N">
         <i>32</i>
@@ -10916,11 +11580,14 @@
         <i>2</i>
       </sr>
       <sr word="ELIMINACI&#xD3;N">
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
       </sr>
       <sr word="ENCONTRAR&#xC1;">
         <i>6</i>
+      </sr>
+      <sr word="EP&#xCD;GRAFE">
+        <i>12</i>
       </sr>
       <sr word="ESPA&#xD1;OLA">
         <i>2</i>
@@ -10938,15 +11605,15 @@
       <sr word="EST&#xC1;">
         <i>8</i>
         <i>15</i>
-        <i>21</i>
-        <i>11</i>
+        <i>20</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
         <i>6</i>
         <i>29</i>
         <i>2</i>
         <i>13</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="EST&#xC1;N">
         <i>28</i>
@@ -10957,31 +11624,33 @@
         <i>2</i>
       </sr>
       <sr word="EST&#xC9;">
+        <i>12</i>
         <i>2</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="&#xC9;STE">
-        <i>11</i>
+        <i>9</i>
       </sr>
       <sr word="&#xC9;XITO">
         <i>1</i>
       </sr>
       <sr word="EXPLORACI&#xD3;N">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="EXPRESI&#xD3;N">
         <i>14</i>
       </sr>
       <sr word="EXTENSI&#xD3;N">
+        <i>12</i>
         <i>1</i>
         <i>3</i>
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="F&#xC1;CIL">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="F&#xC1;CILMENTE">
-        <i>18</i>
+        <i>17</i>
         <i>2</i>
       </sr>
       <sr word="FICCI&#xD3;N">
@@ -11017,34 +11686,38 @@
         <i>2</i>
       </sr>
       <sr word="IM&#xC1;GENES">
-        <i>24</i>
-        <i>20</i>
-        <i>1</i>
+        <i>23</i>
+        <i>19</i>
         <i>22</i>
+        <i>1</i>
+        <i>21</i>
       </sr>
       <sr word="INDIC&#xC1;NDOLE">
-        <i>17</i>
+        <i>16</i>
       </sr>
       <sr word="INFORMACI&#xD3;N">
         <i>36</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="INSERCI&#xD3;N">
-        <i>24</i>
+        <i>23</i>
       </sr>
       <sr word="INSTALACI&#xD3;N">
         <i>3</i>
       </sr>
       <sr word="INSTANT&#xC1;NEA">
-        <i>22</i>
+        <i>21</i>
+      </sr>
+      <sr word="INTERPRETACI&#xD3;N">
+        <i>13</i>
       </sr>
       <sr word="INVOCACI&#xD3;N">
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
       </sr>
       <sr word="IT&#xC1;LICA">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="JERARQU&#xCD;A">
         <i>14</i>
@@ -11058,7 +11731,7 @@
       </sr>
       <sr word="LOCALIZACI&#xD3;N">
         <i>15</i>
-        <i>16</i>
+        <i>27</i>
         <i>6</i>
         <i>7</i>
         <i>13</i>
@@ -11068,36 +11741,33 @@
       </sr>
       <sr word="M&#xC1;S">
         <i>8</i>
-        <i>11</i>
+        <i>9</i>
         <i>28</i>
-        <i>24</i>
+        <i>23</i>
         <i>2</i>
         <i>14</i>
       </sr>
       <sr word="MEN&#xDA;">
-        <i>9</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>28</i>
-        <i>24</i>
-        <i>26</i>
+        <i>23</i>
+        <i>25</i>
         <i>0</i>
         <i>6</i>
         <i>1</i>
         <i>2</i>
       </sr>
       <sr word="MEN&#xDA;S">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="M&#xC9;TODO">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="M&#xC9;TODOS">
         <i>2</i>
-      </sr>
-      <sr word="MODIFICACI&#xD3;N">
-        <i>12</i>
       </sr>
       <sr word="MOVER&#xC1;">
         <i>12</i>
@@ -11110,34 +11780,36 @@
         <i>0</i>
       </sr>
       <sr word="N&#xDA;MERO">
-        <i>17</i>
+        <i>16</i>
         <i>6</i>
       </sr>
       <sr word="OPCI&#xD3;N">
         <i>8</i>
         <i>33</i>
-        <i>21</i>
-        <i>9</i>
+        <i>20</i>
+        <i>10</i>
         <i>32</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>18</i>
-        <i>16</i>
-        <i>28</i>
-        <i>20</i>
-        <i>27</i>
-        <i>0</i>
         <i>17</i>
+        <i>27</i>
+        <i>28</i>
+        <i>24</i>
+        <i>25</i>
+        <i>19</i>
+        <i>26</i>
+        <i>0</i>
+        <i>16</i>
         <i>6</i>
         <i>29</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="OPERACI&#xD3;N">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="ORGANIZACI&#xD3;N">
         <i>2</i>
@@ -11155,23 +11827,24 @@
       <sr word="PAR&#xC1;METROS">
         <i>15</i>
         <i>12</i>
-        <i>16</i>
-        <i>20</i>
         <i>27</i>
-        <i>17</i>
+        <i>19</i>
+        <i>26</i>
+        <i>16</i>
         <i>6</i>
         <i>1</i>
-        <i>22</i>
+        <i>2</i>
+        <i>21</i>
       </sr>
       <sr word="P&#xC1;RRAFO">
+        <i>23</i>
         <i>24</i>
         <i>25</i>
-        <i>26</i>
         <i>2</i>
       </sr>
       <sr word="PEDIR&#xC1;">
-        <i>9</i>
-        <i>16</i>
+        <i>10</i>
+        <i>27</i>
       </sr>
       <sr word="PERMITIR&#xC1;">
         <i>6</i>
@@ -11180,8 +11853,11 @@
         <i>7</i>
       </sr>
       <sr word="PODR&#xC1;">
-        <i>9</i>
+        <i>10</i>
         <i>3</i>
+      </sr>
+      <sr word="POSICI&#xD3;N">
+        <i>19</i>
       </sr>
       <sr word="PR&#xC1;CTICA">
         <i>4</i>
@@ -11189,15 +11865,15 @@
       <sr word="PRESENTACI&#xD3;N">
         <i>8</i>
         <i>5</i>
-        <i>21</i>
         <i>20</i>
-        <i>22</i>
+        <i>19</i>
+        <i>21</i>
       </sr>
       <sr word="PRESENTAR&#xC1;">
-        <i>9</i>
-        <i>11</i>
-        <i>29</i>
         <i>10</i>
+        <i>9</i>
+        <i>29</i>
+        <i>11</i>
       </sr>
       <sr word="PRESENTAR&#xC1;N">
         <i>1</i>
@@ -11209,35 +11885,36 @@
         <i>2</i>
       </sr>
       <sr word="PROVOCAR&#xC1;">
-        <i>19</i>
+        <i>18</i>
       </sr>
       <sr word="QU&#xC9;">
         <i>15</i>
       </sr>
       <sr word="QUEDAR&#xC1;">
-        <i>25</i>
+        <i>24</i>
       </sr>
       <sr word="R&#xC1;PIDAMENTE">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="R&#xC1;PIDO">
         <i>15</i>
       </sr>
       <sr word="RAT&#xD3;N">
         <i>8</i>
-        <i>11</i>
-        <i>16</i>
+        <i>9</i>
+        <i>12</i>
+        <i>27</i>
         <i>28</i>
         <i>0</i>
         <i>6</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
-        <i>22</i>
+        <i>21</i>
         <i>3</i>
       </sr>
       <sr word="RAZ&#xD3;N">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="RECLAMACI&#xD3;N">
         <i>4</i>
@@ -11245,39 +11922,40 @@
         <i>13</i>
       </sr>
       <sr word="RECUPERACI&#xD3;N">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="SEG&#xDA;N">
-        <i>9</i>
+        <i>10</i>
       </sr>
       <sr word="SELECCI&#xD3;N">
-        <i>10</i>
+        <i>11</i>
       </sr>
       <sr word="SER&#xC1;N">
         <i>2</i>
       </sr>
       <sr word="SU&#xC9;LTELO">
-        <i>16</i>
+        <i>27</i>
       </sr>
       <sr word="TAMA&#xD1;O">
         <i>12</i>
-        <i>20</i>
+        <i>19</i>
       </sr>
       <sr word="TAMA&#xD1;OS">
-        <i>22</i>
+        <i>21</i>
       </sr>
       <sr word="TAMBI&#xC9;N">
         <i>15</i>
-        <i>11</i>
+        <i>9</i>
         <i>12</i>
-        <i>16</i>
-        <i>20</i>
+        <i>27</i>
+        <i>19</i>
         <i>0</i>
-        <i>17</i>
+        <i>16</i>
         <i>1</i>
         <i>2</i>
-        <i>22</i>
-        <i>10</i>
+        <i>13</i>
+        <i>21</i>
+        <i>11</i>
       </sr>
       <sr word="TAXONOM&#xCD;AS">
         <i>15</i>
@@ -11293,25 +11971,26 @@
         <i>15</i>
       </sr>
       <sr word="T&#xCD;TULO">
-        <i>21</i>
-        <i>11</i>
+        <i>20</i>
+        <i>9</i>
         <i>12</i>
         <i>4</i>
-        <i>16</i>
+        <i>27</i>
         <i>2</i>
       </sr>
       <sr word="T&#xCD;TULOS">
-        <i>21</i>
+        <i>20</i>
       </sr>
       <sr word="TODAV&#xCD;A">
         <i>29</i>
       </sr>
       <sr word="TRAV&#xC9;S">
         <i>15</i>
-        <i>11</i>
+        <i>9</i>
+        <i>12</i>
         <i>4</i>
-        <i>18</i>
         <i>17</i>
+        <i>16</i>
         <i>1</i>
         <i>7</i>
         <i>2</i>
@@ -11319,7 +11998,7 @@
       </sr>
       <sr word="UBICACI&#xD3;N">
         <i>12</i>
-        <i>17</i>
+        <i>16</i>
         <i>1</i>
         <i>2</i>
       </sr>
@@ -11333,11 +12012,15 @@
         <i>2</i>
       </sr>
       <sr word="VAC&#xCD;O">
-        <i>9</i>
+        <i>10</i>
+      </sr>
+      <sr word="V&#xC1;LIDA">
+        <i>27</i>
       </sr>
       <sr word="VER&#xC1;">
         <i>28</i>
-        <i>25</i>
+        <i>24</i>
+        <i>19</i>
         <i>3</i>
       </sr>
       <sr word="VISUALIZACI&#xD3;N">
