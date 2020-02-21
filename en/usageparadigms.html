@@ -1,402 +1,135 @@
-﻿<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="description" content="">
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="generator" content="Helpinator">
+<title>Usage paradigms</title>
+<link rel="stylesheet" type="text/css" href="default.css" />
 
-<meta name="docsearch:language" content="en">
+<link rel="stylesheet" href="globalstyles.css" type="text/css" media="screen" /><script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery.highlight.js"></script>
+<script type="text/javascript" src="highlight.js"></script>	<script type="text/javascript"><!--
+		var sTopicId = top.location.href.substring(top.location.href.lastIndexOf("/") + 1, top.location.href.length);
+		if (top.frames.length == 0)
+			top.location.href = "index.html?" + sTopicId
+		else if (top && top.FrameTOC && top.FrameTOC.SelectTocItem)
+			top.FrameTOC.SelectTocItem(sTopicId);
+	</script>
+</head>
 
-<title>Usage paradigms | DesktopOrganizer</title>
+<body>
+<div id="container">
 
-<!-- Bootstrap core CSS -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<!-- Documentation extras -->
+	<table id="header" cellspacing="0" bgcolor="#6FA7D1" >
+  <tr>
+		<td width="74">
+                        <div id="logo">
+			<img src="help.png"  width="64" height="64" alt="help" />
+                        </div>
+		</td>
 
-<link href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" rel="stylesheet">
-
-
-<link href="css/docs.min.css" rel="stylesheet">
-<link href="css/helpinator.css" rel="stylesheet">
-
-      
-      	
-
-  </head>
-  <body>
-    <a class="skippy sr-only sr-only-focusable" href="#content">
-  <span class="skippy-text">Skip to main content</span>
-</a>
-
-
-    <header class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
-		<a class="navbar-brand" href="#">DesktopOrganizer</a>
-	</header>
-
-
-    <div class="container-fluid">
-      <div class="row flex-xl-nowrap">
-        <div class="col-12 col-md-3 col-xl-2 bd-sidebar">
-			<form class="bd-search d-flex align-items-center">
-				<input type="search" class="form-control" id="search-input" placeholder="Search..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3">
-				<button class="btn btn-link bd-search-docs-toggle d-md-none p-0 ml-3" type="button" data-toggle="collapse" data-target="#bd-docs-nav" aria-controls="bd-docs-nav" aria-expanded="false" aria-label="Toggle docs navigation"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" role="img" focusable="false"><title>Menu</title><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"/></svg></button>
-			</form>
-
-			<nav class="collapse bd-links" id="bd-docs-nav">
-				<div class="bd-toc-item">
-<a class="bd-toc-link" href="userinterface.html">Description of the User Interface</a>
-</div>
-<div class="bd-toc-item">
-<a class="bd-toc-link" href="support.html">Objectives of this application</a>
-<ul class="nav bd-sidenav">
-<li><a href="documentacces.html">To access documents through significative names</a></li>
-<li><a href="accessapplications.html">To execute applications with particular parameters through significative names</a></li>
-<li><a href="groupingdocumentsapplications.html">To group documents and applications with functional criteria</a></li>
-<li><a href="annotationstaget.html">To keep annotations of documents and applications</a></li>
-<li><a href="tagsaccess.html">Access to documents through tags</a></li>
-</ul>
-</div>
-<div class="bd-toc-item">
-<a class="bd-toc-link" href="installation.html">Installation</a>
-</div>
-<div class="bd-toc-item">
-<a class="bd-toc-link" href="userguide.html">User's Guide</a>
-<ul class="nav bd-sidenav">
-<li><a href="execution.html">Execution of the application</a></li>
-<li><a href="availableviews.html">Available views</a></li>
-<li><a href="standardview.html">Standard view</a></li>
-<li><a href="tagtreeview.html">Tag Tree View</a></li>
-<li><a href="searchview.html">Search View</a></li>
-<li><a href="bylastexecutiondateview.html">By Last Execution Date View</a></li>
-<li><a href="creationconffile.html">Creation of a configuration file</a></li>
-<li><a href="editorselection.html">Selection of the editor</a></li>
-<li><a href="editorconffile.html">Edition of a configuration file</a></li>
-<li><a href="groupcrud.html">Groups: create, edit, delete</a></li>
-<li><a href="optionscrud.html">Options: create, edit, delete</a></li>
-<li><a href="createoption.html">Creating options</a></li>
-<li><a href="dragdropfile.html">Drag &amp; drop a file</a></li>
-<li><a href="addoptionmenu.html">&quot;Add Option&quot; menu</a></li>
-<li><a href="commentedition.html">Editing &quot;Comments&quot;</a></li>
-<li><a href="commentinsertparagraph.html">Insert a new paragraph</a></li>
-<li><a href="commentchangefont.html">Change Font: bold, italic, underscore</a></li>
-<li><a href="commentinsertimage.html">Insert an image</a></li>
-<li><a href="commenthyperlink.html">Insert a hyperlink</a></li>
-<li><a href="commenthtml.html">HTML elements supported</a></li>
-<li><a href="editiontags.html">Editing &quot;Tags&quot; in Options</a></li>
-<li><a href="advancesubjects.html">Advanced subjects</a></li>
-<li><a href="commandparameters.html">Adding parameters to a Command</a></li>
-<li><a href="combinededitor.html">Combined editor for Groups and Options</a></li>
-<li><a href="combinededitorgroup.html">Groups: create, edit, delete</a></li>
-<li><a href="combinedoptioncrud.html">Options: create, edit, delete</a></li>
-</ul>
-</div>
-<div class="bd-toc-item">
-<a class="bd-toc-link" href="usescases.html">Use cases</a>
-<ul class="nav bd-sidenav">
-<li><a href="executeappparameters.html">Executing applications with parameters</a></li>
-<li><a href="photoalbum.html">Photo album</a></li>
-</ul>
-</div>
-<div class="bd-toc-item active">
-<a class="bd-toc-link" href="usageparadigms.html">Usage paradigms</a>
-</div>
-
-			</nav>
-
-        </div>
-
-        
-      
-
-        <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
-		  <h1 class="bd-title" id="content">Usage paradigms</h1>
-          <p>
-<span>The </span> <span style="font-weight: bold;color: #000000;">Desktop Organizer</span> <span> can be used with two documentation organization paradigms.</span>
-</p>
-<p>
-<span style="color: #0033CC;background-color: #99FF99;">Paradigm of the Librarian</span>
-</p>
-<p>
-<span>When a book arrives at a library, the librarian has to do at least two things:</span>
-</p>
-<p>
-
-</p>
-<p>
-<ol>
-<li>
-<p>
-<span>Decide </span> <span style="color: #000000;">where</span> <span> it is going to be located (in which shelf).</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>Make</span> <span style="color: #000000;"> one or more descriptive cards</span> <span> that will be used by visitors to the library to locate it.</span>
-</p>
-
-
-</li>
+		<td>                       
+			     <h1>Usage paradigms</h1>                     
+		</td>
+		
+		<td width="74">
+			<div id="navprev">
+				<a href="photoalbum.html">
+				<img src="prevtopic.png" width="32" height="32" alt="previous" />
+				</a>
+			</div>
+			<div id="navnext">
+				
+			</div>
+			
+			
+			
+			
+		</td>
+		
+	</tr>	
+	</table>
+		
+	
+	
+	<div id="content">
+	
+		
+	
+		<p>The <span class=rvts1>Desktop Organizer</span> can be used with two documentation organization paradigms.</p>
+<p><span class=rvts7>Paradigm of the Librarian</span></p>
+<p>When a book arrives at a library, the librarian has to do at least two things:</p>
+<ol style="text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: decimal;">
+<li value=1 style="margin-left: 0px; text-indent: 0px" class=rvps3>Decide <span class=rvts2>where</span> it is going to be located (in which shelf).</li>
+<li value=2 style="margin-left: 0px; text-indent: 0px" class=rvps3>Make<span class=rvts2> one or more descriptive cards</span> that will be used by visitors to the library to locate it.</li>
 </ol>
-
-</p>
-<p>
-<span>Action 1) may be conditioned by various physical factors, and also by the spirit of the library itself. For example, the location can be decided by the subject of the book, or type; and within this location alphabetically by surname of the author (or authors).</span>
-</p>
-<p>
-<span>The creation of the descriptive cards may contemplate many other aspects, to facilitate the choice of the book by a potential interested visitor. The concepts here are:</span>
-</p>
-<p>
-
-</p>
-<p>
-<ul>
-<li>
-<p>
-<span>Author or authors,</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>Title,</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>The theme or themes of the book,</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>The type of document (textbook, essay, novel, historical novel, treaty, international agreement, report, etc.)</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>The book publishing company,</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>The name of the particular edition of that book,</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>and many others.</span>
-</p>
-
-
-</li>
+<p>Action 1) may be conditioned by various physical factors, and also by the spirit of the library itself. For example, the location can be decided by the subject of the book, or type; and within this location alphabetically by surname of the author (or authors).</p>
+<p>The creation of the descriptive cards may contemplate many other aspects, to facilitate the choice of the book by a potential interested visitor. The concepts here are:</p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: circle;">
+<li style="margin-left: 0px; text-indent: 0px">Author or authors,</li>
+<li style="margin-left: 0px; text-indent: 0px">Title,</li>
+<li style="margin-left: 0px; text-indent: 0px">The theme or themes of the book,</li>
+<li style="margin-left: 0px; text-indent: 0px">The type of document (textbook, essay, novel, historical novel, treaty, international agreement, report, etc.)</li>
+<li style="margin-left: 0px; text-indent: 0px">The book publishing company,</li>
+<li style="margin-left: 0px; text-indent: 0px">The name of the particular edition of that book,</li>
+<li style="margin-left: 0px; text-indent: 0px">and many others.</li>
 </ul>
-
-</p>
-<p>
-<span style="color: #0033CC;background-color: #99FF99;">Reader's paradigm</span>
-</p>
-<p>
-<span>A reader invests some effort in reading a certain book or document, and as a result he/she take some decisions: for example, he/she may discard it (not liked it, or does not refer to something that interests him/her), or he/she may want to remember it as a reference, or may take as reference for a particular project. In all cases, he/she may decide </span> <span style="font-weight: bold;color: #000000;">to write a note</span> <span> about important aspects of his/her reading, </span> <span style="color: #000000;">at that time</span> <span>. A photo in page 23, a graphic in page 74, a phrase in page 15, etc. You may want to remember some aspects of it (the photo on page 23, the graphic on page 74, the theory set out in chapter 3, etc.)</span>
-</p>
-<p>
-<span>The reader may want to have a</span> <span style="font-weight: bold;color: #000000;"> list of readings</span> <span> on a particular topic, and the </span> <span style="color: #000000;">same document may be on more than one of these lists</span> <span>.</span>
-</p>
-<p>
-<span>In all these cases, the reader would appreciate having a tool that facilitates:</span>
-</p>
-<p>
-
-</p>
-<p>
-<ul>
-<li>
-<p>
-<span>taking notes on the document/book.</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>storing these notes in ways that ease their recovery.</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>associate the notes to the document. </span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>retrieving the document taking into account the notes, or tags.</span>
-</p>
-
-
-</li>
+<p><span class=rvts7>Reader's paradigm</span></p>
+<p>A reader invests some effort in reading a certain book or document, and as a result he/she take some decisions: for example, he/she may discard it (not liked it, or does not refer to something that interests him/her), or he/she may want to remember it as a reference, or may take as reference for a particular project. In all cases, he/she may decide <span class=rvts1>to write a note</span> about important aspects of his/her reading, <span class=rvts2>at that time</span>. A photo in page 23, a graphic in page 74, a phrase in page 15, etc. You may want to remember some aspects of it (the photo on page 23, the graphic on page 74, the theory set out in chapter 3, etc.)</p>
+<p>The reader may want to have a<span class=rvts3> list of readings</span> on a particular topic, and the <span class=rvts2>same document may be on more than one of these lists</span>.</p>
+<p>In all these cases, the reader would appreciate having a tool that facilitates:</p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: circle;">
+<li style="margin-left: 0px; text-indent: 0px" class=rvps3>taking notes on the document/book.</li>
+<li style="margin-left: 0px; text-indent: 0px" class=rvps3>storing these notes in ways that ease their recovery.</li>
+<li style="margin-left: 0px; text-indent: 0px" class=rvps3>associate the notes to the document. </li>
+<li style="margin-left: 0px; text-indent: 0px" class=rvps3>retrieving the document taking into account the notes, or tags.</li>
 </ul>
-
-</p>
-<p>
-<span>The </span> <span style="font-weight: bold;color: #000000;">Desk Organizer</span> <span> has been developed thinking about the needs reflected in these two paradigms: librarian and / or reader.</span>
-</p>
-<p>
-<span>The starting scenario is a </span> <span style="color: #000000;">library</span> <span> (or set of documents in digital form), formed by a set of files of different types, located in a directory structure and subdirectories.</span>
-</p>
-<p>
-<span>The user (librarian and / or reader) must create configuration files, as many as he wishes. The name given to a configuration file can be significant for a particular purpose: b.p., "doctoral thesis", or "History" or "Claim to the Bank", etc. The name given to a configuration file can be significant for a particular purpose: i.e., "doctoral thesis", or "History" or "Claim to the Bank", etc.</span>
-</p>
-<p>
-<span>The program presents an initial View (</span> <a href="standardview.html">Standard View</a> <span>) that corresponds to the concept of "</span> <span style="font-weight: bold;color: #000000;">List of topics</span> <span>", named </span> <span style="font-weight: bold;color: #000000;">Groups</span> <span>, within which there are references to documents or applications, named </span> <span style="font-weight: bold;color: #000000;">Options</span> <span>.</span>
-</p>
-<p>
-<span style="color: #000000;">Groups</span> <span> have two properties "</span> <span style="color: #000000;">Title</span> <span>" and "</span> <span style="color: #000000;">Comment</span> <span>", and the program has several ways to create and edit them. One of these ways is by selecting a file and dragging it to the left panel (see </span> <a href="dragdropfile.html">here</a> <span>).</span>
-</p>
-<p>
-<span>A reference to a document or application (</span> <span style="font-weight: bold;color: #000000;">Option</span> <span> within a </span> <span style="color: #000000;">Group</span> <span>) has the following  properties:</span>
-</p>
-<p>
-
-</p>
-<p>
-<ul>
-<li>
-<p>
-<span>A </span> <span style="font-weight: bold;color: #000000;">Command</span> <span>.</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>A </span> <span style="font-weight: bold;color: #000000;">Comment</span> <span>.</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>A set of </span> <span style="font-weight: bold;color: #000000;">Tags </span> <span>(including none).</span>
-</p>
-
-
-</li>
+<p>The <span class=rvts1>Desk Organizer</span> has been developed thinking about the needs reflected in these two paradigms: librarian and / or reader.</p>
+<p>The starting scenario is a <span class=rvts2>library</span> (or set of documents in digital form), formed by a set of files of different types, located in a directory structure and subdirectories.</p>
+<p class=rvps3>The user (librarian and / or reader) must create configuration files, as many as he wishes. The name given to a configuration file can be significant for a particular purpose: b.p., "doctoral thesis", or "History" or "Claim to the Bank", etc. The name given to a configuration file can be significant for a particular purpose: i.e., "doctoral thesis", or "History" or "Claim to the Bank", etc.</p>
+<p>The program presents an initial View (<a class=rvts100 href="standardview.html">Standard View</a>) that corresponds to the concept of "<span class=rvts1>List of topics</span>", named <span class=rvts3>Groups</span>, within which there are references to documents or applications, named <span class=rvts3>Options</span>.</p>
+<p><span class=rvts2>Groups</span> have two properties "<span class=rvts2>Title</span>" and "<span class=rvts2>Comment</span>", and the program has several ways to create and edit them. One of these ways is by selecting a file and dragging it to the left panel (see <a class=rvts100 href="dragdropfile.html">here</a>).</p>
+<p>A reference to a document or application (<span class=rvts1>Option</span> within a <span class=rvts2>Group</span>) has the following &nbsp;properties:</p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: circle;">
+<li style="margin-left: 0px; text-indent: 0px">A <span class=rvts1>Command</span>.</li>
+<li style="margin-left: 0px; text-indent: 0px">A <span class=rvts1>Comment</span>.</li>
+<li style="margin-left: 0px; text-indent: 0px">A set of <span class=rvts1>Tags </span>(including none).</li>
 </ul>
+<p>The <span class=rvts2>Command</span> may refers to:</p>
+<ul style="text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: circle;"><ul style="text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;">
+<li style="margin-left: 0px; text-indent: 0px">the location of the file associated with the document, or</li>
+<li style="margin-left: 0px; text-indent: 0px">the location of an applications (executable file), with optional parameters, or</li>
+<li style="margin-left: 0px; text-indent: 0px">a URL.</li>
+</ul></ul>
+<p>The set of <span class=rvts2>Tags</span> may be hierarchical (nested). I.e. "novel", "novel:historic", "novel:historic:american". Tag are the tool to achieve<span class=rvts4> classification of a document, regardless its location</span>.</p>
+<p>The program offers several ways to access the documents (Options): in the<a class=rvts100 href="standardview.html"> Standard View</a>, the &nbsp;<span class=rvts2>Groups </span>follows the "<span class=rvts1>List of readings</span>" concept.</p>
+<p>The "<a class=rvts100 href="tagtreeview.html">Tag Tree View</a>" ease the search of documents by exploring the tree of tags.</p>
+<p>The "<a class=rvts100 href="searchview.html">Search View</a>" add the functionality of searching by a <span class=rvts4>combination of free text and/or sets of tags</span>.</p>
+<p>The <a class=rvts100 href="bylastexecutiondateview.html">View by last execution date</a> also helps find documents recently used.</p>
+<p>In all the Views the program presents, <span class=rvts1>immediately</span>, the content of the "<span class=rvts2>Comment</span>" and the "<span class=rvts2>Tags</span>" associated with the Option on which the mouse is set.</p>
+<p>Actual access a the document, URL or execution of the associated application is just a matter of double-clicking on it, regardless the View in use.</p>
+<p>The <span class=rvts2>Comment</span> of an Option or a Group <span class=rvts1>is editable at any time</span>, through a form that is presented with a menu option, very accessible.</p>
+<p>The set of Tags of an Option can also be changed very easy.</p>
+<p>In the <span class=rvts1>Desk Organizer</span>, the priority is the <span class=rvts4>immediacy of access to important information and the ease of making changes</span>.</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p class=rvps3><br></p>
 
-</p>
-<p>
-<span>The </span> <span style="color: #000000;">Command</span> <span> may refers to:</span>
-</p>
-<p>
-
-</p>
-<p>
-<ul>
-<li>
-<p>
-<span>the location of the file associated with the document, or</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>the location of an applications (executable file), with optional parameters, or</span>
-</p>
-
-
-</li>
-<li>
-<p>
-<span>a URL.</span>
-</p>
-
-
-</li>
-</ul>
-
-</p>
-<p>
-<span>The set of </span> <span style="color: #000000;">Tags</span> <span> may be hierarchical (nested). I.e. "novel", "novel:historic", "novel:historic:american". Tag are the tool to achieve</span> <span style="text-decoration: underline;color: #000000;"> classification of a document, regardless its location</span> <span>.</span>
-</p>
-<p>
-<span>The program offers several ways to access the documents (Options): in the</span> <a href="standardview.html"> Standard View</a> <span>, the  </span> <span style="color: #000000;">Groups </span> <span>follows the "</span> <span style="font-weight: bold;color: #000000;">List of readings</span> <span>" concept.</span>
-</p>
-<p>
-<span>The "</span> <a href="tagtreeview.html">Tag Tree View</a> <span>" ease the search of documents by exploring the tree of tags.</span>
-</p>
-<p>
-<span>The "</span> <a href="searchview.html">Search View</a> <span>" add the functionality of searching by a </span> <span style="text-decoration: underline;color: #000000;">combination of free text and/or sets of tags</span> <span>.</span>
-</p>
-<p>
-<span>The </span> <a href="bylastexecutiondateview.html">View by last execution date</a> <span> also helps find documents recently used.</span>
-</p>
-<p>
-<span>In all the Views the program presents, </span> <span style="font-weight: bold;color: #000000;">immediately</span> <span>, the content of the "</span> <span style="color: #000000;">Comment</span> <span>" and the "</span> <span style="color: #000000;">Tags</span> <span>" associated with the Option on which the mouse is set.</span>
-</p>
-<p>
-<span>Actual access a the document, URL or execution of the associated application is just a matter of double-clicking on it, regardless the View in use.</span>
-</p>
-<p>
-<span>The </span> <span style="color: #000000;">Comment</span> <span> of an Option or a Group </span> <span style="font-weight: bold;color: #000000;">is editable at any time</span> <span>, through a form that is presented with a menu option, very accessible.</span>
-</p>
-<p>
-<span>The set of Tags of an Option can also be changed very easy.</span>
-</p>
-<p>
-<span>In the </span> <span style="font-weight: bold;color: #000000;">Desk Organizer</span> <span>, the priority is the </span> <span style="text-decoration: underline;color: #000000;">immediacy of access to important information and the ease of making changes</span> <span>.</span>
-</p>
-<p>
-<span></span>
-</p>
-<p>
-<span></span>
-</p>
-<p>
-<span></span>
-</p>
-<p>
-<span></span>
-</p>
-<p>
-<span></span>
-</p>
-<p>
-<span></span>
-</p>
-<p>
-<span></span>
-</p>
-
-
-        </main>
-      </div>
-    </div>
-
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-	<script src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
-	<script src="js/docs.min.js"></script>
-<script>
-(function(i){"use strict";i(function(){i(".tooltip-demo").tooltip({selector:'[data-toggle="tooltip"]',container:"body"});i('[data-toggle="popover"]').popover();i(".toast").toast({autohide:false}).toast("show");i(".tooltip-test").tooltip();i(".popover-test").popover();i('.bd-example-indeterminate [type="checkbox"]').prop("indeterminate",true);i('.bd-content [href="#"]').click(function(t){t.preventDefault()});i("#exampleModal").on("show.bs.modal",function(t){var e=i(t.relatedTarget);var n=e.data("whatever");var o=i(this);o.find(".modal-title").text("New message to "+n);o.find(".modal-body input").val(n)});i(".bd-toggle-animated-progress").on("click",function(){i(this).siblings(".progress").find(".progress-bar-striped").toggleClass("progress-bar-animated")});i("figure.highlight, div.highlight").each(function(){var t='<div class="bd-clipboard"><button type="button" class="btn-clipboard" title="Copy to clipboard">Copy</button></div>';i(this).before(t);i(".btn-clipboard").tooltip().on("mouseleave",function(){i(this).tooltip("hide")})});var t=new ClipboardJS(".btn-clipboard",{target:function(t){return t.parentNode.nextElementSibling}});t.on("success",function(t){i(t.trigger).attr("title","Copied!").tooltip("_fixTitle").tooltip("show").attr("title","Copy to clipboard").tooltip("_fixTitle");t.clearSelection()});t.on("error",function(t){var e=/Mac/i.test(navigator.userAgent)?"âŒ˜":"Ctrl-";var n="Press "+e+"C to copy";i(t.trigger).attr("title",n).tooltip("_fixTitle").tooltip("show").attr("title","Copy to clipboard").tooltip("_fixTitle")});anchors.options={icon:"#"};anchors.add(".bd-content > h2, .bd-content > h3, .bd-content > h4, .bd-content > h5");i(".bd-content").children("h2, h3, h4, h5").wrapInner('<span class="bd-content-title"></span>');bsCustomFileInput.init()})})(jQuery);(function(){"use strict";function t(){var t=/MSIE ([0-9.]+)/.exec(window.navigator.userAgent);if(t===null){return null}var e=parseInt(t[1],10);var n=Math.floor(e);return n}function e(){var t=new Function("/*@cc_on return @_jscript_version; @*/")();if(typeof t==="undefined"){return 11}if(t<9){return 8}return t}var n=window.navigator.userAgent;if(n.indexOf("Opera")>-1||n.indexOf("Presto")>-1){return}var o=t();if(o===null){return}var i=e();if(o!==i){window.alert("WARNING: You appear to be using IE"+i+" in IE"+o+" emulation mode.\nIE emulation modes can behave significantly differently from ACTUAL older versions of IE.\nPLEASE DON'T FILE BOOTSTRAP BUGS based on testing in IE emulation modes!")}})();(function(){"use strict";if(!window.docsearch){return}var t=document.getElementById("search-input");var e=t.getAttribute("data-docs-version");function o(){var t=window.location;var e=t.origin;if(!e){var n=t.port?":"+t.port:"";e=t.protocol+"//"+t.hostname+n}return e}window.docsearch({apiKey:"",indexName:"",inputSelector:"#search-input",algoliaOptions:{facetFilters:["version:"+e]},transformData:function(t){return t.map(function(t){var e=o();var n=/^https?:\/\/getbootstrap\.com/;t.url=e.match(n)?t.url:t.url.replace(n,"");if(t.anchor==="content"){t.url=t.url.replace(/#content$/,"");t.anchor=null}return t})},debug:false})})();
-</script>
-  </body>
+		<div class="spacer15px"></div>
+		<div id="seealso">Related Topics:<br><a href="usescases.html">Use cases</a><br><a href="photoalbum.html">Photo album</a></div>
+		<div class="spacer15px"></div>
+		
+	</div>
+	
+	<div class="spacer5px"></div>
+	
+	<div id="footer">
+	&copy; 2020 Software Company
+	</div>
+</div>
+</body>
 </html>
-

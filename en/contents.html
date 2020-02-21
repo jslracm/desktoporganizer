@@ -1,0 +1,286 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link type="text/css" href="jqueryui.css" rel="stylesheet" />	
+		<link rel="stylesheet" href="jquery.treeview.css" />
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jqueryui.js"></script>
+		<script type="text/javascript" src="index.js"></script>
+		<script type="text/javascript" src="search.js"></script>
+
+		<script type="text/javascript">
+			$(function() {
+				$("#tabs").tabs();
+			});
+		</script>
+
+		<script src="jquery.treeview.js" type="text/javascript"></script>
+		<script>
+			$(document).ready(function(){
+		
+				$("#contents").treeview({
+					persist: "location",
+					collapsed: true,
+					unique: true
+				});
+
+				$("#index").treeview({
+					persist: "location",
+					collapsed: true,
+					unique: true
+				});
+
+		        });
+
+		function SelectTocItem(sLinkHref)
+		{
+			$(".file a").each(function()
+			{
+				if ($.inArray(sLinkHref + '.htm', this.href) > -1) $(this).css('font-weight', 'bold')
+				else $(this).css('font-weight', '');
+			});
+		}
+
+		</script>
+		<style type="text/css">
+			/*demo page css*/
+			body{ font-size: 70%;}
+		</style>	
+
+</head>
+<body>
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1">Contents</a></li>
+		<li><a href="#tabs-2">Index</a></li>
+		<li><a href="#tabs-3">Search</a></li>
+	</ul>
+	<div id="tabs-1">
+<ul id="contents" class="filetree">
+<li><span class="file"><a href="userinterface.html" target="RightFrame">Description of the User Interface</a></span>
+</li>
+<li><span class="folder"><a href="support.html" target="RightFrame">Objectives of this application</a></span>
+<ul>
+<li><span class="file"><a href="documentacces.html" target="RightFrame">To access documents through significative names</a></span>
+</li>
+<li><span class="file"><a href="accessapplications.html" target="RightFrame">To execute applications with particular parameters through significative names</a></span>
+</li>
+<li><span class="file"><a href="groupingdocumentsapplications.html" target="RightFrame">To group documents and applications with functional criteria</a></span>
+</li>
+<li><span class="file"><a href="annotationstaget.html" target="RightFrame">To keep annotations of documents and applications</a></span>
+</li>
+<li><span class="file"><a href="tagsaccess.html" target="RightFrame">Access to documents through tags</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="file"><a href="installation.html" target="RightFrame">Installation</a></span>
+</li>
+<li><span class="folder"><a href="userguide.html" target="RightFrame">User's Guide</a></span>
+<ul>
+<li><span class="file"><a href="execution.html" target="RightFrame">Execution of the application</a></span>
+</li>
+<li><span class="folder"><a href="availableviews.html" target="RightFrame">Available views</a></span>
+<ul>
+<li><span class="file"><a href="standardview.html" target="RightFrame">Standard view</a></span>
+</li>
+<li><span class="file"><a href="tagtreeview.html" target="RightFrame">Tag Tree View</a></span>
+</li>
+<li><span class="file"><a href="searchview.html" target="RightFrame">Search View</a></span>
+</li>
+<li><span class="file"><a href="bylastexecutiondateview.html" target="RightFrame">By Last Execution Date View</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="creationconffile.html" target="RightFrame">Creation of a configuration file</a></span>
+<ul>
+<li><span class="file"><a href="editorselection.html" target="RightFrame">Selection of the editor</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="editorconffile.html" target="RightFrame">Edition of a configuration file</a></span>
+<ul>
+<li><span class="file"><a href="groupcrud.html" target="RightFrame">Groups: create, edit, delete</a></span>
+</li>
+<li><span class="folder"><a href="optionscrud.html" target="RightFrame">Options: create, edit, delete</a></span>
+<ul>
+<li><span class="folder"><a href="createoption.html" target="RightFrame">Creating options</a></span>
+<ul>
+<li><span class="file"><a href="dragdropfile.html" target="RightFrame">Drag & drop a file</a></span>
+</li>
+<li><span class="file"><a href="addoptionmenu.html" target="RightFrame">"Add Option" menu</a></span>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="commentedition.html" target="RightFrame">Editing "Comments"</a></span>
+<ul>
+<li><span class="file"><a href="commentinsertparagraph.html" target="RightFrame">Insert a new paragraph</a></span>
+</li>
+<li><span class="file"><a href="commentchangefont.html" target="RightFrame">Change Font: bold, italic, underscore</a></span>
+</li>
+<li><span class="file"><a href="commentinsertimage.html" target="RightFrame">Insert an image</a></span>
+</li>
+<li><span class="file"><a href="commenthyperlink.html" target="RightFrame">Insert a hyperlink</a></span>
+</li>
+<li><span class="file"><a href="commenthtml.html" target="RightFrame">HTML elements supported</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="file"><a href="editiontags.html" target="RightFrame">Editing "Tags" in Options</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="advancesubjects.html" target="RightFrame">Advanced subjects</a></span>
+<ul>
+<li><span class="file"><a href="commandparameters.html" target="RightFrame">Adding parameters to a Command</a></span>
+</li>
+<li><span class="folder"><a href="combinededitor.html" target="RightFrame">Combined editor for Groups and Options</a></span>
+<ul>
+<li><span class="file"><a href="combinededitorgroup.html" target="RightFrame">Groups: create, edit, delete</a></span>
+</li>
+<li><span class="file"><a href="combinedoptioncrud.html" target="RightFrame">Options: create, edit, delete</a></span>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+
+</ul>
+</li>
+<li><span class="folder"><a href="usescases.html" target="RightFrame">Use cases</a></span>
+<ul>
+<li><span class="file"><a href="executeappparameters.html" target="RightFrame">Executing applications with parameters</a></span>
+</li>
+<li><span class="file"><a href="photoalbum.html" target="RightFrame">Photo album</a></span>
+</li>
+
+</ul>
+</li>
+<li><span class="file"><a href="usageparadigms.html" target="RightFrame">Usage paradigms</a></span>
+</li>
+
+</li>
+</ul>
+
+	</div>
+	<div id="tabs-2">
+<ul id="index">
+<li><a href="kw-access.html" target="RightFrame">access</a>
+</li>
+<li><a href="advancesubjects.html" target="RightFrame">advanced</a>
+</li>
+<li><a href="annotationstaget.html" target="RightFrame">annotation</a>
+</li>
+<li><a href="kw-application.html" target="RightFrame">application</a>
+</li>
+<li><a href="commandparameters.html" target="RightFrame">command</a>
+</li>
+<li><a href="kw-comment.html" target="RightFrame">comment</a>
+</li>
+<li><a href="kw-configuration.html" target="RightFrame">configuration</a>
+</li>
+<li><a href="support.html" target="RightFrame">configuration file</a>
+</li>
+<li><a href="kw-create.html" target="RightFrame">create</a>
+</li>
+<li><a href="creationconffile.html" target="RightFrame">creation</a>
+</li>
+<li><a href="bylastexecutiondateview.html" target="RightFrame">date</a>
+</li>
+<li><a href="kw-delete.html" target="RightFrame">delete</a>
+</li>
+<li><a href="kw-document.html" target="RightFrame">document</a>
+</li>
+<li><a href="kw-documento.html" target="RightFrame">documento</a>
+</li>
+<li><a href="dragdropfile.html" target="RightFrame">drag & drop</a>
+</li>
+<li><a href="kw-edit.html" target="RightFrame">edit</a>
+</li>
+<li><a href="kw-edite.html" target="RightFrame">edite</a>
+</li>
+<li><a href="editiontags.html" target="RightFrame">edition</a>
+</li>
+<li><a href="kw-editor.html" target="RightFrame">editor</a>
+</li>
+<li><a href="executeappparameters.html" target="RightFrame">execute</a>
+</li>
+<li><a href="kw-execution.html" target="RightFrame">execution</a>
+</li>
+<li><a href="commentchangefont.html" target="RightFrame">font</a>
+</li>
+<li><a href="searchview.html" target="RightFrame">free text</a>
+</li>
+<li><a href="kw-group.html" target="RightFrame">group</a>
+</li>
+<li><a href="userguide.html" target="RightFrame">guide</a>
+</li>
+<li><a href="commenthtml.html" target="RightFrame">html</a>
+</li>
+<li><a href="commenthyperlink.html" target="RightFrame">hyperlink</a>
+</li>
+<li><a href="commentinsertimage.html" target="RightFrame">image</a>
+</li>
+<li><a href="installation.html" target="RightFrame">installation</a>
+</li>
+<li><a href="userinterface.html" target="RightFrame">interface</a>
+</li>
+<li><a href="kw-objetive.html" target="RightFrame">objetive</a>
+</li>
+<li><a href="kw-option.html" target="RightFrame">option</a>
+</li>
+<li><a href="optionscrud.html" target="RightFrame">options</a>
+</li>
+<li><a href="usageparadigms.html" target="RightFrame">paradigm</a>
+</li>
+<li><a href="commentinsertparagraph.html" target="RightFrame">paragraph</a>
+</li>
+<li><a href="kw-parameter.html" target="RightFrame">parameter</a>
+</li>
+<li><a href="searchview.html" target="RightFrame">search</a>
+</li>
+<li><a href="editorselection.html" target="RightFrame">select</a>
+</li>
+<li><a href="standardview.html" target="RightFrame">standard</a>
+</li>
+<li><a href="kw-tag.html" target="RightFrame">tag</a>
+</li>
+<li><a href="support.html" target="RightFrame">taxonomy</a>
+</li>
+<li><a href="kw-usecase.html" target="RightFrame">usecase</a>
+</li>
+<li><a href="kw-user.html" target="RightFrame">user</a>
+</li>
+<li><a href="availableviews.html" target="RightFrame">vew</a>
+</li>
+<li><a href="kw-view.html" target="RightFrame">view</a>
+</li>
+</ul>
+
+	</div>
+	<div id="tabs-3">
+		<form onsubmit="requery();return false">
+			<input id="squery" type="text" name="q" autocomplete="off"/>
+			<input type="button" value=">" onclick="requery()">
+		</form>
+
+		<p>
+		<div id="results">
+		</div>
+
+	</div>
+</div>
+
+</body>
+</html>
